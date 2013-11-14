@@ -1,0 +1,6 @@
+F:\SourceCode\C#\TextFiles\ConcatenateTwoTextFiles\bin\Debug\ConcatenateTwoTextFiles.exe.config
+F:\SourceCode\C#\TextFiles\ConcatenateTwoTextFiles\bin\Debug\ConcatenateTwoTextFiles.exe
+F:\SourceCode\C#\TextFiles\ConcatenateTwoTextFiles\bin\Debug\ConcatenateTwoTextFiles.pdb
+F:\SourceCode\C#\TextFiles\ConcatenateTwoTextFiles\obj\Debug\2.ConcatenateTwoTextFiles.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\TextFiles\ConcatenateTwoTextFiles\obj\Debug\ConcatenateTwoTextFiles.exe
+F:\SourceCode\C#\TextFiles\ConcatenateTwoTextFiles\obj\Debug\ConcatenateTwoTextFiles.pdb

@@ -1,0 +1,6 @@
+F:\SourceCode\C#\StringsAndTextProcessing\JustOneLetterIfRepeating\bin\Debug\JustOneLetterIfRepeating.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\JustOneLetterIfRepeating\bin\Debug\JustOneLetterIfRepeating.exe
+F:\SourceCode\C#\StringsAndTextProcessing\JustOneLetterIfRepeating\bin\Debug\JustOneLetterIfRepeating.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\JustOneLetterIfRepeating\obj\Debug\23.0JustOneLetterIfRepeating.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\StringsAndTextProcessing\JustOneLetterIfRepeating\obj\Debug\JustOneLetterIfRepeating.exe
+F:\SourceCode\C#\StringsAndTextProcessing\JustOneLetterIfRepeating\obj\Debug\JustOneLetterIfRepeating.pdb

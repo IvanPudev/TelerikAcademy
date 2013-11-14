@@ -1,0 +1,3 @@
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\bin\Debug\XamlControls.ClickedItemCollection.exe.config
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\obj\Debug\XamlControls.ClickedItemCollection.exe
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\obj\Debug\XamlControls.ClickedItemCollection.pdb

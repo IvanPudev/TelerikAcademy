@@ -1,0 +1,8 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskFriendsOfPesho\bin\Debug\TaskFriendsOfPesho.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskFriendsOfPesho\obj\Debug\TaskFriendsOfPesho.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskFriendsOfPesho\bin\Debug\TaskFriendsOfPesho.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskFriendsOfPesho\bin\Debug\TaskFriendsOfPesho.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskFriendsOfPesho\bin\Debug\PowerCollections.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskFriendsOfPesho\bin\Debug\PowerCollections.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskFriendsOfPesho\obj\Debug\TaskFriendsOfPesho.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskFriendsOfPesho\obj\Debug\TaskFriendsOfPesho.pdb

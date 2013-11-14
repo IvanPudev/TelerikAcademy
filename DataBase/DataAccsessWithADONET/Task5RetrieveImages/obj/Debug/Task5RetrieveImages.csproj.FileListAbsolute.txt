@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task5RetrieveImages\bin\Debug\Task5RetrieveImages.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task5RetrieveImages\bin\Debug\Task5RetrieveImages.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task5RetrieveImages\bin\Debug\Task5RetrieveImages.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task5RetrieveImages\obj\Debug\Task5RetrieveImages.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task5RetrieveImages\obj\Debug\Task5RetrieveImages.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task5RetrieveImages\obj\Debug\Task5RetrieveImages.pdb

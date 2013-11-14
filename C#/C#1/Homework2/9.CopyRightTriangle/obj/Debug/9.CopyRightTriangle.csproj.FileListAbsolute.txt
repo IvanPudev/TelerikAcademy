@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Homework2\9.CopyRightTriangle\bin\Debug\9.CopyRightTriangle.exe.config
+F:\SourceCode\C#\Homework2\9.CopyRightTriangle\obj\Debug\9.CopyRightTriangle.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Homework2\9.CopyRightTriangle\bin\Debug\9.CopyRightTriangle.exe
+F:\SourceCode\C#\Homework2\9.CopyRightTriangle\bin\Debug\9.CopyRightTriangle.pdb
+F:\SourceCode\C#\Homework2\9.CopyRightTriangle\obj\Debug\9.CopyRightTriangle.exe
+F:\SourceCode\C#\Homework2\9.CopyRightTriangle\obj\Debug\9.CopyRightTriangle.pdb

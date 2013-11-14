@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\Task1TreeManipulation\bin\Debug\Task1TreeManipulation.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\Task1TreeManipulation\bin\Debug\Task1TreeManipulation.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\Task1TreeManipulation\bin\Debug\Task1TreeManipulation.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\Task1TreeManipulation\obj\Debug\Task1TreeManipulation.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\Task1TreeManipulation\obj\Debug\Task1TreeManipulation.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\Task1TreeManipulation\obj\Debug\Task1TreeManipulation.pdb

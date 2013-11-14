@@ -1,0 +1,6 @@
+F:\SourceCode\C#\ExceptionsHendling\OpenAndPrintFileExceptions\bin\Debug\OpenAndPrintFileExceptions.exe.config
+F:\SourceCode\C#\ExceptionsHendling\OpenAndPrintFileExceptions\bin\Debug\OpenAndPrintFileExceptions.exe
+F:\SourceCode\C#\ExceptionsHendling\OpenAndPrintFileExceptions\bin\Debug\OpenAndPrintFileExceptions.pdb
+F:\SourceCode\C#\ExceptionsHendling\OpenAndPrintFileExceptions\obj\Debug\3.OpenAndPrintFileExceptions.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\ExceptionsHendling\OpenAndPrintFileExceptions\obj\Debug\OpenAndPrintFileExceptions.exe
+F:\SourceCode\C#\ExceptionsHendling\OpenAndPrintFileExceptions\obj\Debug\OpenAndPrintFileExceptions.pdb

@@ -1,0 +1,5 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Model\bin\Debug\AlbumsDatabase.Model.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Model\bin\Debug\AlbumsDatabase.Model.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Model\obj\Debug\AlbumsDatabase.Model.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Model\obj\Debug\AlbumsDatabase.Model.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Model\obj\Debug\AlbumsDatabase.Model.pdb

@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Methods\1.HelloName\bin\Debug\1.HelloName.exe.config
+F:\SourceCode\C#\Methods\1.HelloName\bin\Debug\1.HelloName.exe
+F:\SourceCode\C#\Methods\1.HelloName\bin\Debug\1.HelloName.pdb
+F:\SourceCode\C#\Methods\1.HelloName\obj\Debug\1.HelloName.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Methods\1.HelloName\obj\Debug\1.HelloName.exe
+F:\SourceCode\C#\Methods\1.HelloName\obj\Debug\1.HelloName.pdb

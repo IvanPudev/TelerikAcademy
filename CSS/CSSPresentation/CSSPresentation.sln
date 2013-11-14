@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2E5A21EE-9B21-4552-AC77-9AE3B35D4D27}"
+	ProjectSection(SolutionItems) = preProject
+		1.EdwardianScriptPage .html = 1.EdwardianScriptPage .html
+		2. homework.css = 2. homework.css
+		2. homework.html = 2. homework.html
+		3.Div.html = 3.Div.html
+		4.Calculator.html = 4.Calculator.html
+		StyleCalculator.css = StyleCalculator.css
+		StyleDiv.css = StyleDiv.css
+		StyleEdwardianScript.css = StyleEdwardianScript.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

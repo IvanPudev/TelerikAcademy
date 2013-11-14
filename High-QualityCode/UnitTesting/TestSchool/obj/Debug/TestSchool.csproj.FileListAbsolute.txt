@@ -1,0 +1,7 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\UnitTesting\TestSchool\bin\Debug\TestSchool.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\UnitTesting\TestSchool\bin\Debug\TestSchool.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\UnitTesting\TestSchool\bin\Debug\School.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\UnitTesting\TestSchool\bin\Debug\School.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\UnitTesting\TestSchool\obj\Debug\TestSchool.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\UnitTesting\TestSchool\obj\Debug\TestSchool.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\UnitTesting\TestSchool\obj\Debug\TestSchool.pdb

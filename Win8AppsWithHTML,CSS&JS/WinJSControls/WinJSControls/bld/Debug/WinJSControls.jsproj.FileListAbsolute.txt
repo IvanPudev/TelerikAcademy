@@ -1,0 +1,9 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSControls\WinJSControls\bin\Debug\resources.pri
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSControls\WinJSControls\bin\Debug\AppxManifest.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSControls\WinJSControls\bin\Debug\WinJSControls.build.appxrecipe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSControls\WinJSControls\bld\Debug\priconfig.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSControls\WinJSControls\bld\Debug\layout.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSControls\WinJSControls\bld\Debug\resources.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSControls\WinJSControls\bld\Debug\pri.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSControls\WinJSControls\bld\Debug\LanguageQualifiers.txt
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSControls\WinJSControls\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,8 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFramework\Northwind.Data\obj\Debug\Northwind.Data.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFramework\Northwind.Data\bin\Debug\Northwind.Data.dll.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFramework\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFramework\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFramework\Northwind.Data\bin\Debug\EntityFramework.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFramework\Northwind.Data\bin\Debug\EntityFramework.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFramework\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFramework\Northwind.Data\obj\Debug\Northwind.Data.pdb

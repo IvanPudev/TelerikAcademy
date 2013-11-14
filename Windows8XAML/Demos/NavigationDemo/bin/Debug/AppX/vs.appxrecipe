@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MA6INA</Machine>
+    <WindowsUser>zloupotrebitel</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>67B6F45B9A87CE18740023D195456389983FABC6DCF40FFFBFEC33D6B486C8DD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6a95f965-cd94-42bf-804c-0d45e8c809fc_1.0.0.0_neutral__bzr8dh3gcmq2w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6a95f965-cd94-42bf-804c-0d45e8c809fc_bzr8dh3gcmq2w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6a95f965-cd94-42bf-804c-0d45e8c809fc</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=zloupotrebitel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\Demos\NavigationDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-20T12:45:25.038</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\Demos\NavigationDemo\bin\Debug\NavigationDemo.exe">
+      <PackagePath>NavigationDemo.exe</PackagePath>
+      <Modified>2013-09-20T12:45:24.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\Demos\NavigationDemo\bin\Debug\NavigationDemo.pdb">
+      <PackagePath>NavigationDemo.pdb</PackagePath>
+      <Modified>2013-09-20T12:45:24.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\Demos\NavigationDemo\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\Demos\NavigationDemo\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\Demos\NavigationDemo\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\Demos\NavigationDemo\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\Demos\NavigationDemo\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-09-20T12:18:11.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\Demos\NavigationDemo\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-09-20T12:26:44.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\Demos\NavigationDemo\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T13:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\Demos\NavigationDemo\bin\Debug\Pages\HomePage.xaml">
+      <PackagePath>Pages\HomePage.xaml</PackagePath>
+      <Modified>2013-09-20T12:38:42.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\Demos\NavigationDemo\bin\Debug\Pages\TargetPage.xaml">
+      <PackagePath>Pages\TargetPage.xaml</PackagePath>
+      <Modified>2013-09-20T12:44:59.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\Demos\NavigationDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-09-20T12:45:24.953</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

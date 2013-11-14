@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Loops\3.MinAndMaxInSequence\bin\Debug\3.MinAndMaxInSequence.exe.config
+F:\SourceCode\C#\Loops\3.MinAndMaxInSequence\bin\Debug\3.MinAndMaxInSequence.exe
+F:\SourceCode\C#\Loops\3.MinAndMaxInSequence\bin\Debug\3.MinAndMaxInSequence.pdb
+F:\SourceCode\C#\Loops\3.MinAndMaxInSequence\obj\Debug\3.MinAndMaxInSequence.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Loops\3.MinAndMaxInSequence\obj\Debug\3.MinAndMaxInSequence.exe
+F:\SourceCode\C#\Loops\3.MinAndMaxInSequence\obj\Debug\3.MinAndMaxInSequence.pdb

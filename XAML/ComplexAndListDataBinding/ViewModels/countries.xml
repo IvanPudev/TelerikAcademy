@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<countries>
+  <country>
+    <name>Bulgaria</name>
+    <language>Bulgarian</language>
+    <towns>
+      <town>
+        <name>Blagoevgrad</name>
+        <population>80000</population>
+      </town>
+      <town>
+        <name>Sofia</name>
+        <population>1600000</population>
+      </town>
+    </towns>
+  </country>
+  <country>
+    <name>Serbia</name>
+    <language>Serbian</language>
+    <towns>
+      <town>
+        <name>Beograd</name>
+        <population>2000000</population>
+      </town>
+    </towns>
+  </country>
+  <country>
+    <name>Russia</name>
+    <language>Russian</language>
+    <towns>
+      <town>
+        <name>Moskva</name>
+        <population>11500000</population>
+      </town>
+      <town>
+        <name>Saint Petersburg</name>
+        <population>4900000</population>
+      </town>
+      <town>
+        <name>Novosibirsk</name>
+        <population>1500000</population>
+      </town>
+    </towns>
+  </country>
+</countries>

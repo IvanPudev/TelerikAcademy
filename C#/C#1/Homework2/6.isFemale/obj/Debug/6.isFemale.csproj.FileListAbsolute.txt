@@ -1,0 +1,5 @@
+F:\SourceCode\C#\Homework2\6.isFemale\bin\Debug\6.isFemale.exe.config
+F:\SourceCode\C#\Homework2\6.isFemale\bin\Debug\6.isFemale.exe
+F:\SourceCode\C#\Homework2\6.isFemale\bin\Debug\6.isFemale.pdb
+F:\SourceCode\C#\Homework2\6.isFemale\obj\Debug\6.isFemale.exe
+F:\SourceCode\C#\Homework2\6.isFemale\obj\Debug\6.isFemale.pdb

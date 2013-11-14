@@ -1,0 +1,6 @@
+F:\SourceCode\C#\CSharpExam2\Problem3Employees\bin\Debug\Problem3Employees.exe.config
+F:\SourceCode\C#\CSharpExam2\Problem3Employees\obj\Debug\Problem3Employees.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\CSharpExam2\Problem3Employees\bin\Debug\Problem3Employees.exe
+F:\SourceCode\C#\CSharpExam2\Problem3Employees\bin\Debug\Problem3Employees.pdb
+F:\SourceCode\C#\CSharpExam2\Problem3Employees\obj\Debug\Problem3Employees.exe
+F:\SourceCode\C#\CSharpExam2\Problem3Employees\obj\Debug\Problem3Employees.pdb

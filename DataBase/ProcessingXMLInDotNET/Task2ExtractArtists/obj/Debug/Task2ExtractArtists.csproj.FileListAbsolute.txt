@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task2ExtractArtists\bin\Debug\Task2ExtractArtists.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task2ExtractArtists\obj\Debug\Task2ExtractArtists.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task2ExtractArtists\bin\Debug\Task2ExtractArtists.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task2ExtractArtists\bin\Debug\Task2ExtractArtists.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task2ExtractArtists\obj\Debug\Task2ExtractArtists.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task2ExtractArtists\obj\Debug\Task2ExtractArtists.pdb

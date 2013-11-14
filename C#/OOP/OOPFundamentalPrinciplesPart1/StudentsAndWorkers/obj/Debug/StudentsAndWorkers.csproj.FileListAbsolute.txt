@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\OOPFundamentalPrinciplesPart1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe.config
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\OOPFundamentalPrinciplesPart1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\OOPFundamentalPrinciplesPart1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.pdb
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\OOPFundamentalPrinciplesPart1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\OOPFundamentalPrinciplesPart1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.pdb
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\OOPFundamentalPrinciplesPart1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.csprojResolveAssemblyReference.cache

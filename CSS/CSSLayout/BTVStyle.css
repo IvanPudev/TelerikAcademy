@@ -1,0 +1,89 @@
+a.menu_1:link {text-decoration:none;}
+a.menu_1:link {color:#84A9B0;}
+a.menu_1:hover{text-decoration:underline;}
+
+a.news_1:link {text-decoration:none;}
+a.news_1:link {color:#A5AEAE;}
+a.news_1:hover{color:white} 
+
+
+ul, li {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+a{
+	text-decoration:none;
+}
+#div_out {
+	background-color:#1E3741;
+	font-family: arial, san-serif;
+	height: 395px;
+	width:720px;
+	border: 2px solid #224C57;
+	border-radius:5px;
+	position:absolute;
+}
+
+.menu .menu_current {
+	float:left;
+	margin:1px;
+	margin-top:10px;
+	background-color:#4B5F67;
+	color: white;
+	padding:10px;
+}
+
+.menu_1 {
+	float:left;
+	margin:1px;
+	margin-top:10px;
+	background-color:#4B5F67;
+	padding:10px;
+}
+
+.news {
+	height:100%;
+	width:282px;
+	display:block;
+	color:#A5AEAE;
+	position:absolute;
+	margin-top:60px;
+	margin-left:-2px;
+	z-index:1;
+}
+
+.news h1 {
+	padding:10px 20px 10px 12px;
+	margin:0px 0px 0px 0px;
+	font-size: 16px;
+	font-weight: normal;
+	border-top:1px solid #354B54;
+}
+
+#page_title {
+	padding:10px 20px 10px 12px;
+	margin:0px 0px 0px 0px;
+	font-size: 15px;
+	font-weight: normal;
+	color: white;
+	background-color:#00968C;
+	border-top:0px solid grey;
+}
+
+
+.pic {
+	float:left;
+	position:absolute;
+	left: 277px;
+	margin-top: 58px;
+	background-image:url("btv_news.png");
+	background-size:400px 305px;
+	height:400px;
+	width:450px;
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+}
+
+
+

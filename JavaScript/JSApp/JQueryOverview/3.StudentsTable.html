@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>3. Generate table</title>
+    <script src="jquery-2.0.2.min.js"></script>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+ 
+        th, td{
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <div id="holder"></div>
+    <script>
+        var students = [
+            { firstName: 'Ivan', lastName: 'Ivanov', grade: 3 },
+            { firstName: 'Petar', lastName: 'Petrov', grade: 6 },
+            { firstName: 'Georgi', lastName: 'Georgiev', grade: 12 },
+            { firstName: 'Zdravko', lastName: 'Zdravkov', grade: 7 }
+        ];
+ 
+        $("#holder").append("<table />");
+        $("table").append("<thead />");
+        $("thead").append("<tr><th>First Name</th><th>Last Name</th><th>Grade</th></tr>");
+        $("table").append("<tbody />");
+ 
+        var rows = $.map(students, function (student) {
+            return "<tr><td>" + student.firstName + "</td><td>" +
+                student.lastName + "</td><td>" + student.grade + "</td></tr>";
+        });
+ 
+        for (var i = 0; i < rows.length; i++) {
+           $("tbody").append(rows[i]);
+       }
+   </script>
+</body>
+</html>

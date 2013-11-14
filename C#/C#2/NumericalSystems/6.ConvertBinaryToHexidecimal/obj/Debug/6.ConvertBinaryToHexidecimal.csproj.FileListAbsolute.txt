@@ -1,0 +1,6 @@
+F:\SourceCode\C#\NumericalSystems\6.ConvertBinaryToHexidecimal\bin\Debug\6.ConvertBinaryToHexidecimal.exe.config
+F:\SourceCode\C#\NumericalSystems\6.ConvertBinaryToHexidecimal\bin\Debug\6.ConvertBinaryToHexidecimal.exe
+F:\SourceCode\C#\NumericalSystems\6.ConvertBinaryToHexidecimal\bin\Debug\6.ConvertBinaryToHexidecimal.pdb
+F:\SourceCode\C#\NumericalSystems\6.ConvertBinaryToHexidecimal\obj\Debug\6.ConvertBinaryToHexidecimal.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\NumericalSystems\6.ConvertBinaryToHexidecimal\obj\Debug\6.ConvertBinaryToHexidecimal.exe
+F:\SourceCode\C#\NumericalSystems\6.ConvertBinaryToHexidecimal\obj\Debug\6.ConvertBinaryToHexidecimal.pdb

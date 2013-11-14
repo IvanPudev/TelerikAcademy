@@ -1,0 +1,1 @@
+F:\SourceCode\C#\NumericalSystems\7.ConvertAnyBaseSToAnyBaseD\bin\Debug\7.ConvertAnyBaseSToAnyBaseD.exe.config

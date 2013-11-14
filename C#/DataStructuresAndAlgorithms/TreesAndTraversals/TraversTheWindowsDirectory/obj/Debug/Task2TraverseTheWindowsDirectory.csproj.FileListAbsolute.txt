@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\TraversTheWindowsDirectory\bin\Debug\Task2TraverseTheWindowsDirectory.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\TraversTheWindowsDirectory\bin\Debug\Task2TraverseTheWindowsDirectory.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\TraversTheWindowsDirectory\bin\Debug\Task2TraverseTheWindowsDirectory.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\TraversTheWindowsDirectory\obj\Debug\Task2TraverseTheWindowsDirectory.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\TraversTheWindowsDirectory\obj\Debug\Task2TraverseTheWindowsDirectory.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\TraversTheWindowsDirectory\obj\Debug\Task2TraverseTheWindowsDirectory.pdb

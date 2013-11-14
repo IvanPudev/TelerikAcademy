@@ -1,0 +1,6 @@
+F:\SourceCode\C#\NumericalSystems\3.ConvertDecimalToHexadecimal\bin\Debug\3.ConvertDecimalToHexadecimal.exe.config
+F:\SourceCode\C#\NumericalSystems\3.ConvertDecimalToHexadecimal\bin\Debug\3.ConvertDecimalToHexadecimal.exe
+F:\SourceCode\C#\NumericalSystems\3.ConvertDecimalToHexadecimal\bin\Debug\3.ConvertDecimalToHexadecimal.pdb
+F:\SourceCode\C#\NumericalSystems\3.ConvertDecimalToHexadecimal\obj\Debug\3.ConvertDecimalToHexadecimal.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\NumericalSystems\3.ConvertDecimalToHexadecimal\obj\Debug\3.ConvertDecimalToHexadecimal.exe
+F:\SourceCode\C#\NumericalSystems\3.ConvertDecimalToHexadecimal\obj\Debug\3.ConvertDecimalToHexadecimal.pdb

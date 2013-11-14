@@ -1,0 +1,1 @@
+F:\SourceCode\C#\StringsAndTextProcessing\RemoveTags\bin\Debug\RemoveTags.exe.config

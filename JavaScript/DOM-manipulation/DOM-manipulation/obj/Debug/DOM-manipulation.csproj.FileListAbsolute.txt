@@ -1,0 +1,5 @@
+D:\telerik\JS2\DOM-manipulation\DOM-manipulation\bin\DOM-manipulation.dll
+D:\telerik\JS2\DOM-manipulation\DOM-manipulation\bin\DOM-manipulation.pdb
+D:\telerik\JS2\DOM-manipulation\DOM-manipulation\obj\Debug\DOM-manipulation.csprojResolveAssemblyReference.cache
+D:\telerik\JS2\DOM-manipulation\DOM-manipulation\obj\Debug\DOM-manipulation.dll
+D:\telerik\JS2\DOM-manipulation\DOM-manipulation\obj\Debug\DOM-manipulation.pdb

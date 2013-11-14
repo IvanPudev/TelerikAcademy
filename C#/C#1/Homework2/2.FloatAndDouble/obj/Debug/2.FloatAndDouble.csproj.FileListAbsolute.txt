@@ -1,0 +1,5 @@
+F:\SourceCode\C#\Homework2\2.FloatAndDouble\bin\Debug\2.FloatAndDouble.exe.config
+F:\SourceCode\C#\Homework2\2.FloatAndDouble\bin\Debug\2.FloatAndDouble.exe
+F:\SourceCode\C#\Homework2\2.FloatAndDouble\bin\Debug\2.FloatAndDouble.pdb
+F:\SourceCode\C#\Homework2\2.FloatAndDouble\obj\Debug\2.FloatAndDouble.exe
+F:\SourceCode\C#\Homework2\2.FloatAndDouble\obj\Debug\2.FloatAndDouble.pdb

@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>WebForm</title>
+    <style type="text/css">
+        table {
+            border-collapse: collapse;
+            font-family: sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <form>
+    <table border="1">
+        <tfoot style="background: aqua">
+            <tr style="text-align: center">
+                <td colspan="4">
+                    <input type="submit" name="Submit" value="Submit" /><input type="reset" name="Clear Data" value="Clear Data" /></td>
+            </tr>
+        </tfoot>
+        <tr>
+            <td style="text-align: right"><b>Last Name</b></td>
+            <td colspan="3">
+                <input type="text" name="Last Name" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: right"><b>First Name</b></td>
+            <td colspan="3">
+                <input type="text" name="First Name" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: right"><b>Address</b></td>
+            <td colspan="3">
+                <textarea rows="4" name="Address"></textarea></td>
+        </tr>
+        <tr>
+            <td style="text-align: right"><b>City</b></td>
+            <td>
+                <input type="text" name="City" /></td>
+            <td style="text-align: right"><b>State</b></td>
+            <td>
+                <input type="text" name="state" style="width: 30px" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: right"><b>Zip/Postal Code</b></td>
+            <td colspan="3">
+                <input type="text" name="Zip Code" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: right"><b>Country</b></td>
+            <td colspan="3">
+                <select>
+                    <option value="selected">Bulgaria</option>
+                    <option>Serbia</option>
+                    <option>Macedonia</option>
+                </select></td>
+        </tr>
+        <tr>
+            <td style="text-align: right"><b>Phone(Country code,<br />
+                arrea code, number)</b></td>
+            <td colspan="3">
+                    (+
+                <input type="text" style="width: 24px" name="Country Code" />)<input type="text" style="width: 24px" name="Arrea Code" />-<input type="text" style="width: 48px" name="Number" />
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: right"><b>E-mail</b></td>
+            <td colspan="3">
+                <input type="email" name="e-mail" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: right"><b>Date Of Birth</b></td>
+            <td colspan="3">Month<input type="text" style="width: 16px;" name="Date" />
+                Day<input type="text" style="width: 16px;" name="Date" />
+                Year(4 digit)<input type="text" style="width: 32px;" name="Date" />
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: right"><b>Gender</b></td>
+            <td colspan="3">
+                <select>
+                    <option value="selected">Male</option>
+                    <option>Female</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: right"><b>Starting Date</b></td>
+            <td colspan="3">
+                <input type="radio" name="Starting date" value="summer" />Summer 2006
+                <input type="radio" name="Starting date" value="fall" />Fall 2006
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: right"><b>Comments/Questions</b></td>
+            <td colspan="3">
+                <textarea></textarea></td>
+        </tr>
+    </table>
+        </form>
+</body>
+</html>

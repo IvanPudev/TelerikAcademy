@@ -1,0 +1,23 @@
+﻿body {
+}
+
+span.pagetitle {
+    margin-left:150px;
+}
+
+article > img {
+    float:left;
+    margin:0 20px 20px 25px;
+}
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}

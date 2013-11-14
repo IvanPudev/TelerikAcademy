@@ -1,0 +1,1 @@
+F:\SourceCode\C#\MultidimensionalArrays\3.SequencesInMatrix\bin\Debug\3.SequencesInMatrix.exe.config

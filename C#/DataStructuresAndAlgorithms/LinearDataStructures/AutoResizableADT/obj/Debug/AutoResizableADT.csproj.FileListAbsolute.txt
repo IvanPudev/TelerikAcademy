@@ -1,0 +1,1 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\LinearDataStructures\AutoResizableADT\bin\Debug\AutoResizableADT.exe.config

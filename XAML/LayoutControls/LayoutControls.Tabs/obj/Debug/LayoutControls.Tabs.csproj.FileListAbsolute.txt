@@ -1,0 +1,12 @@
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Tabs\bin\Debug\LayoutControls.Tabs.exe.config
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Tabs\bin\Debug\LayoutControls.Tabs.exe
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Tabs\bin\Debug\LayoutControls.Tabs.pdb
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Tabs\obj\Debug\MainWindow.baml
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Tabs\obj\Debug\MainWindow.g.cs
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Tabs\obj\Debug\App.g.cs
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Tabs\obj\Debug\LayoutControls.Tabs_MarkupCompile.cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Tabs\obj\Debug\LayoutControls.Tabs.g.resources
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Tabs\obj\Debug\LayoutControls.Tabs.Properties.Resources.resources
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Tabs\obj\Debug\LayoutControls.Tabs.csproj.GenerateResource.Cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Tabs\obj\Debug\LayoutControls.Tabs.exe
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Tabs\obj\Debug\LayoutControls.Tabs.pdb

@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskRskWinsRiskLoses\bin\Debug\TaskRskWinsRiskLoses.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskRskWinsRiskLoses\bin\Debug\TaskRskWinsRiskLoses.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskRskWinsRiskLoses\bin\Debug\TaskRskWinsRiskLoses.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskRskWinsRiskLoses\obj\Debug\TaskRskWinsRiskLoses.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskRskWinsRiskLoses\obj\Debug\TaskRskWinsRiskLoses.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskRskWinsRiskLoses\obj\Debug\TaskRskWinsRiskLoses.pdb

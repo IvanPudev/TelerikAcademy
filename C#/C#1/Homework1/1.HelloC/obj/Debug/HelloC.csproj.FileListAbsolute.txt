@@ -1,0 +1,5 @@
+F:\SourceCode\C#\Homework1\HelloC\bin\Debug\HelloC.exe.config
+F:\SourceCode\C#\Homework1\HelloC\bin\Debug\HelloC.exe
+F:\SourceCode\C#\Homework1\HelloC\bin\Debug\HelloC.pdb
+F:\SourceCode\C#\Homework1\HelloC\obj\Debug\HelloC.exe
+F:\SourceCode\C#\Homework1\HelloC\obj\Debug\HelloC.pdb

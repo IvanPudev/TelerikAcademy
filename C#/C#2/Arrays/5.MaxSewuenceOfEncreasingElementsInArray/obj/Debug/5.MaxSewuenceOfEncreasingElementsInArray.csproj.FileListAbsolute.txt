@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Arrays\5.MaxSewuenceOfEncreasingElementsInArray\bin\Debug\5.MaxSewuenceOfEncreasingElementsInArray.exe.config
+F:\SourceCode\C#\Arrays\5.MaxSewuenceOfEncreasingElementsInArray\bin\Debug\5.MaxSewuenceOfEncreasingElementsInArray.exe
+F:\SourceCode\C#\Arrays\5.MaxSewuenceOfEncreasingElementsInArray\bin\Debug\5.MaxSewuenceOfEncreasingElementsInArray.pdb
+F:\SourceCode\C#\Arrays\5.MaxSewuenceOfEncreasingElementsInArray\obj\Debug\5.MaxSewuenceOfEncreasingElementsInArray.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Arrays\5.MaxSewuenceOfEncreasingElementsInArray\obj\Debug\5.MaxSewuenceOfEncreasingElementsInArray.exe
+F:\SourceCode\C#\Arrays\5.MaxSewuenceOfEncreasingElementsInArray\obj\Debug\5.MaxSewuenceOfEncreasingElementsInArray.pdb

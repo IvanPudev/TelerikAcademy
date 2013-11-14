@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Loops\5.CalculationOfN!xK!Div(N-K)!\bin\Debug\5.CalculationOfN!xK!Div(N-K)!.exe.config
+F:\SourceCode\C#\Loops\5.CalculationOfN!xK!Div(N-K)!\bin\Debug\5.CalculationOfN!xK!Div(N-K)!.exe
+F:\SourceCode\C#\Loops\5.CalculationOfN!xK!Div(N-K)!\bin\Debug\5.CalculationOfN!xK!Div(N-K)!.pdb
+F:\SourceCode\C#\Loops\5.CalculationOfN!xK!Div(N-K)!\obj\Debug\5.CalculationOfN!xK!Div(N-K)!.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Loops\5.CalculationOfN!xK!Div(N-K)!\obj\Debug\5.CalculationOfN!xK!Div(N-K)!.exe
+F:\SourceCode\C#\Loops\5.CalculationOfN!xK!Div(N-K)!\obj\Debug\5.CalculationOfN!xK!Div(N-K)!.pdb

@@ -1,0 +1,6 @@
+F:\SourceCode\C#\OOP\CommonTypeSystem\DefineBitArray64\bin\Debug\DefineBitArray64.exe.config
+F:\SourceCode\C#\OOP\CommonTypeSystem\DefineBitArray64\bin\Debug\DefineBitArray64.exe
+F:\SourceCode\C#\OOP\CommonTypeSystem\DefineBitArray64\bin\Debug\DefineBitArray64.pdb
+F:\SourceCode\C#\OOP\CommonTypeSystem\DefineBitArray64\obj\Debug\DefineBitArray64.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\OOP\CommonTypeSystem\DefineBitArray64\obj\Debug\DefineBitArray64.exe
+F:\SourceCode\C#\OOP\CommonTypeSystem\DefineBitArray64\obj\Debug\DefineBitArray64.pdb

@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>DeepCopy</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <script src="scripts/DeepCopy.js"></script>
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+        var array = [1, 2, 3, 4, 5];
+        var clonedArray = clone(array);
+        jsConsole.writeLine(array);
+        jsConsole.writeLine("The deep copy of the object is: " + clonedArray);
+    </script>
+</body>
+</html>

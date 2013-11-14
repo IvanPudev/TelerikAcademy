@@ -1,0 +1,441 @@
+﻿<common:LayoutAwarePage
+    x:Class="SquareIt.Views.GameSizeSPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SquareIt.Views"
+        xmlns:common="using:SquareIt.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:viewModels="using:SquareIt.ViewModels"
+    xmlns:converters="using:SquareIt.Converters"
+    mc:Ignorable="d">
+    <common:LayoutAwarePage.DataContext>
+        <viewModels:GameViewModel />
+    </common:LayoutAwarePage.DataContext>
+    <common:LayoutAwarePage.Resources>
+        <converters:ColorToSolidColorBrushConverter x:Key="ColorToSolidColorBrushConverter" />
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource ButtonBackgroundThemeBrush}"/>
+            <Setter Property="Foreground" Value="{StaticResource ButtonForegroundThemeBrush}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource ButtonBorderThemeBrush}"/>
+            <Setter Property="BorderThickness" Value="{StaticResource ButtonBorderThemeThickness}"/>
+            <Setter Property="Padding" Value="12,4,12,4"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="{StaticResource ContentControlThemeFontFamily}"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="FontSize" Value="{StaticResource ControlContentThemeFontSize}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="PointerOver">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Background" Storyboard.TargetName="Border">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource ButtonPointerOverBackgroundThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource ButtonPointerOverForegroundThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Background" Storyboard.TargetName="Border">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource ButtonPressedBackgroundThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource ButtonPressedForegroundThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Background" Storyboard.TargetName="Border">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource ButtonDisabledBackgroundThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="BorderBrush" Storyboard.TargetName="Border">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource ButtonDisabledBorderThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource ButtonDisabledForegroundThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                </VisualStateGroup>
+                                <VisualStateGroup x:Name="FocusStates">
+                                    <VisualState x:Name="Focused">
+                                        <Storyboard>
+                                            <DoubleAnimation Duration="0" To="1" Storyboard.TargetProperty="Opacity" Storyboard.TargetName="FocusVisualWhite"/>
+                                            <DoubleAnimation Duration="0" To="1" Storyboard.TargetProperty="Opacity" Storyboard.TargetName="FocusVisualBlack"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Unfocused"/>
+                                    <VisualState x:Name="PointerFocused"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Border x:Name="Border" BorderBrush="{TemplateBinding Background}" BorderThickness="0" Background="{TemplateBinding Background}">
+                                <ContentPresenter x:Name="ContentPresenter" ContentTemplate="{TemplateBinding ContentTemplate}" ContentTransitions="{TemplateBinding ContentTransitions}" Content="{TemplateBinding Content}" HorizontalAlignment="Stretch" Margin="{TemplateBinding Padding}" VerticalAlignment="Stretch"/>
+                            </Border>
+                            <Rectangle x:Name="FocusVisualWhite" IsHitTestVisible="False" Opacity="0" StrokeDashOffset="1.5" StrokeEndLineCap="Square" Stroke="{StaticResource FocusVisualWhiteStrokeThemeBrush}" StrokeDashArray="1,1"/>
+                            <Rectangle x:Name="FocusVisualBlack" IsHitTestVisible="False" Opacity="0" StrokeDashOffset="0.5" StrokeEndLineCap="Square" Stroke="{StaticResource FocusVisualBlackStrokeThemeBrush}" StrokeDashArray="1,1"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </common:LayoutAwarePage.Resources>
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="400"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions >
+        <StackPanel Grid.Column="0" Margin="120 60 0 20">
+            <TextBlock x:Name="pageTitle" VerticalAlignment="Center" Text="Game size S" Style="{StaticResource PageHeaderTextStyle}"/>
+        </StackPanel>
+        <Grid Margin="120 0 0 0"  Grid.Column="0" Grid.Row="1" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition/>
+
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="5"/>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <!--dots-->
+            <StackPanel Grid.Column="0" Grid.Row="0" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="2" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="4" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="6" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="8" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="10" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="12" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="14" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="16" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="2" Grid.Row="0" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="2" Grid.Row="2" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="2" Grid.Row="4" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="2" Grid.Row="6" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="2" Grid.Row="8" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="2" Grid.Row="10" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="2" Grid.Row="12" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="2" Grid.Row="14" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="2" Grid.Row="16" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="4" Grid.Row="0" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="4" Grid.Row="2" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="4" Grid.Row="4" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="4" Grid.Row="6" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="4" Grid.Row="8" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="4" Grid.Row="10" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="4" Grid.Row="12" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="4" Grid.Row="14" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="4" Grid.Row="16" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="6" Grid.Row="0" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="6" Grid.Row="2" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="6" Grid.Row="4" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="6" Grid.Row="6" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="6" Grid.Row="8" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="6" Grid.Row="10" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="6" Grid.Row="12" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="6" Grid.Row="14" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="6" Grid.Row="16" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="8" Grid.Row="0" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="8" Grid.Row="2" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="8" Grid.Row="4" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="8" Grid.Row="6" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="8" Grid.Row="8" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="8" Grid.Row="10" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="8" Grid.Row="12" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="8" Grid.Row="14" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="8" Grid.Row="16" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="10" Grid.Row="0" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="10" Grid.Row="2" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="10" Grid.Row="4" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="10" Grid.Row="6" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="10" Grid.Row="8" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="10" Grid.Row="10" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="10" Grid.Row="12" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="10" Grid.Row="14" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="10" Grid.Row="16" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="12" Grid.Row="0" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="12" Grid.Row="2" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="12" Grid.Row="4" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="12" Grid.Row="6" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="12" Grid.Row="8" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="12" Grid.Row="10" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="12" Grid.Row="12" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="12" Grid.Row="14" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="12" Grid.Row="16" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="14" Grid.Row="0" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="14" Grid.Row="2" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="14" Grid.Row="4" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="14" Grid.Row="6" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="14" Grid.Row="8" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="14" Grid.Row="10" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="14" Grid.Row="12" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="14" Grid.Row="14" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="14" Grid.Row="16" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="16" Grid.Row="0" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="16" Grid.Row="2" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="16" Grid.Row="4" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="16" Grid.Row="6" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="16" Grid.Row="8" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="16" Grid.Row="10" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="16" Grid.Row="12" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="16" Grid.Row="14" Background="WhiteSmoke"></StackPanel>
+            <StackPanel Grid.Column="16" Grid.Row="16" Background="WhiteSmoke"></StackPanel>
+            <!--vertical buttons-->
+            <Button Grid.Column="0" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[0].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="0,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="0" Grid.Row="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[8].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="8,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="0" Grid.Row="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[16].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="16,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="0" Grid.Row="7" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[24].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="24,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="0" Grid.Row="9" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[32].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="32,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="0" Grid.Row="11" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[40].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="40,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="0" Grid.Row="13" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[48].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="48,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="0" Grid.Row="15" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[56].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="56,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="2" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[1].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="1,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="2" Grid.Row="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[9].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="9,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="2" Grid.Row="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[17].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="17,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="2" Grid.Row="7" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[25].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="25,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="2" Grid.Row="9" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[33].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="33,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="2" Grid.Row="11" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[41].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="41,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="2" Grid.Row="13" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[49].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="49,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="2" Grid.Row="15" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[57].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="57,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="4" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[2].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="2,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="4" Grid.Row="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[10].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="10,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="4" Grid.Row="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[18].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="18,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="4" Grid.Row="7" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[26].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="26,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="4" Grid.Row="9" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[34].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="34,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="4" Grid.Row="11" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[42].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="42,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="4" Grid.Row="13" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[50].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="50,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="4" Grid.Row="15" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[58].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="58,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="6" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[3].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="3,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="6" Grid.Row="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[11].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="11,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="6" Grid.Row="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[19].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="19,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="6" Grid.Row="7" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[27].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="27,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="6" Grid.Row="9" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[35].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="35,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="6" Grid.Row="11" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[43].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="43,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="6" Grid.Row="13" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[51].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="51,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="6" Grid.Row="15" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[59].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="59,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="8" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[4].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="4,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="8" Grid.Row="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[12].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="12,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="8" Grid.Row="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[20].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="20,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="8" Grid.Row="7" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[28].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="28,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="8" Grid.Row="9" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[36].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="36,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="8" Grid.Row="11" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[44].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="44,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="8" Grid.Row="13" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[52].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="52,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="8" Grid.Row="15" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[60].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="60,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="10" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[5].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="5,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="10" Grid.Row="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[13].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="13,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="10" Grid.Row="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[21].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="21,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="10" Grid.Row="7" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[29].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="29,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="10" Grid.Row="9" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[37].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="37,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="10" Grid.Row="11" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[44].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="45,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="10" Grid.Row="13" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[53].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="53,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="10" Grid.Row="15" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[61].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="61,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="12" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[6].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="6,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="12" Grid.Row="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[14].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="14,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="12" Grid.Row="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[22].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="22,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="12" Grid.Row="7" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[30].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="30,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="12" Grid.Row="9" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[38].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="38,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="12" Grid.Row="11" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[46].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="46,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="12" Grid.Row="13" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[54].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="54,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="12" Grid.Row="15" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[62].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="62,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="14" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[7].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="7,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="14" Grid.Row="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[15].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="15,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="14" Grid.Row="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[23].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="23,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="14" Grid.Row="7" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[31].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="31,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="14" Grid.Row="9" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[39].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="39,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="14" Grid.Row="11" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[47].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="47,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="14" Grid.Row="13" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[55].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="55,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="14" Grid.Row="15" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[63].Left, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="63,l" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="16" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[7].Right, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="7,r" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="16" Grid.Row="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[15].Right, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="15,r" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="16" Grid.Row="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[23].Right, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="23,r" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="16" Grid.Row="7" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[31].Right, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="31,r" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="16" Grid.Row="9" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[39].Right, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="39,r" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="16" Grid.Row="11" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[47].Right, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="47,r" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="16" Grid.Row="13" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[55].Right, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="55,r" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="16" Grid.Row="15" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[63].Right, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="63,r" Style="{StaticResource ButtonStyle}"></Button>
+            <!--horizontal buttons-->
+            <Button Grid.Column="1" Grid.Row="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[0].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="0,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="3" Grid.Row="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[1].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="1,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="5" Grid.Row="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[2].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="2,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="7" Grid.Row="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[3].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="3,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="9" Grid.Row="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[4].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="4,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="11" Grid.Row="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[5].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="5,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="13" Grid.Row="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[6].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="6,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="15" Grid.Row="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[7].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="7,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="1" Grid.Row="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[8].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="8,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="3" Grid.Row="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[9].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="9,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="5" Grid.Row="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[10].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="10,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="7" Grid.Row="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[11].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="11,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="9" Grid.Row="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[12].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="12,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="11" Grid.Row="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[13].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="13,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="13" Grid.Row="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[14].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="14,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="15" Grid.Row="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[15].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="15,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="1" Grid.Row="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[16].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="16,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="3" Grid.Row="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[17].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="17,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="5" Grid.Row="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[18].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="18,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="7" Grid.Row="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[19].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="19,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="9" Grid.Row="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[20].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="20,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="11" Grid.Row="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[21].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="21,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="13" Grid.Row="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[22].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="22,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="15" Grid.Row="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[23].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="23,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="1" Grid.Row="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[24].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="24,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="3" Grid.Row="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[25].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="25,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="5" Grid.Row="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[26].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="26,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="7" Grid.Row="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[27].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="27,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="9" Grid.Row="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[28].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="28,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="11" Grid.Row="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[29].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="29,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="13" Grid.Row="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[30].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="30,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="15" Grid.Row="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[31].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="31,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="1" Grid.Row="8" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[32].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="32,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="3" Grid.Row="8" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[33].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="33,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="5" Grid.Row="8" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[34].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="34,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="7" Grid.Row="8" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[35].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="35,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="9" Grid.Row="8" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[36].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="36,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="11" Grid.Row="8" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[37].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="37,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="13" Grid.Row="8" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[38].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="38,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="15" Grid.Row="8" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[39].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="39,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="1" Grid.Row="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[40].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="40,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="3" Grid.Row="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[41].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="41,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="5" Grid.Row="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[42].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="42,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="7" Grid.Row="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[43].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="43,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="9" Grid.Row="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[44].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="44,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="11" Grid.Row="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[45].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="45,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="13" Grid.Row="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[46].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="46,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="15" Grid.Row="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[47].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="47,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="1" Grid.Row="12" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[48].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="48,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="3" Grid.Row="12" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[49].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="49,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="5" Grid.Row="12" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[50].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="50,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="7" Grid.Row="12" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[51].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="51,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="9" Grid.Row="12" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[52].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="52,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="11" Grid.Row="12" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[53].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="53,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="13" Grid.Row="12" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[54].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="54,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="15" Grid.Row="12" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[55].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="55,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="1" Grid.Row="14" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[56].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="56,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="3" Grid.Row="14" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[57].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="57,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="5" Grid.Row="14" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[58].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="58,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="7" Grid.Row="14" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[59].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="59,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="9" Grid.Row="14" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[60].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="60,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="11" Grid.Row="14" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[61].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="61,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="13" Grid.Row="14" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[62].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="62,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="15" Grid.Row="14" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[63].Top, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="63,t" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="1" Grid.Row="16" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[56].Bottom, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="56,b" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="3" Grid.Row="16" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[57].Bottom, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="57,b" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="5" Grid.Row="16" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[58].Bottom, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="58,b" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="7" Grid.Row="16" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[59].Bottom, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="59,b" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="9" Grid.Row="16" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[60].Bottom, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="60,b" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="11" Grid.Row="16" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[61].Bottom, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="61,b" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="13" Grid.Row="16" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[62].Bottom, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="62,b" Style="{StaticResource ButtonStyle}"></Button>
+            <Button Grid.Column="15" Grid.Row="16" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding BoxesObservable[63].Bottom, Converter={StaticResource ColorToSolidColorBrushConverter}}" Command="{Binding Select}" CommandParameter="63,b" Style="{StaticResource ButtonStyle}"></Button>
+            <!--boxes-->
+            <StackPanel Grid.Column="1" Grid.Row="1" Background="{Binding BoxesObservable[0].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="3" Grid.Row="1" Background="{Binding BoxesObservable[1].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="5" Grid.Row="1" Background="{Binding BoxesObservable[2].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="7" Grid.Row="1" Background="{Binding BoxesObservable[3].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="9" Grid.Row="1" Background="{Binding BoxesObservable[4].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="11" Grid.Row="1" Background="{Binding BoxesObservable[5].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="13" Grid.Row="1" Background="{Binding BoxesObservable[6].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="15" Grid.Row="1" Background="{Binding BoxesObservable[7].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="1" Grid.Row="3" Background="{Binding BoxesObservable[8].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="3" Grid.Row="3" Background="{Binding BoxesObservable[9].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="5" Grid.Row="3" Background="{Binding BoxesObservable[10].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="7" Grid.Row="3" Background="{Binding BoxesObservable[11].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="9" Grid.Row="3" Background="{Binding BoxesObservable[12].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="11" Grid.Row="3" Background="{Binding BoxesObservable[13].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="13" Grid.Row="3" Background="{Binding BoxesObservable[14].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="15" Grid.Row="3" Background="{Binding BoxesObservable[15].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="1" Grid.Row="5" Background="{Binding BoxesObservable[16].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="3" Grid.Row="5" Background="{Binding BoxesObservable[17].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="5" Grid.Row="5" Background="{Binding BoxesObservable[18].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="7" Grid.Row="5" Background="{Binding BoxesObservable[19].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="9" Grid.Row="5" Background="{Binding BoxesObservable[20].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="11" Grid.Row="5" Background="{Binding BoxesObservable[21].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="13" Grid.Row="5" Background="{Binding BoxesObservable[22].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="15" Grid.Row="5" Background="{Binding BoxesObservable[23].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="1" Grid.Row="7" Background="{Binding BoxesObservable[24].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="3" Grid.Row="7" Background="{Binding BoxesObservable[25].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="5" Grid.Row="7" Background="{Binding BoxesObservable[26].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="7" Grid.Row="7" Background="{Binding BoxesObservable[27].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="9" Grid.Row="7" Background="{Binding BoxesObservable[28].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="11" Grid.Row="7" Background="{Binding BoxesObservable[29].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="13" Grid.Row="7" Background="{Binding BoxesObservable[30].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="15" Grid.Row="7" Background="{Binding BoxesObservable[31].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="1" Grid.Row="9" Background="{Binding BoxesObservable[32].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="3" Grid.Row="9" Background="{Binding BoxesObservable[33].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="5" Grid.Row="9" Background="{Binding BoxesObservable[34].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="7" Grid.Row="9" Background="{Binding BoxesObservable[35].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="9" Grid.Row="9" Background="{Binding BoxesObservable[36].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="11" Grid.Row="9" Background="{Binding BoxesObservable[37].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="13" Grid.Row="9" Background="{Binding BoxesObservable[38].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="15" Grid.Row="9" Background="{Binding BoxesObservable[39].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="1" Grid.Row="11" Background="{Binding BoxesObservable[40].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="3" Grid.Row="11" Background="{Binding BoxesObservable[41].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="5" Grid.Row="11" Background="{Binding BoxesObservable[42].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="7" Grid.Row="11" Background="{Binding BoxesObservable[43].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="9" Grid.Row="11" Background="{Binding BoxesObservable[44].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="11" Grid.Row="11" Background="{Binding BoxesObservable[45].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="13" Grid.Row="11" Background="{Binding BoxesObservable[46].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="15" Grid.Row="11" Background="{Binding BoxesObservable[47].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="1" Grid.Row="13" Background="{Binding BoxesObservable[48].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="3" Grid.Row="13" Background="{Binding BoxesObservable[49].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="5" Grid.Row="13" Background="{Binding BoxesObservable[50].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="7" Grid.Row="13" Background="{Binding BoxesObservable[51].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="9" Grid.Row="13" Background="{Binding BoxesObservable[52].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="11" Grid.Row="13" Background="{Binding BoxesObservable[53].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="13" Grid.Row="13" Background="{Binding BoxesObservable[54].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="15" Grid.Row="13" Background="{Binding BoxesObservable[55].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="1" Grid.Row="15" Background="{Binding BoxesObservable[56].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="3" Grid.Row="15" Background="{Binding BoxesObservable[57].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="5" Grid.Row="15" Background="{Binding BoxesObservable[58].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="7" Grid.Row="15" Background="{Binding BoxesObservable[59].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="9" Grid.Row="15" Background="{Binding BoxesObservable[60].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="11" Grid.Row="15" Background="{Binding BoxesObservable[61].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="13" Grid.Row="15" Background="{Binding BoxesObservable[62].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+            <StackPanel Grid.Column="15" Grid.Row="15" Background="{Binding BoxesObservable[63].PlayerColor, Converter={StaticResource ColorToSolidColorBrushConverter}}" Width="36" Height="36"></StackPanel>
+        </Grid>
+    </Grid>
+</common:LayoutAwarePage>
+

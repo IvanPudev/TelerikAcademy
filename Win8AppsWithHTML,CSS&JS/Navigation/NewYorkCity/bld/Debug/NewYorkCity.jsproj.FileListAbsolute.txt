@@ -1,0 +1,13 @@
+D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bin\Debug\resources.pri
+D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bin\Debug\AppxManifest.xml
+D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bin\Debug\NewYorkCity.build.appxrecipe
+D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bld\Debug\priconfig.xml.intermediate
+D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bld\Debug\layout.resfiles.intermediate
+D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bld\Debug\resources.resfiles.intermediate
+D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bld\Debug\pri.resfiles.intermediate
+D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bld\Debug\priconfig.xml
+D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bld\Debug\layout.resfiles
+D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bld\Debug\resources.resfiles
+D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bld\Debug\pri.resfiles
+D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bld\Debug\LanguageQualifiers.txt
+D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,6 @@
+F:\SourceCode\C#\NumericalSystems\2.ConvertBinaryToDecimal\bin\Debug\2.ConvertBinaryToDecimal.exe.config
+F:\SourceCode\C#\NumericalSystems\2.ConvertBinaryToDecimal\bin\Debug\2.ConvertBinaryToDecimal.exe
+F:\SourceCode\C#\NumericalSystems\2.ConvertBinaryToDecimal\bin\Debug\2.ConvertBinaryToDecimal.pdb
+F:\SourceCode\C#\NumericalSystems\2.ConvertBinaryToDecimal\obj\Debug\2.ConvertBinaryToDecimal.exe
+F:\SourceCode\C#\NumericalSystems\2.ConvertBinaryToDecimal\obj\Debug\2.ConvertBinaryToDecimal.pdb
+F:\SourceCode\C#\NumericalSystems\2.ConvertBinaryToDecimal\obj\Debug\2.ConvertBinaryToDecimal.csprojResolveAssemblyReference.cache

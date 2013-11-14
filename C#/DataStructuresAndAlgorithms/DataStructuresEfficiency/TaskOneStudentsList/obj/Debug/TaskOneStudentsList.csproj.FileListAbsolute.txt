@@ -1,0 +1,8 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\TaskOneStudentsList\bin\Debug\TaskOneStudentsList.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\TaskOneStudentsList\bin\Debug\TaskOneStudentsList.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\TaskOneStudentsList\bin\Debug\TaskOneStudentsList.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\TaskOneStudentsList\bin\Debug\PowerCollections.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\TaskOneStudentsList\bin\Debug\PowerCollections.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\TaskOneStudentsList\obj\Debug\TaskOneStudentsList.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\TaskOneStudentsList\obj\Debug\TaskOneStudentsList.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\TaskOneStudentsList\obj\Debug\TaskOneStudentsList.pdb

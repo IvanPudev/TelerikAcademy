@@ -1,0 +1,5 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\ViewModels\obj\Debug\ViewModels.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache

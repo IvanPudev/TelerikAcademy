@@ -1,0 +1,13 @@
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ListViewControl\bin\Debug\XamlControls.ListViewControl.exe.config
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ListViewControl\bin\Debug\XamlControls.ListViewControl.exe
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ListViewControl\bin\Debug\XamlControls.ListViewControl.pdb
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ListViewControl\obj\Debug\XamlControls.ListViewControl.csprojResolveAssemblyReference.cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ListViewControl\obj\Debug\MainWindow.baml
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ListViewControl\obj\Debug\MainWindow.g.cs
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ListViewControl\obj\Debug\App.g.cs
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ListViewControl\obj\Debug\XamlControls.ListViewControl_MarkupCompile.cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ListViewControl\obj\Debug\XamlControls.ListViewControl.g.resources
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ListViewControl\obj\Debug\XamlControls.ListViewControl.Properties.Resources.resources
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ListViewControl\obj\Debug\XamlControls.ListViewControl.csproj.GenerateResource.Cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ListViewControl\obj\Debug\XamlControls.ListViewControl.exe
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ListViewControl\obj\Debug\XamlControls.ListViewControl.pdb

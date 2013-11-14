@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MA6INA</Machine>
+    <WindowsUser>zloupotrebitel</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B8E457FC1F83BA3AF718B595AAD236812CDC3DD50E97A7A6ACD919D2EA97ECD7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d79f7022-89eb-4570-90f9-b1bf8b716e74_1.0.0.0_neutral__bzr8dh3gcmq2w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d79f7022-89eb-4570-90f9-b1bf8b716e74_bzr8dh3gcmq2w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d79f7022-89eb-4570-90f9-b1bf8b716e74</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=zloupotrebitel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-29T18:14:19.152</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-29T18:11:56.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\templates\computer-template.html">
+      <PackagePath>templates\computer-template.html</PackagePath>
+      <Modified>2013-08-29T18:12:33.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\images\hp-650.jpg">
+      <PackagePath>images\hp-650.jpg</PackagePath>
+      <Modified>2013-08-29T18:09:10.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\images\studio-1535.png">
+      <PackagePath>images\studio-1535.png</PackagePath>
+      <Modified>2013-08-29T18:08:54.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2013-08-29T18:11:27.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-08-29T18:10:38.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\js\repeater.js">
+      <PackagePath>js\repeater.js</PackagePath>
+      <Modified>2013-08-29T18:09:47.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSDataBinding\RepeaterControl\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-29T18:14:19.018</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

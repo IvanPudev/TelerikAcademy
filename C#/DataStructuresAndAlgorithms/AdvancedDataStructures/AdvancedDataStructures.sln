@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1OriorityQueue", "Task1OriorityQueue\Task1OriorityQueue.csproj", "{7A640E0B-3E28-4055-A67F-43AF8E1A43BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2ProductSearch", "Task2ProductSearch\Task2ProductSearch.csproj", "{F32783AC-0B92-4C60-849B-BCCDC1ECCE13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3WordOccurance", "Task3WordOccurance\Task3WordOccurance.csproj", "{6722B614-F8A9-461C-80D9-EAA61DEA6C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A640E0B-3E28-4055-A67F-43AF8E1A43BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A640E0B-3E28-4055-A67F-43AF8E1A43BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A640E0B-3E28-4055-A67F-43AF8E1A43BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A640E0B-3E28-4055-A67F-43AF8E1A43BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32783AC-0B92-4C60-849B-BCCDC1ECCE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32783AC-0B92-4C60-849B-BCCDC1ECCE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32783AC-0B92-4C60-849B-BCCDC1ECCE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32783AC-0B92-4C60-849B-BCCDC1ECCE13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6722B614-F8A9-461C-80D9-EAA61DEA6C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6722B614-F8A9-461C-80D9-EAA61DEA6C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6722B614-F8A9-461C-80D9-EAA61DEA6C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6722B614-F8A9-461C-80D9-EAA61DEA6C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

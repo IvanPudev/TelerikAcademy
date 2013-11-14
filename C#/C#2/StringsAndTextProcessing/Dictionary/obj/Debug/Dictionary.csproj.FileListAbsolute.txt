@@ -1,0 +1,1 @@
+F:\SourceCode\C#\StringsAndTextProcessing\Dictionary\bin\Debug\Dictionary.exe.config

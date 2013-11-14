@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticHTML", "SemanticHTML\SemanticHTML.csproj", "{869258CF-D7F0-471B-9995-D519D4B41EA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{63E392E1-9A9D-4533-9468-83D4B876CBF2}"
+	ProjectSection(SolutionItems) = preProject
+		1.Logo.html = 1.Logo.html
+		2.LinkedIn.html = 2.LinkedIn.html
+		3.Refactoring.html = 3.Refactoring.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{869258CF-D7F0-471B-9995-D519D4B41EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869258CF-D7F0-471B-9995-D519D4B41EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869258CF-D7F0-471B-9995-D519D4B41EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869258CF-D7F0-471B-9995-D519D4B41EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

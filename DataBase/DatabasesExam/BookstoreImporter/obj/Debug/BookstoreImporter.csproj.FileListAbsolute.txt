@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\BookstoreImporter\bin\Debug\BookstoreImporter.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\BookstoreImporter\obj\Debug\BookstoreImporter.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\BookstoreImporter\bin\Debug\BookstoreImporter.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\BookstoreImporter\bin\Debug\BookstoreImporter.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\BookstoreImporter\obj\Debug\BookstoreImporter.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\BookstoreImporter\obj\Debug\BookstoreImporter.pdb

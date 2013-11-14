@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Arrays\1.MultipliedIndexes\bin\Debug\1.MultipliedIndexes.exe.config
+F:\SourceCode\C#\Arrays\1.MultipliedIndexes\bin\Debug\1.MultipliedIndexes.exe
+F:\SourceCode\C#\Arrays\1.MultipliedIndexes\bin\Debug\1.MultipliedIndexes.pdb
+F:\SourceCode\C#\Arrays\1.MultipliedIndexes\obj\Debug\1.MultipliedIndexes.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Arrays\1.MultipliedIndexes\obj\Debug\1.MultipliedIndexes.exe
+F:\SourceCode\C#\Arrays\1.MultipliedIndexes\obj\Debug\1.MultipliedIndexes.pdb

@@ -1,0 +1,6 @@
+F:\SourceCode\C#\SampleExam\1.CartesianCoordinateSystem\bin\Debug\1.CartesianCoordinateSystem.exe.config
+F:\SourceCode\C#\SampleExam\1.CartesianCoordinateSystem\bin\Debug\1.CartesianCoordinateSystem.exe
+F:\SourceCode\C#\SampleExam\1.CartesianCoordinateSystem\bin\Debug\1.CartesianCoordinateSystem.pdb
+F:\SourceCode\C#\SampleExam\1.CartesianCoordinateSystem\obj\Debug\1.CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\SampleExam\1.CartesianCoordinateSystem\obj\Debug\1.CartesianCoordinateSystem.exe
+F:\SourceCode\C#\SampleExam\1.CartesianCoordinateSystem\obj\Debug\1.CartesianCoordinateSystem.pdb

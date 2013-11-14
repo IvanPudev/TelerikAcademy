@@ -1,0 +1,5 @@
+F:\SourceCode\C#\Arrays\5.MaxSequenceOfEncreasingElementsInArray\bin\Debug\5.MaxSequenceOfEncreasingElementsInArray.exe.config
+F:\SourceCode\C#\Arrays\5.MaxSequenceOfEncreasingElementsInArray\bin\Debug\5.MaxSequenceOfEncreasingElementsInArray.exe
+F:\SourceCode\C#\Arrays\5.MaxSequenceOfEncreasingElementsInArray\bin\Debug\5.MaxSequenceOfEncreasingElementsInArray.pdb
+F:\SourceCode\C#\Arrays\5.MaxSequenceOfEncreasingElementsInArray\obj\Debug\5.MaxSequenceOfEncreasingElementsInArray.exe
+F:\SourceCode\C#\Arrays\5.MaxSequenceOfEncreasingElementsInArray\obj\Debug\5.MaxSequenceOfEncreasingElementsInArray.pdb

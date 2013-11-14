@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\DictionariesHashTablesAndSets\Task1CountTheNumbers\bin\Debug\Task1CountTheNumbers.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\DictionariesHashTablesAndSets\Task1CountTheNumbers\bin\Debug\Task1CountTheNumbers.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\DictionariesHashTablesAndSets\Task1CountTheNumbers\bin\Debug\Task1CountTheNumbers.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\DictionariesHashTablesAndSets\Task1CountTheNumbers\obj\Debug\Task1CountTheNumbers.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\DictionariesHashTablesAndSets\Task1CountTheNumbers\obj\Debug\Task1CountTheNumbers.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\DictionariesHashTablesAndSets\Task1CountTheNumbers\obj\Debug\Task1CountTheNumbers.pdb

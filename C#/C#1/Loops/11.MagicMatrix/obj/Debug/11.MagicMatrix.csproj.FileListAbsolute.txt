@@ -1,0 +1,5 @@
+F:\SourceCode\C#\Loops\11.MagicMatrix\bin\Debug\11.MagicMatrix.exe.config
+F:\SourceCode\C#\Loops\11.MagicMatrix\bin\Debug\11.MagicMatrix.exe
+F:\SourceCode\C#\Loops\11.MagicMatrix\bin\Debug\11.MagicMatrix.pdb
+F:\SourceCode\C#\Loops\11.MagicMatrix\obj\Debug\11.MagicMatrix.exe
+F:\SourceCode\C#\Loops\11.MagicMatrix\obj\Debug\11.MagicMatrix.pdb

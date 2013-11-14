@@ -1,0 +1,5 @@
+F:\SourceCode\C#\StringsAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.exe
+F:\SourceCode\C#\StringsAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\FormatNumber\obj\Debug\FormatNumber.exe
+F:\SourceCode\C#\StringsAndTextProcessing\FormatNumber\obj\Debug\FormatNumber.pdb

@@ -1,0 +1,5 @@
+F:\SourceCode\C#\StringsAndTextProcessing\BracketsCheck\bin\Debug\BracketsCheck.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\BracketsCheck\bin\Debug\BracketsCheck.exe
+F:\SourceCode\C#\StringsAndTextProcessing\BracketsCheck\bin\Debug\BracketsCheck.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\BracketsCheck\obj\Debug\BracketsCheck.exe
+F:\SourceCode\C#\StringsAndTextProcessing\BracketsCheck\obj\Debug\BracketsCheck.pdb

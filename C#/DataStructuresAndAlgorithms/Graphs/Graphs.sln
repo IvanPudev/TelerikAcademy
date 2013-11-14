@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1SecondProblemSalaries", "Task1SecondProblemSalaries\Task1SecondProblemSalaries.csproj", "{53F4EE11-8845-4379-B3B7-523E9702FE6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1FirstProblemFriendsOfPesho", "Task1FirstProblemFriendsOfPesho\Task1FirstProblemFriendsOfPesho.csproj", "{61BA4462-A644-4B51-BEFE-F2E9CC52324F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2CableGuy", "Task2CableGuy\Task2CableGuy.csproj", "{BE3B78CD-661A-48E4-A31C-CDAB15AC6FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53F4EE11-8845-4379-B3B7-523E9702FE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F4EE11-8845-4379-B3B7-523E9702FE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F4EE11-8845-4379-B3B7-523E9702FE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F4EE11-8845-4379-B3B7-523E9702FE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BA4462-A644-4B51-BEFE-F2E9CC52324F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BA4462-A644-4B51-BEFE-F2E9CC52324F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BA4462-A644-4B51-BEFE-F2E9CC52324F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BA4462-A644-4B51-BEFE-F2E9CC52324F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3B78CD-661A-48E4-A31C-CDAB15AC6FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3B78CD-661A-48E4-A31C-CDAB15AC6FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3B78CD-661A-48E4-A31C-CDAB15AC6FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3B78CD-661A-48E4-A31C-CDAB15AC6FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

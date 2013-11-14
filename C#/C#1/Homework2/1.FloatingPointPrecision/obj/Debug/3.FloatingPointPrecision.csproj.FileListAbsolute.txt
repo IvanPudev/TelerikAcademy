@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Homework2\1.FloatingPointPrecision\bin\Debug\1.FloatingPointPrecision.exe.config
+F:\SourceCode\C#\Homework2\1.FloatingPointPrecision\bin\Debug\1.FloatingPointPrecision.exe
+F:\SourceCode\C#\Homework2\1.FloatingPointPrecision\bin\Debug\1.FloatingPointPrecision.pdb
+F:\SourceCode\C#\Homework2\1.FloatingPointPrecision\obj\Debug\3.FloatingPointPrecision.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Homework2\1.FloatingPointPrecision\obj\Debug\1.FloatingPointPrecision.exe
+F:\SourceCode\C#\Homework2\1.FloatingPointPrecision\obj\Debug\1.FloatingPointPrecision.pdb

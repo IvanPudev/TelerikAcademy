@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>CheckIfNumberIsBiggerThanIt'sNeighbours</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+
+</head>
+<body>
+    <label for="number">Enter position: </label>
+    <input type="text" id="position" />
+    <label for="number">Enter array separated by ",": </label>
+    <input type="text" id="array" />
+    <a href="#" onclick="onGOButtonClick()">GO</a>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+        function onGOButtonClick() {
+            var index = jsConsole.readInteger("#position");
+            var fall = -1;
+            var array = jsConsole.readNumbersArray("#array", ",");
+            jsConsole.writeLine(isBiggerThanNeighbours());
+
+            function isBiggerThanNeighbours() {
+                if (index > 0 && index < array.length) {
+                    if (array[index] > array[index + 1] && array[index] > array[index - 1]) {
+                        return index;
+                    }
+                    else {
+                        return fall;
+                    }
+                }
+                else {
+                    return fall;
+                }
+            }
+        }
+    </script>
+</body>
+</html>
+
+

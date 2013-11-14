@@ -1,0 +1,10 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ExamPreparation\Forum.Data\bin\Debug\Forum.Data.dll.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ExamPreparation\Forum.Data\bin\Debug\Forum.Data.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ExamPreparation\Forum.Data\bin\Debug\Forum.Data.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ExamPreparation\Forum.Data\bin\Debug\EntityFramework.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ExamPreparation\Forum.Data\bin\Debug\Forum.Model.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ExamPreparation\Forum.Data\bin\Debug\Forum.Model.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ExamPreparation\Forum.Data\bin\Debug\EntityFramework.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ExamPreparation\Forum.Data\obj\Debug\Forum.Data.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ExamPreparation\Forum.Data\obj\Debug\Forum.Data.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ExamPreparation\Forum.Data\obj\Debug\Forum.Data.pdb

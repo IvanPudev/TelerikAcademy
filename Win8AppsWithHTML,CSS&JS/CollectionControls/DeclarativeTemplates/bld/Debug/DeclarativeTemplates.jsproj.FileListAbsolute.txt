@@ -1,0 +1,26 @@
+D:\Trash\WinJSDataBinding (1)\DeclarativeTemplates\bin\Debug\resources.pri
+D:\Trash\WinJSDataBinding (1)\DeclarativeTemplates\bin\Debug\AppxManifest.xml
+D:\Trash\WinJSDataBinding (1)\DeclarativeTemplates\bin\Debug\DeclarativeTemplates.build.appxrecipe
+D:\Trash\WinJSDataBinding (1)\DeclarativeTemplates\bld\Debug\priconfig.xml.intermediate
+D:\Trash\WinJSDataBinding (1)\DeclarativeTemplates\bld\Debug\layout.resfiles.intermediate
+D:\Trash\WinJSDataBinding (1)\DeclarativeTemplates\bld\Debug\resources.resfiles.intermediate
+D:\Trash\WinJSDataBinding (1)\DeclarativeTemplates\bld\Debug\pri.resfiles.intermediate
+D:\Trash\WinJSDataBinding (1)\DeclarativeTemplates\bld\Debug\priconfig.xml
+D:\Trash\WinJSDataBinding (1)\DeclarativeTemplates\bld\Debug\layout.resfiles
+D:\Trash\WinJSDataBinding (1)\DeclarativeTemplates\bld\Debug\resources.resfiles
+D:\Trash\WinJSDataBinding (1)\DeclarativeTemplates\bld\Debug\pri.resfiles
+D:\Trash\WinJSDataBinding (1)\DeclarativeTemplates\bld\Debug\LanguageQualifiers.txt
+D:\Trash\WinJSDataBinding (1)\DeclarativeTemplates\bld\Debug\ProjectArchitectures.txt
+D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bin\Debug\resources.pri
+D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bin\Debug\AppxManifest.xml
+D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bin\Debug\DeclarativeTemplates.build.appxrecipe
+D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bld\Debug\priconfig.xml.intermediate
+D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bld\Debug\layout.resfiles.intermediate
+D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bld\Debug\resources.resfiles.intermediate
+D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bld\Debug\pri.resfiles.intermediate
+D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bld\Debug\priconfig.xml
+D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bld\Debug\layout.resfiles
+D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bld\Debug\resources.resfiles
+D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bld\Debug\pri.resfiles
+D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bld\Debug\LanguageQualifiers.txt
+D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Loops\2.PrintNumbersNotDivBy3And7\bin\Debug\2.PrintNumbersNotDivBy3And7.exe.config
+F:\SourceCode\C#\Loops\2.PrintNumbersNotDivBy3And7\bin\Debug\2.PrintNumbersNotDivBy3And7.exe
+F:\SourceCode\C#\Loops\2.PrintNumbersNotDivBy3And7\bin\Debug\2.PrintNumbersNotDivBy3And7.pdb
+F:\SourceCode\C#\Loops\2.PrintNumbersNotDivBy3And7\obj\Debug\2.PrintNumbersNotDivBy3And7.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Loops\2.PrintNumbersNotDivBy3And7\obj\Debug\2.PrintNumbersNotDivBy3And7.exe
+F:\SourceCode\C#\Loops\2.PrintNumbersNotDivBy3And7\obj\Debug\2.PrintNumbersNotDivBy3And7.pdb

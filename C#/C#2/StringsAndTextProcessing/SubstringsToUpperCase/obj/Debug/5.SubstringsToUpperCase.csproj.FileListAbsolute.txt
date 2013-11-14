@@ -1,0 +1,6 @@
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringsToUpperCase\obj\Debug\5.SubstringsToUpperCase.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringsToUpperCase\bin\Debug\SubstringsToUpperCase.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringsToUpperCase\bin\Debug\SubstringsToUpperCase.exe
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringsToUpperCase\bin\Debug\SubstringsToUpperCase.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringsToUpperCase\obj\Debug\SubstringsToUpperCase.exe
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringsToUpperCase\obj\Debug\SubstringsToUpperCase.pdb

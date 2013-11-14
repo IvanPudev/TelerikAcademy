@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Loops\10.Print52CardsFromAStandartDeck\bin\Debug\10.Print52CardsFromAStandartDeck.exe.config
+F:\SourceCode\C#\Loops\10.Print52CardsFromAStandartDeck\bin\Debug\10.Print52CardsFromAStandartDeck.exe
+F:\SourceCode\C#\Loops\10.Print52CardsFromAStandartDeck\bin\Debug\10.Print52CardsFromAStandartDeck.pdb
+F:\SourceCode\C#\Loops\10.Print52CardsFromAStandartDeck\obj\Debug\10.Print52CardsFromAStandartDeck.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Loops\10.Print52CardsFromAStandartDeck\obj\Debug\10.Print52CardsFromAStandartDeck.exe
+F:\SourceCode\C#\Loops\10.Print52CardsFromAStandartDeck\obj\Debug\10.Print52CardsFromAStandartDeck.pdb

@@ -1,0 +1,1 @@
+F:\SourceCode\C#\TextFiles\InsertLineNumbers\bin\Debug\InsertLineNumbers.exe.config

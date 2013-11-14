@@ -1,0 +1,10 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Context\bin\Debug\AlbumsDatabase.Context.dll.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Context\bin\Debug\AlbumsDatabase.Context.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Context\bin\Debug\AlbumsDatabase.Context.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Context\bin\Debug\AlbumsDatabase.Model.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Context\bin\Debug\EntityFramework.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Context\bin\Debug\AlbumsDatabase.Model.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Context\bin\Debug\EntityFramework.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Context\obj\Debug\AlbumsDatabase.Context.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Context\obj\Debug\AlbumsDatabase.Context.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\ASP.NETWebAPI\AlbumsDatabase.Context\obj\Debug\AlbumsDatabase.Context.pdb

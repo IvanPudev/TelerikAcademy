@@ -1,0 +1,5 @@
+F:\SourceCode\C#\OperatorsAndExpressions\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe.config
+F:\SourceCode\C#\OperatorsAndExpressions\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe
+F:\SourceCode\C#\OperatorsAndExpressions\13.ExchangeBits\bin\Debug\13.ExchangeBits.pdb
+F:\SourceCode\C#\OperatorsAndExpressions\13.ExchangeBits\obj\Debug\13.ExchangeBits.exe
+F:\SourceCode\C#\OperatorsAndExpressions\13.ExchangeBits\obj\Debug\13.ExchangeBits.pdb

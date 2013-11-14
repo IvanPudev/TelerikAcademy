@@ -1,0 +1,6 @@
+F:\SourceCode\C#\StringsAndTextProcessing\ExtractSentencesByWord\bin\Debug\ExtractSentencesByWord.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\ExtractSentencesByWord\bin\Debug\ExtractSentencesByWord.exe
+F:\SourceCode\C#\StringsAndTextProcessing\ExtractSentencesByWord\bin\Debug\ExtractSentencesByWord.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\ExtractSentencesByWord\obj\Debug\8.ExtractSentencesByWord.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\StringsAndTextProcessing\ExtractSentencesByWord\obj\Debug\ExtractSentencesByWord.exe
+F:\SourceCode\C#\StringsAndTextProcessing\ExtractSentencesByWord\obj\Debug\ExtractSentencesByWord.pdb

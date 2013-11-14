@@ -1,0 +1,111 @@
+body {
+	background:black;
+}
+a {
+	display: block;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+#div_out {
+	background-color:#EEEEEE;
+	border-radius:7px;
+	height:100%;
+	width:477px;
+	font-family:verdana, san-serif;
+	font-size:13px;
+}
+
+#div_out p {
+	padding:10px;
+	padding-top:15px;
+	padding-bottom:0px;
+	margin-bottom:6px;
+	font-size:16px;
+}
+
+.div_in {
+	margin:40px 10px 20px 10px;
+	border:2px solid #C6C6C6;
+	background-color:#FFFFFF;
+	width:453px;
+	height:142px;
+}
+
+.div_in span {
+	font-weight:bold;
+}
+
+#pic_1 {
+	position:absolute;
+	background-image:url("music_1.png");
+	background-size:140px 100px;
+	height:102px;
+	width:142px;
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	margin:20px;
+}
+
+#pic_2 {
+	position:absolute;
+	background-image:url("music_2.png");
+	background-size:140px 100px;
+	height:102px;
+	width:142px;
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	margin:20px;
+}
+
+#pic_3 {
+	position:absolute;
+	background-image:url("music_3.png");
+	background-size:140px 100px;
+	height:102px;
+	width:142px;
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	margin:20px;
+}
+
+.div_text {
+	height:60px;
+	width: 248px;
+	position:absolute;
+	margin-left:167px;
+	margin-top:20px;
+}
+
+.div_btn1 {
+	width:92px;
+	height: 32px;
+	background-image:url("listen.png");
+	background-size:90px 30px;
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	text-align:center;
+	padding-top:5px;
+	position:relative;
+	left:270px;
+	top:90px;
+	color:white;
+}
+
+.div_btn2{
+	width:72px;
+	height: 32px;
+	background-image:url("add.png");
+	background-size:70px 30px;
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	text-align:center;
+	padding-top:5px;
+	position:relative;
+	left:363px;
+	top:53px;
+	color:white;
+}
+

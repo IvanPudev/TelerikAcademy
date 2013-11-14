@@ -1,0 +1,1 @@
+F:\SourceCode\C#\StringsAndTextProcessing\ExtractSentencesByWord\bin\Debug\ExtractSentencesByWord.exe.config

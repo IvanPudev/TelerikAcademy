@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Person-5And6Tasks</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <script src="scripts/Person-5And6Task.js"></script>
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+        var persons = [
+            person("Ivan", "Ivanov", 30),
+            person("Pesho", "Ivanov", 34),
+            person("Gosho", "Petrov", 20),
+            person("Pesho", "Petrov", 30)
+        ];
+        //task 5
+        jsConsole.writeLine(findYoungest(persons));
+        //task 6
+        var result = groupBy(persons, "age");
+
+        for (var i = 0; i < result["age"].length; i++) {
+            jsConsole.writeLine(result["age"][i]);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\8.PrintNNumbers\bin\Debug\8.PrintNNumbers.exe.config
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\8.PrintNNumbers\bin\Debug\8.PrintNNumbers.exe
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\8.PrintNNumbers\bin\Debug\8.PrintNNumbers.pdb
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\8.PrintNNumbers\obj\Debug\8.PrintNNumbers.exe
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\8.PrintNNumbers\obj\Debug\8.PrintNNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\DemoJS\DemoJS\bin\DemoJS.dll
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\DemoJS\DemoJS\bin\DemoJS.pdb
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\DemoJS\DemoJS\obj\Debug\DemoJS.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\DemoJS\DemoJS\obj\Debug\DemoJS.dll
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\DemoJS\DemoJS\obj\Debug\DemoJS.pdb

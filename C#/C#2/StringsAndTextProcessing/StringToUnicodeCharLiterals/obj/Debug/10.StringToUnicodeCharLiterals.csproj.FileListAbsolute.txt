@@ -1,0 +1,5 @@
+F:\SourceCode\C#\StringsAndTextProcessing\StringToUnicodeCharLiterals\bin\Debug\StringToUnicodeCharLiterals.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\StringToUnicodeCharLiterals\bin\Debug\StringToUnicodeCharLiterals.exe
+F:\SourceCode\C#\StringsAndTextProcessing\StringToUnicodeCharLiterals\bin\Debug\StringToUnicodeCharLiterals.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\StringToUnicodeCharLiterals\obj\Debug\StringToUnicodeCharLiterals.exe
+F:\SourceCode\C#\StringsAndTextProcessing\StringToUnicodeCharLiterals\obj\Debug\StringToUnicodeCharLiterals.pdb

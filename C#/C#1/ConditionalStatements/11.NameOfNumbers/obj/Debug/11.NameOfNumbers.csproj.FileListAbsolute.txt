@@ -1,0 +1,6 @@
+F:\SourceCode\C#\ConditionalStatements\11.NameOfNumbers\bin\Debug\11.NameOfNumbers.exe.config
+F:\SourceCode\C#\ConditionalStatements\11.NameOfNumbers\bin\Debug\11.NameOfNumbers.exe
+F:\SourceCode\C#\ConditionalStatements\11.NameOfNumbers\bin\Debug\11.NameOfNumbers.pdb
+F:\SourceCode\C#\ConditionalStatements\11.NameOfNumbers\obj\Debug\11.NameOfNumbers.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\ConditionalStatements\11.NameOfNumbers\obj\Debug\11.NameOfNumbers.exe
+F:\SourceCode\C#\ConditionalStatements\11.NameOfNumbers\obj\Debug\11.NameOfNumbers.pdb

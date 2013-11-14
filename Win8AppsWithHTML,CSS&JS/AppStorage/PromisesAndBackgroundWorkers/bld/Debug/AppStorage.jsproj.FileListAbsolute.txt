@@ -1,0 +1,13 @@
+D:\SkyDrive\Telerik\WinJs\AppStorage\PromisesAndBackgroundWorkers\bin\Debug\resources.pri
+D:\SkyDrive\Telerik\WinJs\AppStorage\PromisesAndBackgroundWorkers\bin\Debug\AppxManifest.xml
+D:\SkyDrive\Telerik\WinJs\AppStorage\PromisesAndBackgroundWorkers\bin\Debug\AppStorage.build.appxrecipe
+D:\SkyDrive\Telerik\WinJs\AppStorage\PromisesAndBackgroundWorkers\bld\Debug\priconfig.xml.intermediate
+D:\SkyDrive\Telerik\WinJs\AppStorage\PromisesAndBackgroundWorkers\bld\Debug\layout.resfiles.intermediate
+D:\SkyDrive\Telerik\WinJs\AppStorage\PromisesAndBackgroundWorkers\bld\Debug\resources.resfiles.intermediate
+D:\SkyDrive\Telerik\WinJs\AppStorage\PromisesAndBackgroundWorkers\bld\Debug\pri.resfiles.intermediate
+D:\SkyDrive\Telerik\WinJs\AppStorage\PromisesAndBackgroundWorkers\bld\Debug\priconfig.xml
+D:\SkyDrive\Telerik\WinJs\AppStorage\PromisesAndBackgroundWorkers\bld\Debug\layout.resfiles
+D:\SkyDrive\Telerik\WinJs\AppStorage\PromisesAndBackgroundWorkers\bld\Debug\resources.resfiles
+D:\SkyDrive\Telerik\WinJs\AppStorage\PromisesAndBackgroundWorkers\bld\Debug\pri.resfiles
+D:\SkyDrive\Telerik\WinJs\AppStorage\PromisesAndBackgroundWorkers\bld\Debug\LanguageQualifiers.txt
+D:\SkyDrive\Telerik\WinJs\AppStorage\PromisesAndBackgroundWorkers\bld\Debug\ProjectArchitectures.txt

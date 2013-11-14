@@ -1,0 +1,12 @@
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\bin\Debug\XamlControls.ClickedItemCollection.exe.config
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\bin\Debug\XamlControls.ClickedItemCollection.exe
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\bin\Debug\XamlControls.ClickedItemCollection.pdb
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\obj\Debug\MainWindow.baml
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\obj\Debug\MainWindow.g.cs
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\obj\Debug\App.g.cs
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\obj\Debug\XamlControls.ClickedItemCollection_MarkupCompile.cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\obj\Debug\XamlControls.ClickedItemCollection.g.resources
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\obj\Debug\XamlControls.ClickedItemCollection.Properties.Resources.resources
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\obj\Debug\XamlControls.ClickedItemCollection.csproj.GenerateResource.Cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\obj\Debug\XamlControls.ClickedItemCollection.exe
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.ClickedItemCollection\obj\Debug\XamlControls.ClickedItemCollection.pdb

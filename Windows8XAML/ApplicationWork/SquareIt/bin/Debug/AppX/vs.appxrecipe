@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MA6INA</Machine>
+    <WindowsUser>zloupotrebitel</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>9D549464101C279A659418D02020DFA718D8FA64C8E1A8530B7D08CAF1FF2985</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>45051f49-e893-4ed4-a96e-c8447827bdda_1.0.0.0_neutral__bzr8dh3gcmq2w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>45051f49-e893-4ed4-a96e-c8447827bdda_bzr8dh3gcmq2w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>45051f49-e893-4ed4-a96e-c8447827bdda</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=zloupotrebitel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-04T18:07:03.673</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\bin\Debug\SquareIt.exe">
+      <PackagePath>SquareIt.exe</PackagePath>
+      <Modified>2013-10-05T16:35:55.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\bin\Debug\SquareIt.pdb">
+      <PackagePath>SquareIt.pdb</PackagePath>
+      <Modified>2013-10-05T16:35:55.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\packages\Newtonsoft.Json.5.0.6\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2013-10-04T16:46:44.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\Assets\150x150.png">
+      <PackagePath>Assets\150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-04T13:09:54.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\Assets\30x30.png">
+      <PackagePath>Assets\30x30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-04T13:15:05.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\Assets\50x50.png">
+      <PackagePath>Assets\50x50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-04T13:16:51.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\Assets\620x300.png">
+      <PackagePath>Assets\620x300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-04T13:25:36.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-10-01T10:10:29.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-10-04T12:12:34.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T13:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\bin\Debug\Views\GameSizeSPage.xaml">
+      <PackagePath>Views\GameSizeSPage.xaml</PackagePath>
+      <Modified>2013-10-05T16:14:29.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\bin\Debug\Views\MainPage.xaml">
+      <PackagePath>Views\MainPage.xaml</PackagePath>
+      <Modified>2013-10-04T08:31:02.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\bin\Debug\Views\PlayerInfoPage.xaml">
+      <PackagePath>Views\PlayerInfoPage.xaml</PackagePath>
+      <Modified>2013-10-05T13:01:53.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\ApplicationWork\SquareIt\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-04T13:31:08.509</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

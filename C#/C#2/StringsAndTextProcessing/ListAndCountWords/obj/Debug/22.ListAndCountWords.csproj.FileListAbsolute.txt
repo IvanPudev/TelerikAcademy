@@ -1,0 +1,6 @@
+F:\SourceCode\C#\StringsAndTextProcessing\ListAndCountWords\bin\Debug\ListAndCountWords.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\ListAndCountWords\bin\Debug\ListAndCountWords.exe
+F:\SourceCode\C#\StringsAndTextProcessing\ListAndCountWords\bin\Debug\ListAndCountWords.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\ListAndCountWords\obj\Debug\22.ListAndCountWords.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\StringsAndTextProcessing\ListAndCountWords\obj\Debug\ListAndCountWords.exe
+F:\SourceCode\C#\StringsAndTextProcessing\ListAndCountWords\obj\Debug\ListAndCountWords.pdb

@@ -1,0 +1,66 @@
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\App.g.i.cs
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\App.g.cs
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\MainPage.g.i.cs
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\MainPage.g.cs
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\App.xaml
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\bin\Debug\TriviaGame.exe
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\bin\Debug\TriviaGame.pdb
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\bin\Debug\resources.pri
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\bin\Debug\AppxManifest.xml
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\bin\Debug\TriviaGame.build.appxrecipe
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\MainPage.xaml
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\TriviaGame.exe
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\TriviaGame.pdb
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\priconfig.xml
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\layout.resfiles
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\resources.resfiles
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\pri.resfiles
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\LanguageQualifiers.txt
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\ProjectArchitectures.txt
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\priconfig.xml.intermediate
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\layout.resfiles.intermediate
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\resources.resfiles.intermediate
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\pri.resfiles.intermediate
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\bin\Debug\Windows.UI.Interactivity.dll
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\bin\Debug\Windows.UI.Interactivity.xml
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\bin\Debug\Windows.UI.Interactivity.pri
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\TriviaGame.csprojResolveAssemblyReference.cache
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\TriviaGame.csproj.GenerateResource.Cache
+C:\Users\Lina\documents\visual studio 2012\Projects\BindingHomework\TriviaGame\obj\Debug\Windows.UI.Interactivity.pri.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\bin\Debug\TriviaGame.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\bin\Debug\TriviaGame.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\bin\Debug\resources.pri
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\bin\Debug\AppxManifest.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\bin\Debug\TriviaGame.build.appxrecipe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\bin\Debug\Windows.UI.Interactivity.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\bin\Debug\Windows.UI.Interactivity.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\bin\Debug\Windows.UI.Interactivity.pri
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\TriviaGame.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\App.g.i.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\App.g.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\MainPage.g.i.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\MainPage.g.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\App.xaml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\Common\StandardStyles.xaml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\MainPage.xaml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\TriviaGame.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\TriviaGame.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\TriviaGame.csproj.GenerateResource.Cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\priconfig.xml.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\layout.resfiles.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\resources.resfiles.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\pri.resfiles.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\priconfig.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\layout.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\resources.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\pri.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\LanguageQualifiers.txt
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\Windows.UI.Interactivity.pri.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TriviaGame\obj\Debug\ProjectArchitectures.txt

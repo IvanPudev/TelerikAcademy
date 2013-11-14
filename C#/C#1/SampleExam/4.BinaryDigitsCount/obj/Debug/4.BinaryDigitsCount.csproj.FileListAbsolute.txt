@@ -1,0 +1,6 @@
+F:\SourceCode\C#\SampleExam\4.BinaryDigitsCount\bin\Debug\4.BinaryDigitsCount.exe.config
+F:\SourceCode\C#\SampleExam\4.BinaryDigitsCount\bin\Debug\4.BinaryDigitsCount.exe
+F:\SourceCode\C#\SampleExam\4.BinaryDigitsCount\bin\Debug\4.BinaryDigitsCount.pdb
+F:\SourceCode\C#\SampleExam\4.BinaryDigitsCount\obj\Debug\4.BinaryDigitsCount.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\SampleExam\4.BinaryDigitsCount\obj\Debug\4.BinaryDigitsCount.exe
+F:\SourceCode\C#\SampleExam\4.BinaryDigitsCount\obj\Debug\4.BinaryDigitsCount.pdb

@@ -1,0 +1,40 @@
+﻿<Window x:Class="CountriesAndTownsListControls.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vms="clr-namespace:ViewModels;assembly=ViewModels"
+        Title="MainWindow" Height="500" Width="525">
+    <Window.DataContext>
+        <vms:CountriesAndTownsViewModel />
+    </Window.DataContext>
+    <Grid DataContext="{Binding Countries}" Background="WhiteSmoke">
+        <Label Height="22" HorizontalAlignment="Left" Margin="10,0,0,0" 
+            VerticalAlignment="Top" Width="63" Content="Countries"></Label>
+        <ListBox Height="69" Margin="10,26,12,0" Name="ListBoxCountries" 
+            ItemsSource="{Binding}" DisplayMemberPath="Name" SelectedValuePath="Language" 
+            IsSynchronizedWithCurrentItem="True" VerticalAlignment="Top"/>
+        <Image Source="{Binding NationalFlag}" Margin="218,180,219,241" />
+        <Label Width="58" Height="25" HorizontalAlignment="Left"
+            VerticalAlignment="Top" Margin="3,101,0,0" Content="Country:"></Label>
+        <TextBox Text="{Binding Path=Name}" Margin="73,101,12,0" Height="25"
+            VerticalAlignment="Top" />
+        <Label Width="70" Height="25" HorizontalAlignment="Left"
+            VerticalAlignment="Top" Margin="3,131,0,0" Content="Language:"></Label>
+        <TextBox Text="{Binding Path=Language}" Margin="73,131,12,0" Height="25"
+            VerticalAlignment="Top" />
+        <Label Width="92" Height="25" HorizontalAlignment="Left"
+            VerticalAlignment="Top" Margin="3,230,0,0" Content="Country towns:"></Label>
+        <Grid DataContext="{Binding Towns}">
+            <ListBox Height="69" Margin="12,260,10,155" Name="ListBoxTowns" 
+            ItemsSource="{Binding}" DisplayMemberPath="Name" SelectedValuePath="Towns" 
+            IsSynchronizedWithCurrentItem="True"/>
+            <Label Width="58" Height="25" HorizontalAlignment="Left"
+            VerticalAlignment="Top" Margin="3,340,0,0" Content="Town name:"></Label>
+            <TextBox Text="{Binding Path=Name}" Margin="73,340,12,0" Height="25"
+            VerticalAlignment="Top" />
+            <Label Width="70" Height="25" HorizontalAlignment="Left"
+            VerticalAlignment="Top" Margin="3,370,0,0" Content="Population:"></Label>
+            <TextBox Text="{Binding Path=Population}" Margin="73,370,12,0" Height="25"
+            VerticalAlignment="Top" />
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\CodeFormatting\JSFile\bin\JSFile.dll
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\CodeFormatting\JSFile\bin\JSFile.pdb
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\CodeFormatting\JSFile\obj\Debug\JSFile.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\CodeFormatting\JSFile\obj\Debug\JSFile.dll
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\CodeFormatting\JSFile\obj\Debug\JSFile.pdb

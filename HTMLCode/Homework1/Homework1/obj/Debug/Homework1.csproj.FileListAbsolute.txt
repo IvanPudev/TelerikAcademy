@@ -1,0 +1,10 @@
+F:\SourseCode\HTMLCode\Homework1\Homework1\bin\Homework1.dll
+F:\SourseCode\HTMLCode\Homework1\Homework1\bin\Homework1.pdb
+F:\SourseCode\HTMLCode\Homework1\Homework1\obj\Debug\Homework1.csprojResolveAssemblyReference.cache
+F:\SourseCode\HTMLCode\Homework1\Homework1\obj\Debug\Homework1.dll
+F:\SourseCode\HTMLCode\Homework1\Homework1\obj\Debug\Homework1.pdb
+F:\SourceCode\HTMLCode\Homework1\Homework1\bin\Homework1.dll
+F:\SourceCode\HTMLCode\Homework1\Homework1\bin\Homework1.pdb
+F:\SourceCode\HTMLCode\Homework1\Homework1\obj\Debug\Homework1.csprojResolveAssemblyReference.cache
+F:\SourceCode\HTMLCode\Homework1\Homework1\obj\Debug\Homework1.dll
+F:\SourceCode\HTMLCode\Homework1\Homework1\obj\Debug\Homework1.pdb

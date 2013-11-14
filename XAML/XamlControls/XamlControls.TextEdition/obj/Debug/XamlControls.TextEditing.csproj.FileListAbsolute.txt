@@ -1,0 +1,12 @@
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.TextEdition\bin\Debug\XamlControls.TextEditing.exe.config
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.TextEdition\bin\Debug\XamlControls.TextEditing.exe
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.TextEdition\bin\Debug\XamlControls.TextEditing.pdb
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.TextEdition\obj\Debug\MainWindow.baml
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.TextEdition\obj\Debug\MainWindow.g.cs
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.TextEdition\obj\Debug\App.g.cs
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.TextEdition\obj\Debug\XamlControls.TextEditing_MarkupCompile.cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.TextEdition\obj\Debug\XamlControls.TextEditing.g.resources
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.TextEdition\obj\Debug\XamlControls.TextEditing.Properties.Resources.resources
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.TextEdition\obj\Debug\XamlControls.TextEditing.csproj.GenerateResource.Cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.TextEdition\obj\Debug\XamlControls.TextEditing.exe
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.TextEdition\obj\Debug\XamlControls.TextEditing.pdb

@@ -1,0 +1,5 @@
+F:\SourceCode\CSS\LESS\LESS\bin\LESS.dll
+F:\SourceCode\CSS\LESS\LESS\bin\LESS.pdb
+F:\SourceCode\CSS\LESS\LESS\obj\Debug\LESS.csprojResolveAssemblyReference.cache
+F:\SourceCode\CSS\LESS\LESS\obj\Debug\LESS.dll
+F:\SourceCode\CSS\LESS\LESS\obj\Debug\LESS.pdb

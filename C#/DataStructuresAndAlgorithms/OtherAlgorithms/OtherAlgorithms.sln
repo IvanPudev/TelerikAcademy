@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1Coins", "Task1Coins\Task1Coins.csproj", "{6053F779-B3B8-4CA4-BF09-E3E29D309E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2TriangleAndPoint", "Task2TriangleAndPoint\Task2TriangleAndPoint.csproj", "{5F5FCAF3-B34E-4544-957A-3D23390B5931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6053F779-B3B8-4CA4-BF09-E3E29D309E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6053F779-B3B8-4CA4-BF09-E3E29D309E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6053F779-B3B8-4CA4-BF09-E3E29D309E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6053F779-B3B8-4CA4-BF09-E3E29D309E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5FCAF3-B34E-4544-957A-3D23390B5931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5FCAF3-B34E-4544-957A-3D23390B5931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5FCAF3-B34E-4544-957A-3D23390B5931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5FCAF3-B34E-4544-957A-3D23390B5931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

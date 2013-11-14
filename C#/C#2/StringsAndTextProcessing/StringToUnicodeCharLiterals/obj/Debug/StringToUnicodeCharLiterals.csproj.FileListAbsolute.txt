@@ -1,0 +1,1 @@
+F:\SourceCode\C#\StringsAndTextProcessing\StringToUnicodeCharLiterals\bin\Debug\StringToUnicodeCharLiterals.exe.config

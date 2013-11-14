@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Persons name="Persons">
+	<person>
+		<name>Pesho Peshev</name>
+		<address />
+		<phone>Pesho Peshev</phone>
+		<person>
+			<name />
+			<address />
+			<phone>0898989898</phone>
+			<person>
+				<name>Gosho Peshev</name>
+				<address />
+				<phone>Gosho Peshev</phone>
+				<person>
+					<name />
+					<address />
+					<phone>0896222222</phone>
+					<person>
+						<name>Misho Peshev</name>
+						<address />
+						<phone>Misho Peshev</phone>
+						<person>
+							<name />
+							<address />
+							<phone>0898111111</phone>
+						</person>
+					</person>
+				</person>
+			</person>
+		</person>
+	</person>
+</Persons>

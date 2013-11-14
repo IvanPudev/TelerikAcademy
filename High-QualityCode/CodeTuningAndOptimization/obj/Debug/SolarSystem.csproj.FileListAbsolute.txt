@@ -1,0 +1,12 @@
+G:\CodeTuningAndOptimization\bin\Debug\SolarSystem.exe
+G:\CodeTuningAndOptimization\bin\Debug\SolarSystem.pdb
+G:\CodeTuningAndOptimization\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+G:\CodeTuningAndOptimization\obj\Debug\MainWindow.g.cs
+G:\CodeTuningAndOptimization\obj\Debug\App.g.cs
+G:\CodeTuningAndOptimization\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\CodeTuningAndOptimization\obj\Debug\SolarSystem_MarkupCompile.cache
+G:\CodeTuningAndOptimization\obj\Debug\SolarSystem_MarkupCompile.lref
+G:\CodeTuningAndOptimization\obj\Debug\MainWindow.baml
+G:\CodeTuningAndOptimization\obj\Debug\SolarSystem.g.resources
+G:\CodeTuningAndOptimization\obj\Debug\SolarSystem.exe
+G:\CodeTuningAndOptimization\obj\Debug\SolarSystem.pdb

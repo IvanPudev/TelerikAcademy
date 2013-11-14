@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="e4abf783-bea1-4702-9e9d-2f6e8d481b4e">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>Extension-MethodsLamdaAndLINQ/Extensions.cs</FileRelativePath>
+        <ProjectRelativePath>Extension-MethodsLamdaAndLINQ/Extension-MethodsLamdaAndLINQ.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>1030858189384552845</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>8311985648414482834</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>11857174123433844343</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

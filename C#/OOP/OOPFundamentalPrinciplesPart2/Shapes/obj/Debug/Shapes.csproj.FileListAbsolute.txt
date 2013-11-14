@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\OOPFundamentalPrinciplesPart2\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\OOPFundamentalPrinciplesPart2\Shapes\bin\Debug\Shapes.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\OOPFundamentalPrinciplesPart2\Shapes\bin\Debug\Shapes.pdb
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\OOPFundamentalPrinciplesPart2\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\OOPFundamentalPrinciplesPart2\Shapes\obj\Debug\Shapes.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\OOPFundamentalPrinciplesPart2\Shapes\obj\Debug\Shapes.pdb

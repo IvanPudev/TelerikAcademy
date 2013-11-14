@@ -1,0 +1,6 @@
+F:\SourceCode\C#\OperatorsAndExpressions\4.CheckThe ThirdSymbolEquals7\bin\Debug\4.CheckThe ThirdSymbolEquals7.exe.config
+F:\SourceCode\C#\OperatorsAndExpressions\4.CheckThe ThirdSymbolEquals7\bin\Debug\4.CheckThe ThirdSymbolEquals7.exe
+F:\SourceCode\C#\OperatorsAndExpressions\4.CheckThe ThirdSymbolEquals7\bin\Debug\4.CheckThe ThirdSymbolEquals7.pdb
+F:\SourceCode\C#\OperatorsAndExpressions\4.CheckThe ThirdSymbolEquals7\obj\Debug\4.CheckTheThirdSymbolEquals7.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\OperatorsAndExpressions\4.CheckThe ThirdSymbolEquals7\obj\Debug\4.CheckThe ThirdSymbolEquals7.exe
+F:\SourceCode\C#\OperatorsAndExpressions\4.CheckThe ThirdSymbolEquals7\obj\Debug\4.CheckThe ThirdSymbolEquals7.pdb

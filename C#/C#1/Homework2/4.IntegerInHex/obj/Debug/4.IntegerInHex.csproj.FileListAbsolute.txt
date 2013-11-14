@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Homework2\4.IntegerInHex\bin\Debug\4.IntegerInHex.exe.config
+F:\SourceCode\C#\Homework2\4.IntegerInHex\bin\Debug\4.IntegerInHex.exe
+F:\SourceCode\C#\Homework2\4.IntegerInHex\bin\Debug\4.IntegerInHex.pdb
+F:\SourceCode\C#\Homework2\4.IntegerInHex\obj\Debug\4.IntegerInHex.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Homework2\4.IntegerInHex\obj\Debug\4.IntegerInHex.exe
+F:\SourceCode\C#\Homework2\4.IntegerInHex\obj\Debug\4.IntegerInHex.pdb

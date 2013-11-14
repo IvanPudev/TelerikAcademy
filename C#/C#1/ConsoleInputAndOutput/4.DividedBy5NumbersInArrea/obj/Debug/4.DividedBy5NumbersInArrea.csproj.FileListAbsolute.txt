@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\4.DividedBy5NumbersInArrea\bin\Debug\4.DividedBy5NumbersInArrea.exe.config
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\4.DividedBy5NumbersInArrea\bin\Debug\4.DividedBy5NumbersInArrea.exe
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\4.DividedBy5NumbersInArrea\bin\Debug\4.DividedBy5NumbersInArrea.pdb
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\4.DividedBy5NumbersInArrea\obj\Debug\4.DividedBy5NumbersInArrea.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\4.DividedBy5NumbersInArrea\obj\Debug\4.DividedBy5NumbersInArrea.exe
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\4.DividedBy5NumbersInArrea\obj\Debug\4.DividedBy5NumbersInArrea.pdb

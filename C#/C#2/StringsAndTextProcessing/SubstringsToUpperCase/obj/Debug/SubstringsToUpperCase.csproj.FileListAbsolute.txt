@@ -1,0 +1,1 @@
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringsToUpperCase\bin\Debug\SubstringsToUpperCase.exe.config

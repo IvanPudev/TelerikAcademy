@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Loops\4.DivisionOfNAndKFactorial\bin\Debug\4.DivisionOfNAndKFactorial.exe.config
+F:\SourceCode\C#\Loops\4.DivisionOfNAndKFactorial\obj\Debug\4.DivisionOfNAndKFactorial.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Loops\4.DivisionOfNAndKFactorial\bin\Debug\4.DivisionOfNAndKFactorial.exe
+F:\SourceCode\C#\Loops\4.DivisionOfNAndKFactorial\bin\Debug\4.DivisionOfNAndKFactorial.pdb
+F:\SourceCode\C#\Loops\4.DivisionOfNAndKFactorial\obj\Debug\4.DivisionOfNAndKFactorial.exe
+F:\SourceCode\C#\Loops\4.DivisionOfNAndKFactorial\obj\Debug\4.DivisionOfNAndKFactorial.pdb

@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Tag Cloud</title>
+    <style>
+        .floated {
+            float: left;
+            margin: 5px;
+            padding: 0;
+            font-size: 16px;
+            font-weight: normal;
+        }
+        .bordered {
+            width: 500px;
+            height: 200px;
+            border:1px solid black;
+            margin: 20px;
+        }
+        #generate-tagCloud-btn {
+            background-color:#b6ff00;
+        }
+    </style>
+</head>
+<body>
+    <p>Tag list:</p>
+    <div id="tagsList" class="bordered">
+        <div class="floated">DIV</div>
+        <span class="floated">SPAN</span>
+        <div class="floated">DIV</div>
+        <div class="floated">DIV</div>
+        <span class="floated">SPAN</span>
+        <div class="floated">DIV</div>
+        <a class="floated">ANCHOR</a>
+        <div class="floated">DIV</div>
+        <a class="floated">ANCHOR</a>
+        <h1 class="floated">H1</h1>
+        <a class="floated">ANCHOR</a>
+        <h1 class="floated">H1</h1>
+        <div class="floated">DIV</div>
+        <div class="floated">DIV</div>
+        <a class="floated">ANCHOR</a>
+    </div>
+    <a href="#" id="generate-tagCloud-btn" class="bordered" onclick="onGenerateTagCloudClick()">Generate tag cloud</a>
+    <p>Tag cloud:</p>
+    <div id="tagsContainer" class="bordered">
+    </div>
+    <script>
+        function onGenerateTagCloudClick() {
+            var divs = document.getElementsByTagName('div');
+            var spans = document.getElementsByTagName('span');
+            var anchors = document.getElementsByTagName('a');
+            var h1 = document.getElementsByTagName('h1');
+
+            var allElementsNumber = divs.length + spans.length +
+                                    anchors.length + h1.length;
+
+            //set font-sizes between 10px and 20px, depending on % occurances
+            var minFontSize = 10;
+
+            var divSize = minFontSize + Math.floor(divs.length / allElementsNumber * 10) + 'px';
+            var spanSize = minFontSize + Math.floor(spans.length / allElementsNumber * 10) + 'px';
+            var anchorSize = minFontSize + Math.floor(anchors.length / allElementsNumber * 10) + 'px';
+            var h1Size = minFontSize + Math.floor(h1.length / allElementsNumber * 10) + 'px';
+
+            var divString = document.createElement('p');
+            divString.innerText = ' div ';
+            divString.style.fontSize = divSize;
+            var spanString = document.createElement('p');
+            spanString.innerText = ' span ';
+            spanString.style.fontSize = spanSize;
+            var anchorString = document.createElement('p');
+            anchorString.innerText = ' anchor ';
+            anchorString.style.fontSize = anchorSize;
+            var h1String = document.createElement('p');
+            h1String.innerText = ' h1 ';
+            h1String.style.fontSize = h1Size;
+
+            var tagsContainer = document.getElementById('tagsContainer');
+            tagsContainer.innerHTML = "";
+            tagsContainer.appendChild(divString);
+            tagsContainer.appendChild(spanString);
+            tagsContainer.appendChild(anchorString);
+            tagsContainer.appendChild(h1String);
+        }
+    </script>
+</body>
+</html>

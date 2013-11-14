@@ -1,0 +1,6 @@
+F:\SourceCode\C#\StringsAndTextProcessing\FillTheShortString\bin\Debug\FillTheShortString.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\FillTheShortString\bin\Debug\FillTheShortString.exe
+F:\SourceCode\C#\StringsAndTextProcessing\FillTheShortString\bin\Debug\FillTheShortString.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\FillTheShortString\obj\Debug\6.FillTheShortString.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\StringsAndTextProcessing\FillTheShortString\obj\Debug\FillTheShortString.exe
+F:\SourceCode\C#\StringsAndTextProcessing\FillTheShortString\obj\Debug\FillTheShortString.pdb

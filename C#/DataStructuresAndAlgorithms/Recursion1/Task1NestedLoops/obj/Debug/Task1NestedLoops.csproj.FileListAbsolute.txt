@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task1NestedLoops\bin\Debug\Task1NestedLoops.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task1NestedLoops\bin\Debug\Task1NestedLoops.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task1NestedLoops\bin\Debug\Task1NestedLoops.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task1NestedLoops\obj\Debug\Task1NestedLoops.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task1NestedLoops\obj\Debug\Task1NestedLoops.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task1NestedLoops\obj\Debug\Task1NestedLoops.pdb

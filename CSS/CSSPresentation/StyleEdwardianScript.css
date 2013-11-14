@@ -1,0 +1,15 @@
+﻿body
+{
+    font-family: Consolas, 'Edwardian Script ITC';
+    color:#0094ff;
+}
+p {
+
+    word-wrap:hyphenate;
+}
+    p::first-letter {
+        font:bold 3em 'Edwardian Script ITC';
+    }
+    p::first-line {
+        font-weight:bold;
+    }

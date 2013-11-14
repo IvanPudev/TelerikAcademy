@@ -1,0 +1,6 @@
+F:\SourceCode\C#\OperatorsAndExpressions\6.PointAndCircle\bin\Debug\6.PointAndCircle.exe.config
+F:\SourceCode\C#\OperatorsAndExpressions\6.PointAndCircle\bin\Debug\6.PointAndCircle.exe
+F:\SourceCode\C#\OperatorsAndExpressions\6.PointAndCircle\bin\Debug\6.PointAndCircle.pdb
+F:\SourceCode\C#\OperatorsAndExpressions\6.PointAndCircle\obj\Debug\6.PointAndCircle.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\OperatorsAndExpressions\6.PointAndCircle\obj\Debug\6.PointAndCircle.exe
+F:\SourceCode\C#\OperatorsAndExpressions\6.PointAndCircle\obj\Debug\6.PointAndCircle.pdb

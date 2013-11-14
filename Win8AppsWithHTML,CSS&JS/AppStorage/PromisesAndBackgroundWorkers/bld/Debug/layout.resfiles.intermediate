@@ -1,0 +1,12 @@
+css\default.css
+default.html
+images\logo.png
+images\smalllogo.png
+images\splashscreen.png
+images\storelogo.png
+js\DedicatedWorker.js
+js\default.js
+js\Helpers\Utilities.js
+js\PrimeCalculator.js
+js\PrimeWorker.js
+viewModels\PrimeCalculatorViewModel.js

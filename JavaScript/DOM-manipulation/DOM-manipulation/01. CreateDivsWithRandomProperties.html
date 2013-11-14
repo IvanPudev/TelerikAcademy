@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Create Divs With Random Properties</title>
+</head>
+<body>
+    <label for="tb-number">Enter number of divs to display:</label>
+    <input type="text" id="tb-number" />
+    <a id="generator" href="#">Generate</a>
+    <div id="divsContainer"></div>
+    <script>
+        (function () {
+            'use strict';
+            var generatorButton = document.getElementById('generator');
+            generatorButton.addEventListener('click', onCreateDivsClick, false)
+
+            function onCreateDivsClick() {
+                var divsContainer = document.getElementById('divsContainer');
+                divsContainer.innerHTML = "";
+                var numberOfDivs = document.getElementById('tb-number').value;
+
+                var divStorage = document.createDocumentFragment();
+
+                for (var i = 0; i < numberOfDivs; i++) {
+                    var divGenerated = document.createElement('div');
+
+                    var strongElement = document.createElement('strong');
+                    var textNode = document.createTextNode('div');
+                    strongElement.appendChild(textNode);
+                    divGenerated.appendChild(strongElement);
+
+                    divGenerated.style.width = getRandomInt(20, 100) + 'px';
+                    divGenerated.style.height = getRandomInt(20, 100) + 'px';
+                    divGenerated.style.color = '#' + getRandomColorHex();
+                    divGenerated.style.background = '#' + getRandomColorHex();
+                    divGenerated.style.border = getRandomInt(1, 20) + 'px' + ' solid ' + '#' + getRandomColorHex();
+                    divGenerated.style.borderRadius = getRandomInt(20, 100) + 'px';
+                    divGenerated.style.position = 'absolute';
+                    divGenerated.style.top = getRandomInt(50, 600) + 'px';
+                    divGenerated.style.left = getRandomInt(50, 600) + 'px';
+
+                    divStorage.appendChild(divGenerated);
+                }
+                divsContainer.appendChild(divStorage);
+            }
+
+            function getRandomInt(min, max) {
+                return Math.floor(Math.random() * (max - min + 1)) + min;
+            }
+
+            function getRandomColorHex() {
+                var hexValues = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F'];
+                var randomHexValue = [];
+
+                for (var i = 0; i < 6; i++) {
+                    randomHexValue.push(hexValues[getRandomInt(0, 15)]);
+                }
+
+                var randomHexValueAsString = randomHexValue.toString().replace(/[,]/g, '');
+                return randomHexValueAsString;
+            }
+        })();
+    </script>
+</body>
+</html>

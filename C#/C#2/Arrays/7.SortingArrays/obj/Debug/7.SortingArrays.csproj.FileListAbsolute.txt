@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Arrays\7.SortingArrays\bin\Debug\7.SortingArrays.exe.config
+F:\SourceCode\C#\Arrays\7.SortingArrays\bin\Debug\7.SortingArrays.exe
+F:\SourceCode\C#\Arrays\7.SortingArrays\bin\Debug\7.SortingArrays.pdb
+F:\SourceCode\C#\Arrays\7.SortingArrays\obj\Debug\7.SortingArrays.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Arrays\7.SortingArrays\obj\Debug\7.SortingArrays.exe
+F:\SourceCode\C#\Arrays\7.SortingArrays\obj\Debug\7.SortingArrays.pdb

@@ -1,0 +1,89 @@
+﻿a:link {color:#40C0F3;}
+
+header, nav {
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-family:verdana, san-serif;
+	background-color:black;
+	padding-left:25%;
+	padding-top:5%;
+}
+
+#div_out{
+	width:650px;
+	height:490px;
+	background-color:white;
+	padding:10px;
+	border-radius:7px 3px 3px 7px;
+}
+
+header{
+	border-bottom:2px solid black;
+}
+header ol{
+	margin-bottom:8px;
+}
+
+header li{
+	list-style-type:none;
+	display:inline;
+}
+
+section{
+	border:2px solid black;
+	width:442px;
+	height:428px;
+	float:left;
+	padding-top:6px;
+	padding-left:3px;
+	margin-top:10px;
+}
+section .div_img{
+	float:left;
+	width:102px;
+	height:62px;
+	background-image:url("laptop.png");
+	background-size:100px 60px;
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+}
+section fieldset{
+	height:115px;
+	width:190px;
+	font-size:14px;
+	padding:10px;
+	border:2px solid black;
+}
+.fieldset_left{
+	float:left;
+	border:2px solid black;
+}
+section fieldset legend{
+	margin-left:30px;
+}
+section ul{
+	padding:0px;
+	margin:0px;
+}
+section ul li{
+	clear:both;
+	list-style-type:none;
+	display:inline;
+	padding-left:14px;
+}
+section ol li{
+	list-style-type:none;
+	padding:5px;
+	margin-top:5px;
+}
+
+aside{
+	padding-top:60px;
+	padding-left:460px;
+}
+aside p{
+	padding-left:10px; 
+}

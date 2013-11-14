@@ -1,0 +1,1 @@
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringCountingInText\bin\Debug\SubstringCountingInText.exe.config

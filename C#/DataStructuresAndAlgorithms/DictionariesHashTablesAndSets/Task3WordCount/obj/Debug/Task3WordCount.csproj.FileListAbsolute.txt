@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\DictionariesHashTablesAndSets\Task3WordCount\bin\Debug\Task3WordCount.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\DictionariesHashTablesAndSets\Task3WordCount\bin\Debug\Task3WordCount.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\DictionariesHashTablesAndSets\Task3WordCount\bin\Debug\Task3WordCount.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\DictionariesHashTablesAndSets\Task3WordCount\obj\Debug\Task3WordCount.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\DictionariesHashTablesAndSets\Task3WordCount\obj\Debug\Task3WordCount.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\DictionariesHashTablesAndSets\Task3WordCount\obj\Debug\Task3WordCount.pdb

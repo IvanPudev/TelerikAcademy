@@ -1,0 +1,6 @@
+F:\SourceCode\C#\StringsAndTextProcessing\CensoredText\bin\Debug\CensoredText.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\CensoredText\bin\Debug\CensoredText.exe
+F:\SourceCode\C#\StringsAndTextProcessing\CensoredText\bin\Debug\CensoredText.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\CensoredText\obj\Debug\9.CensoredText.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\StringsAndTextProcessing\CensoredText\obj\Debug\CensoredText.exe
+F:\SourceCode\C#\StringsAndTextProcessing\CensoredText\obj\Debug\CensoredText.pdb

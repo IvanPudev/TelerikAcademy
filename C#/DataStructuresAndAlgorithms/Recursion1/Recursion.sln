@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1NestedLoops", "Task1NestedLoops\Task1NestedLoops.csproj", "{63622480-3453-4B85-AD50-0455240AEB0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2CombinationWithDuplicates", "Task2CombinationWithDuplicates\Task2CombinationWithDuplicates.csproj", "{2BE23200-88C2-4098-9CB8-E1871E93D2C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3CombinationWithoutRepeating", "Task3CombinationWithoutRepeating\Task3CombinationWithoutRepeating.csproj", "{15ABB745-C707-48A4-93B2-614076EBB08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63622480-3453-4B85-AD50-0455240AEB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63622480-3453-4B85-AD50-0455240AEB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63622480-3453-4B85-AD50-0455240AEB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63622480-3453-4B85-AD50-0455240AEB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE23200-88C2-4098-9CB8-E1871E93D2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE23200-88C2-4098-9CB8-E1871E93D2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE23200-88C2-4098-9CB8-E1871E93D2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE23200-88C2-4098-9CB8-E1871E93D2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15ABB745-C707-48A4-93B2-614076EBB08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15ABB745-C707-48A4-93B2-614076EBB08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15ABB745-C707-48A4-93B2-614076EBB08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15ABB745-C707-48A4-93B2-614076EBB08A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BlogingSystem.Model\bin\Debug\BloggingSystem.Model.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BlogingSystem.Model\bin\Debug\BloggingSystem.Model.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BlogingSystem.Model\obj\Debug\BloggingSystem.Model.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BlogingSystem.Model\obj\Debug\BloggingSystem.Model.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BlogingSystem.Model\obj\Debug\BloggingSystem.Model.pdb

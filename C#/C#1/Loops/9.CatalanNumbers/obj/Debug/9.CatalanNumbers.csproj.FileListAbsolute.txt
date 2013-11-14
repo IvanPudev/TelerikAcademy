@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Loops\9.CatalanNumbers\bin\Debug\9.CatalanNumbers.exe.config
+F:\SourceCode\C#\Loops\9.CatalanNumbers\bin\Debug\9.CatalanNumbers.exe
+F:\SourceCode\C#\Loops\9.CatalanNumbers\bin\Debug\9.CatalanNumbers.pdb
+F:\SourceCode\C#\Loops\9.CatalanNumbers\obj\Debug\9.CatalanNumbers.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Loops\9.CatalanNumbers\obj\Debug\9.CatalanNumbers.exe
+F:\SourceCode\C#\Loops\9.CatalanNumbers\obj\Debug\9.CatalanNumbers.pdb

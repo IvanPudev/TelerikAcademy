@@ -1,0 +1,6 @@
+F:\SourceCode\C#\ConditionalStatements\8.EditingVariablesDependingOnType\bin\Debug\8.EditingVariablesDependingOnType.exe.config
+F:\SourceCode\C#\ConditionalStatements\8.EditingVariablesDependingOnType\bin\Debug\8.EditingVariablesDependingOnType.exe
+F:\SourceCode\C#\ConditionalStatements\8.EditingVariablesDependingOnType\bin\Debug\8.EditingVariablesDependingOnType.pdb
+F:\SourceCode\C#\ConditionalStatements\8.EditingVariablesDependingOnType\obj\Debug\8.EditingVariablesDependingOnType.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\ConditionalStatements\8.EditingVariablesDependingOnType\obj\Debug\8.EditingVariablesDependingOnType.exe
+F:\SourceCode\C#\ConditionalStatements\8.EditingVariablesDependingOnType\obj\Debug\8.EditingVariablesDependingOnType.pdb

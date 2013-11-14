@@ -1,0 +1,1 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\Transactions\ATMDatabase.Data\obj\Debug\ATMDatabase.Data.csprojResolveAssemblyReference.cache

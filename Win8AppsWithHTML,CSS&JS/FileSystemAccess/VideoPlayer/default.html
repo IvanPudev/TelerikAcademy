@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>VideoPlayer</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- VideoPlayer references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <div id="screen">
+        <video src="#" id="video-player" controls="controls"></video>
+    </div>
+    <div id="video-container">
+        <h3>PLAYLIST</h3>
+        <ul id="video-playlist"></ul>
+        <div data-win-control="WinJS.UI.AppBar" data-win-options="">
+            <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{
+                id: 'bn_addvideo',
+                label: 'Add Video',
+                icon: 'add',
+                section :'global',
+                tooltip: 'Add Video'
+                }">
+            </button>
+            <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{
+                id: 'bn_removevideo',
+                label: 'Remove Video',
+                icon: 'remove',
+                section: 'global',
+                tooltip: 'Remove Video'
+                }">
+            </button>
+            <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{
+                id: 'bn_saveplaylist',
+                label: 'Save Playlist',
+                icon: 'save',
+                section: 'selection',
+                tooltip: 'Save playlist to file'
+                }">
+            </button>
+            <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{
+                id: 'bn_loadplaylist',
+                label: 'Load Playlist',
+                icon: 'openfile',
+                section: 'selection',
+                tooltip: 'Load playlist from file'
+                }"></button>
+        </div>
+    </div>
+</body>
+</html>

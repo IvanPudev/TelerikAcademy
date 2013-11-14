@@ -1,0 +1,33 @@
+﻿body {
+    font-family:sans-serif;
+    background-color: #505050;
+    font-weight:bold;
+}
+table {
+    border:none;
+}
+td {
+    padding-top:16px;
+}
+thead {
+    font-size: 20px;
+    color: #909090;
+}
+tbody {
+    vertical-align:text-top;
+     color: navajowhite;
+}
+.red {
+    color: red;
+    padding-top:0px;
+}
+.italic {
+    font-style: italic;
+    color: lightgray;
+}
+.orange {
+    color: darkorange;
+}
+.gray {
+    color: #909090;
+}

@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Methods\7.PrintNumberBackwards\bin\Debug\7.PrintNumberBackwards.exe.config
+F:\SourceCode\C#\Methods\7.PrintNumberBackwards\obj\Debug\7.PrintNumberBackwards.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Methods\7.PrintNumberBackwards\bin\Debug\7.PrintNumberBackwards.exe
+F:\SourceCode\C#\Methods\7.PrintNumberBackwards\bin\Debug\7.PrintNumberBackwards.pdb
+F:\SourceCode\C#\Methods\7.PrintNumberBackwards\obj\Debug\7.PrintNumberBackwards.exe
+F:\SourceCode\C#\Methods\7.PrintNumberBackwards\obj\Debug\7.PrintNumberBackwards.pdb

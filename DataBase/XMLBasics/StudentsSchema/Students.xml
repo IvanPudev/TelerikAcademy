@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-styleshheet type="text/xsl" href="Students.xsl"?>
+<Students>
+  <class name="StudentsInClass">
+    <student>
+      <name>Pesho Peshev</name>
+      <gender>male</gender>
+      <birth-date>1989-01-01</birth-date>
+      <phone>0878787878</phone>
+      <e-mail>pesho@mailserver.it</e-mail>
+      <course>math</course>
+      <specialty>IT</specialty>
+      <faculty-number>IT11111111</faculty-number>
+      <taken-exams>
+        <exam>
+          <exam-name>C#</exam-name>
+          <tutor>Nakov</tutor>
+          <exam-score>80</exam-score>
+        </exam>
+        <exam>
+          <exam-name>Databases</exam-name>
+          <tutor>Nakov</tutor>
+          <exam-score>100</exam-score>
+        </exam>
+      </taken-exams>
+      <enrollment-info>
+        <enrolled>
+          <date>2012-05-06</date>
+          <enrollment-score>100</enrollment-score>
+        </enrolled>
+      </enrollment-info>
+      <teacher-endorsement>
+        <endorsed-by>
+          <name>Nakov</name>
+        </endorsed-by>
+        <endorsed-by>
+          <name>Minkov</name>
+        </endorsed-by>
+      </teacher-endorsement>
+    </student>
+    <student>
+      <name>Gosho Goshev</name>
+      <gender>male</gender>
+      <birth-date>1989-01-01</birth-date>
+      <phone>0898989898</phone>
+      <e-mail>gosho@mailserver.it</e-mail>
+      <course>math</course>
+      <specialty>IT</specialty>
+      <faculty-number>IT22222222</faculty-number>
+      <taken-exams>
+        <exam>
+          <exam-name>C#</exam-name>
+          <tutor>Nakov</tutor>
+          <exam-score>100</exam-score>
+        </exam>
+        <exam>
+          <exam-name>Databases</exam-name>
+          <tutor>Nakov</tutor>
+          <exam-score>100</exam-score>
+        </exam>
+      </taken-exams>
+      <enrollment-info>
+        <enrolled>
+          <date>2012-05-06</date>
+          <enrollment-score>100</enrollment-score>
+        </enrolled>
+      </enrollment-info>
+      <teacher-endorsement>
+        <endorsed-by>
+          <name>Nakov</name>
+        </endorsed-by>
+        <endorsed-by>
+          <name>Minkov</name></endorsed-by>
+      </teacher-endorsement>
+    </student>
+  </class>
+</Students>

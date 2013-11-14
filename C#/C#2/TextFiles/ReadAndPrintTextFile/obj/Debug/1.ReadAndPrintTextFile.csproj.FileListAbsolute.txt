@@ -1,0 +1,6 @@
+F:\SourceCode\C#\TextFiles\ReadAndPrintTextFile\bin\Debug\ReadAndPrintTextFile.exe.config
+F:\SourceCode\C#\TextFiles\ReadAndPrintTextFile\bin\Debug\ReadAndPrintTextFile.exe
+F:\SourceCode\C#\TextFiles\ReadAndPrintTextFile\bin\Debug\ReadAndPrintTextFile.pdb
+F:\SourceCode\C#\TextFiles\ReadAndPrintTextFile\obj\Debug\1.ReadAndPrintTextFile.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\TextFiles\ReadAndPrintTextFile\obj\Debug\ReadAndPrintTextFile.exe
+F:\SourceCode\C#\TextFiles\ReadAndPrintTextFile\obj\Debug\ReadAndPrintTextFile.pdb

@@ -1,0 +1,8 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkPerformance\TelerikAcademy.Data\bin\Debug\TelerikAcademy.Data.dll.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkPerformance\TelerikAcademy.Data\bin\Debug\TelerikAcademy.Data.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkPerformance\TelerikAcademy.Data\bin\Debug\TelerikAcademy.Data.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkPerformance\TelerikAcademy.Data\bin\Debug\EntityFramework.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkPerformance\TelerikAcademy.Data\bin\Debug\EntityFramework.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkPerformance\TelerikAcademy.Data\obj\Debug\TelerikAcademy.Data.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkPerformance\TelerikAcademy.Data\obj\Debug\TelerikAcademy.Data.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkPerformance\TelerikAcademy.Data\obj\Debug\TelerikAcademy.Data.pdb

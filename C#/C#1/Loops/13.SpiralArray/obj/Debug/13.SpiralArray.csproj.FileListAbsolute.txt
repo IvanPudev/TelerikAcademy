@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Loops\13.SpiralArray\bin\Debug\13.SpiralArray.exe.config
+F:\SourceCode\C#\Loops\13.SpiralArray\bin\Debug\13.SpiralArray.exe
+F:\SourceCode\C#\Loops\13.SpiralArray\bin\Debug\13.SpiralArray.pdb
+F:\SourceCode\C#\Loops\13.SpiralArray\obj\Debug\13.SpiralArray.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Loops\13.SpiralArray\obj\Debug\13.SpiralArray.exe
+F:\SourceCode\C#\Loops\13.SpiralArray\obj\Debug\13.SpiralArray.pdb

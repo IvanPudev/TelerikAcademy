@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task4AddNewProduct\bin\Debug\Task4AddNewProduct.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task4AddNewProduct\bin\Debug\Task4AddNewProduct.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task4AddNewProduct\bin\Debug\Task4AddNewProduct.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task4AddNewProduct\obj\Debug\Task4AddNewProduct.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task4AddNewProduct\obj\Debug\Task4AddNewProduct.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task4AddNewProduct\obj\Debug\Task4AddNewProduct.pdb

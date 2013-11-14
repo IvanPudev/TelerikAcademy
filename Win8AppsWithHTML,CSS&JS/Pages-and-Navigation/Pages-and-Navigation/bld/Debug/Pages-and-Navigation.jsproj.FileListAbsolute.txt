@@ -1,0 +1,13 @@
+E:\Dropbox\Telerik\8-ma Chast\WinJS\Pages-and-Navigation\Pages-and-Navigation\bin\Debug\resources.pri
+E:\Dropbox\Telerik\8-ma Chast\WinJS\Pages-and-Navigation\Pages-and-Navigation\bin\Debug\AppxManifest.xml
+E:\Dropbox\Telerik\8-ma Chast\WinJS\Pages-and-Navigation\Pages-and-Navigation\bin\Debug\Pages-and-Navigation.build.appxrecipe
+E:\Dropbox\Telerik\8-ma Chast\WinJS\Pages-and-Navigation\Pages-and-Navigation\bld\Debug\priconfig.xml.intermediate
+E:\Dropbox\Telerik\8-ma Chast\WinJS\Pages-and-Navigation\Pages-and-Navigation\bld\Debug\layout.resfiles.intermediate
+E:\Dropbox\Telerik\8-ma Chast\WinJS\Pages-and-Navigation\Pages-and-Navigation\bld\Debug\resources.resfiles.intermediate
+E:\Dropbox\Telerik\8-ma Chast\WinJS\Pages-and-Navigation\Pages-and-Navigation\bld\Debug\pri.resfiles.intermediate
+E:\Dropbox\Telerik\8-ma Chast\WinJS\Pages-and-Navigation\Pages-and-Navigation\bld\Debug\priconfig.xml
+E:\Dropbox\Telerik\8-ma Chast\WinJS\Pages-and-Navigation\Pages-and-Navigation\bld\Debug\layout.resfiles
+E:\Dropbox\Telerik\8-ma Chast\WinJS\Pages-and-Navigation\Pages-and-Navigation\bld\Debug\resources.resfiles
+E:\Dropbox\Telerik\8-ma Chast\WinJS\Pages-and-Navigation\Pages-and-Navigation\bld\Debug\pri.resfiles
+E:\Dropbox\Telerik\8-ma Chast\WinJS\Pages-and-Navigation\Pages-and-Navigation\bld\Debug\LanguageQualifiers.txt
+E:\Dropbox\Telerik\8-ma Chast\WinJS\Pages-and-Navigation\Pages-and-Navigation\bld\Debug\ProjectArchitectures.txt

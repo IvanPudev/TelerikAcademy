@@ -1,0 +1,6 @@
+F:\SourceCode\C#\ConditionalStatements\5.NameOfADigit\bin\Debug\5.NameOfADigit.exe.config
+F:\SourceCode\C#\ConditionalStatements\5.NameOfADigit\bin\Debug\5.NameOfADigit.exe
+F:\SourceCode\C#\ConditionalStatements\5.NameOfADigit\bin\Debug\5.NameOfADigit.pdb
+F:\SourceCode\C#\ConditionalStatements\5.NameOfADigit\obj\Debug\5.NameOfADigit.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\ConditionalStatements\5.NameOfADigit\obj\Debug\5.NameOfADigit.exe
+F:\SourceCode\C#\ConditionalStatements\5.NameOfADigit\obj\Debug\5.NameOfADigit.pdb

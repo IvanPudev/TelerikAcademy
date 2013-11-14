@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>TheSignOfTheProductOfThreeNumbers</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		input[type=text]{
+			border:1px solid black;
+			padding:5px 15px;
+			background-color:black;
+			color:white;
+			font-family:Consolas;		   
+			margin-bottom:5px;
+		}
+
+		a{
+			color:black;
+			border:1px solid black;
+			padding:5px 15px;						
+			text-decoration:none;	   
+			display:inline-block;		 
+			margin: 15px 0;
+		}
+
+		a:hover{
+			text-decoration:underline;
+		}
+	</style>
+
+</head>
+<body>
+    <label for="firstNumber">Enter first integer number: </label>
+	<input type="text" id="firstNumber"/>
+    <label for="secondNumber">Enter second integer number: </label>
+	<input type="text" id="secondNumber"/>
+    <label for="thirdNumber">Enter third integer number: </label>
+	<input type="text" id="thirdNumber"/>
+    <a href="#" onclick="onGOButtonClick()">GO</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>		  
+	<script>
+	    function onGOButtonClick() {
+	        var firstNumber = jsConsole.readInteger("#firstNumber");
+	        var secondNumber = jsConsole.readInteger("#secondNumber");
+	        var thirdNumber = jsConsole.readInteger("#thirdNumber");
+	        if ((firstNumber < 0 && secondNumber < 0) || (firstNumber > 0 && secondNumber > 0)) {
+	            if (thirdNumber > 0) {
+	                jsConsole.writeLine("The product of the three numbers is positive (+).");
+	            }
+	            else {
+	                jsConsole.writeLine("The product of the three numbers is negative (-).");
+	            }
+	        }
+	        else if (thirdNumber < 0) {
+	            jsConsole.writeLine("The product of the three numbers is positive (+).");
+	        }
+	        else {
+	            jsConsole.writeLine("The product of the three numbers is negative (-).");
+	        }
+	    }
+	</script>		
+</body>
+</html>

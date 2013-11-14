@@ -1,0 +1,5 @@
+F:\SourceCode\C#\OperatorsAndExpressions\2.DividedBY5And7\bin\Debug\2.DividedBY5And7.exe.config
+F:\SourceCode\C#\OperatorsAndExpressions\2.DividedBY5And7\bin\Debug\2.DividedBY5And7.exe
+F:\SourceCode\C#\OperatorsAndExpressions\2.DividedBY5And7\bin\Debug\2.DividedBY5And7.pdb
+F:\SourceCode\C#\OperatorsAndExpressions\2.DividedBY5And7\obj\Debug\2.DividedBY5And7.exe
+F:\SourceCode\C#\OperatorsAndExpressions\2.DividedBY5And7\obj\Debug\2.DividedBY5And7.pdb

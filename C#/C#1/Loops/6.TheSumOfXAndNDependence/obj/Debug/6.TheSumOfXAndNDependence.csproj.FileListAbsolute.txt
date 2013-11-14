@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Loops\6.TheSumOfXAndNDependence\bin\Debug\6.TheSumOfXAndNDependence.exe.config
+F:\SourceCode\C#\Loops\6.TheSumOfXAndNDependence\bin\Debug\6.TheSumOfXAndNDependence.exe
+F:\SourceCode\C#\Loops\6.TheSumOfXAndNDependence\bin\Debug\6.TheSumOfXAndNDependence.pdb
+F:\SourceCode\C#\Loops\6.TheSumOfXAndNDependence\obj\Debug\6.TheSumOfXAndNDependence.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Loops\6.TheSumOfXAndNDependence\obj\Debug\6.TheSumOfXAndNDependence.exe
+F:\SourceCode\C#\Loops\6.TheSumOfXAndNDependence\obj\Debug\6.TheSumOfXAndNDependence.pdb

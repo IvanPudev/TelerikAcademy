@@ -1,0 +1,5 @@
+F:\SourceCode\C#\OperatorsAndExpressions\11.CheckBitValue1Or0\bin\Debug\11.CheckBitValue1Or0.exe.config
+F:\SourceCode\C#\OperatorsAndExpressions\11.CheckBitValue1Or0\bin\Debug\11.CheckBitValue1Or0.exe
+F:\SourceCode\C#\OperatorsAndExpressions\11.CheckBitValue1Or0\bin\Debug\11.CheckBitValue1Or0.pdb
+F:\SourceCode\C#\OperatorsAndExpressions\11.CheckBitValue1Or0\obj\Debug\11.CheckBitValue1Or0.exe
+F:\SourceCode\C#\OperatorsAndExpressions\11.CheckBitValue1Or0\obj\Debug\11.CheckBitValue1Or0.pdb

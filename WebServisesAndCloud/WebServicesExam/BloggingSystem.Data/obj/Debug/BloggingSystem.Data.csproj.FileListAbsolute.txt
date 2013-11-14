@@ -1,0 +1,10 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BloggingSystem.Data\bin\Debug\BloggingSystem.Data.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BloggingSystem.Data\bin\Debug\BloggingSystem.Data.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BloggingSystem.Data\obj\Debug\BloggingSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BloggingSystem.Data\obj\Debug\BloggingSystem.Data.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BloggingSystem.Data\obj\Debug\BloggingSystem.Data.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BloggingSystem.Data\bin\Debug\BloggingSystem.Data.dll.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BloggingSystem.Data\bin\Debug\BloggingSystem.Model.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BloggingSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BloggingSystem.Data\bin\Debug\BloggingSystem.Model.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesExam\BloggingSystem.Data\bin\Debug\EntityFramework.xml

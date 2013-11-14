@@ -1,0 +1,29 @@
+1 using System;
+2 using System.Linq;
+3 using System.IO;
+4 
+5 namespace InsertLineNumbers
+6 {
+7     class InsertLineNumbers
+8     {
+9         static void Main(string[] args)
+10         {
+11             StreamReader readFile = new StreamReader("..\\..\\InsertLineNumbers.cs");
+12             StreamWriter writeFile = new StreamWriter("..\\..\\NumberedLinesFile.txt");
+13 
+14             int number = 1;
+15             string line;
+16             using (readFile)
+17             {
+18                 using (writeFile)
+19                 {
+20                     while ((line = readFile.ReadLine()) != null)
+21                     {
+22                         writeFile.WriteLine("{0} {1}", number, line);
+23                         number++;
+24                     }
+25                 }
+26             }
+27         }
+28     }
+29 }

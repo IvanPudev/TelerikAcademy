@@ -1,0 +1,10 @@
+F:\SourceCode\JavaScript\Functions\Functions\bin\Functions.dll
+F:\SourceCode\JavaScript\Functions\Functions\bin\Functions.pdb
+F:\SourceCode\JavaScript\Functions\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
+F:\SourceCode\JavaScript\Functions\Functions\obj\Debug\Functions.dll
+F:\SourceCode\JavaScript\Functions\Functions\obj\Debug\Functions.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\Functions\Functions\bin\Functions.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\Functions\Functions\bin\Functions.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\Functions\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\Functions\Functions\obj\Debug\Functions.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\Functions\Functions\obj\Debug\Functions.pdb

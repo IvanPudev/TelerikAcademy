@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\SubstringExtension\bin\Debug\SubstringExtension.exe.config
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\SubstringExtension\obj\Debug\SubstringExtension.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\SubstringExtension\bin\Debug\SubstringExtension.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\SubstringExtension\bin\Debug\SubstringExtension.pdb
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\SubstringExtension\obj\Debug\SubstringExtension.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\SubstringExtension\obj\Debug\SubstringExtension.pdb

@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskMessageInABottle\bin\Debug\TaskMessageInABottle.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskMessageInABottle\bin\Debug\TaskMessageInABottle.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskMessageInABottle\bin\Debug\TaskMessageInABottle.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskMessageInABottle\obj\Debug\TaskMessageInABottle.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskMessageInABottle\obj\Debug\TaskMessageInABottle.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskMessageInABottle\obj\Debug\TaskMessageInABottle.pdb

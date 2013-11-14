@@ -1,0 +1,14 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Client\bin\Debug\EntityFramework.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Data.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Model.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Data.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Client\bin\Debug\StudentsSystem.Model.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Client\bin\Debug\EntityFramework.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Data\obj\Debug\StudentsSystem.Client.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Data\obj\Debug\StudentsSystem.Client.pdb

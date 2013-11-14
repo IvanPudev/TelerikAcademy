@@ -1,0 +1,6 @@
+F:\SourceCode\C#\ConditionalStatements\9.SumOfSubsetEqualsZero\bin\Debug\9.SumOfSubsetEqualsZero.exe.config
+F:\SourceCode\C#\ConditionalStatements\9.SumOfSubsetEqualsZero\bin\Debug\9.SumOfSubsetEqualsZero.exe
+F:\SourceCode\C#\ConditionalStatements\9.SumOfSubsetEqualsZero\bin\Debug\9.SumOfSubsetEqualsZero.pdb
+F:\SourceCode\C#\ConditionalStatements\9.SumOfSubsetEqualsZero\obj\Debug\9.SumOfSubsetEqualsZero.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\ConditionalStatements\9.SumOfSubsetEqualsZero\obj\Debug\9.SumOfSubsetEqualsZero.exe
+F:\SourceCode\C#\ConditionalStatements\9.SumOfSubsetEqualsZero\obj\Debug\9.SumOfSubsetEqualsZero.pdb

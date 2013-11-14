@@ -1,0 +1,1 @@
+F:\SourceCode\C#\TextFiles\CompareEqualLinesInTextFiles\bin\Debug\CompareEqualLinesInTextFiles.exe.config

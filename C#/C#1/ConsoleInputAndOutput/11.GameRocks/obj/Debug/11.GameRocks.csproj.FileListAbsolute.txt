@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\11.GameRocks\bin\Debug\11.GameRocks.exe.config
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\11.GameRocks\bin\Debug\11.GameRocks.exe
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\11.GameRocks\bin\Debug\11.GameRocks.pdb
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\11.GameRocks\obj\Debug\11.GameRocks.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\11.GameRocks\obj\Debug\11.GameRocks.exe
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\11.GameRocks\obj\Debug\11.GameRocks.pdb
+F:\SourceCode\C#\ConsoleInputAndOutput\11.GameRocks\bin\Debug\11.GameRocks.exe.config
+F:\SourceCode\C#\ConsoleInputAndOutput\11.GameRocks\obj\Debug\11.GameRocks.exe
+F:\SourceCode\C#\ConsoleInputAndOutput\11.GameRocks\obj\Debug\11.GameRocks.pdb

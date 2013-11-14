@@ -1,0 +1,6 @@
+F:\SourceCode\C#\UsingClassesAndObjects\SumOfStringValues\bin\Debug\SumOfStringValues.exe.config
+F:\SourceCode\C#\UsingClassesAndObjects\SumOfStringValues\bin\Debug\SumOfStringValues.exe
+F:\SourceCode\C#\UsingClassesAndObjects\SumOfStringValues\bin\Debug\SumOfStringValues.pdb
+F:\SourceCode\C#\UsingClassesAndObjects\SumOfStringValues\obj\Debug\6.SumOfStringValues.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\UsingClassesAndObjects\SumOfStringValues\obj\Debug\SumOfStringValues.exe
+F:\SourceCode\C#\UsingClassesAndObjects\SumOfStringValues\obj\Debug\SumOfStringValues.pdb

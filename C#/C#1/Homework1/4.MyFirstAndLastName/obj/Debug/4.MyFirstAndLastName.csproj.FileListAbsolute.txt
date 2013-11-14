@@ -1,0 +1,5 @@
+F:\SourceCode\C#\Homework1\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.exe.config
+F:\SourceCode\C#\Homework1\MyFirstAndLastName\obj\Debug\MyFirstAndLastName.exe
+F:\SourceCode\C#\Homework1\MyFirstAndLastName\obj\Debug\MyFirstAndLastName.pdb
+F:\SourceCode\C#\Homework1\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.exe
+F:\SourceCode\C#\Homework1\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.pdb

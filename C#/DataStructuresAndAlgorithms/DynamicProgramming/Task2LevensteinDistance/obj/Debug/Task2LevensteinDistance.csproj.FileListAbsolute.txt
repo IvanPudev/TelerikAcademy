@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DynamicProgramming\Task2LevensteinDistance\bin\Debug\Task2LevensteinDistance.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DynamicProgramming\Task2LevensteinDistance\bin\Debug\Task2LevensteinDistance.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DynamicProgramming\Task2LevensteinDistance\bin\Debug\Task2LevensteinDistance.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DynamicProgramming\Task2LevensteinDistance\obj\Debug\Task2LevensteinDistance.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DynamicProgramming\Task2LevensteinDistance\obj\Debug\Task2LevensteinDistance.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DynamicProgramming\Task2LevensteinDistance\obj\Debug\Task2LevensteinDistance.pdb

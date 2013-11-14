@@ -1,0 +1,1 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\HashTablesAndSetsPracticalTask\bin\Debug\HashTablesAndSetsPracticalTask.exe.config

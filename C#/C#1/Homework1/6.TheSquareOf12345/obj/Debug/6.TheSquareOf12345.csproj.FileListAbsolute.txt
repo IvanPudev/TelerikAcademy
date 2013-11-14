@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Homework1\6.TheSquareOf12345\bin\Debug\6.TheSquareOf12345.exe.config
+F:\SourceCode\C#\Homework1\6.TheSquareOf12345\bin\Debug\6.TheSquareOf12345.exe
+F:\SourceCode\C#\Homework1\6.TheSquareOf12345\bin\Debug\6.TheSquareOf12345.pdb
+F:\SourceCode\C#\Homework1\6.TheSquareOf12345\obj\Debug\6.TheSquareOf12345.exe
+F:\SourceCode\C#\Homework1\6.TheSquareOf12345\obj\Debug\6.TheSquareOf12345.pdb
+F:\SourceCode\C#\Homework1\6.TheSquareOf12345\obj\Debug\6.TheSquareOf12345.csprojResolveAssemblyReference.cache

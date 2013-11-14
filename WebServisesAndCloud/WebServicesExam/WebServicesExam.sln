@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloggingSystem.Model", "BlogingSystem.Model\BloggingSystem.Model.csproj", "{F2BD3E06-6BC5-4E56-8D8D-D9F626CD3AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloggingSystem.Data", "BloggingSystem.Data\BloggingSystem.Data.csproj", "{72EB080E-66CC-4288-922F-5F9B96AB2FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloggingSystem.WebApi", "BloggingSystem.WebApi\BloggingSystem.WebApi.csproj", "{7D7A38A4-AF4A-431E-A8C6-F1A12EE4E2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloggingSystem.WebApi.Tests", "BloggingSystem.WebApi.Tests\BloggingSystem.WebApi.Tests.csproj", "{F42FDCD0-6452-4450-8557-F5793173FCE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{0E97D25A-3C2F-45E5-BC6E-AF159B8735B0}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2BD3E06-6BC5-4E56-8D8D-D9F626CD3AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BD3E06-6BC5-4E56-8D8D-D9F626CD3AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BD3E06-6BC5-4E56-8D8D-D9F626CD3AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BD3E06-6BC5-4E56-8D8D-D9F626CD3AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72EB080E-66CC-4288-922F-5F9B96AB2FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EB080E-66CC-4288-922F-5F9B96AB2FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EB080E-66CC-4288-922F-5F9B96AB2FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EB080E-66CC-4288-922F-5F9B96AB2FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D7A38A4-AF4A-431E-A8C6-F1A12EE4E2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7A38A4-AF4A-431E-A8C6-F1A12EE4E2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7A38A4-AF4A-431E-A8C6-F1A12EE4E2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7A38A4-AF4A-431E-A8C6-F1A12EE4E2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42FDCD0-6452-4450-8557-F5793173FCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42FDCD0-6452-4450-8557-F5793173FCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42FDCD0-6452-4450-8557-F5793173FCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42FDCD0-6452-4450-8557-F5793173FCE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

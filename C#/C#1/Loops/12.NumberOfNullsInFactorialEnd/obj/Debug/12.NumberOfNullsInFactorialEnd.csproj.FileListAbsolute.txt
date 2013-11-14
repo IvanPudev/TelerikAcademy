@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Loops\12.NumberOfNullsInFactorialEnd\bin\Debug\12.NumberOfNullsInFactorialEnd.exe.config
+F:\SourceCode\C#\Loops\12.NumberOfNullsInFactorialEnd\bin\Debug\12.NumberOfNullsInFactorialEnd.exe
+F:\SourceCode\C#\Loops\12.NumberOfNullsInFactorialEnd\bin\Debug\12.NumberOfNullsInFactorialEnd.pdb
+F:\SourceCode\C#\Loops\12.NumberOfNullsInFactorialEnd\obj\Debug\12.NumberOfNullsInFactorialEnd.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Loops\12.NumberOfNullsInFactorialEnd\obj\Debug\12.NumberOfNullsInFactorialEnd.exe
+F:\SourceCode\C#\Loops\12.NumberOfNullsInFactorialEnd\obj\Debug\12.NumberOfNullsInFactorialEnd.pdb

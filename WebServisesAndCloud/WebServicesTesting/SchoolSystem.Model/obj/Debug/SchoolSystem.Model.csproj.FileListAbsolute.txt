@@ -1,0 +1,4 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Model\bin\Debug\SchoolSystem.Model.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Model\bin\Debug\SchoolSystem.Model.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Model\obj\Debug\SchoolSystem.Model.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Model\obj\Debug\SchoolSystem.Model.pdb

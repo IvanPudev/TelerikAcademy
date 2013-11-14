@@ -1,0 +1,12 @@
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\bin\Debug\DrawText.exe.config
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\bin\Debug\DrawText.exe
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\bin\Debug\DrawText.pdb
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\obj\Debug\MainWindow.baml
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\obj\Debug\MainWindow.g.cs
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\obj\Debug\App.g.cs
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\obj\Debug\DrawText_MarkupCompile.cache
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\obj\Debug\DrawText.g.resources
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\obj\Debug\DrawText.Properties.Resources.resources
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\obj\Debug\DrawText.csproj.GenerateResource.Cache
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\obj\Debug\DrawText.exe
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\obj\Debug\DrawText.pdb

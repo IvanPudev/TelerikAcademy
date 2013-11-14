@@ -1,0 +1,1 @@
+F:\SourceCode\C#\StringsAndTextProcessing\JustOneLetterIfRepeating\bin\Debug\JustOneLetterIfRepeating.exe.config

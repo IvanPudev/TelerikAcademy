@@ -1,0 +1,1 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkPerformance\TelerikAcademy.Client\obj\Debug\TelerikAcademy.Client.csprojResolveAssemblyReference.cache

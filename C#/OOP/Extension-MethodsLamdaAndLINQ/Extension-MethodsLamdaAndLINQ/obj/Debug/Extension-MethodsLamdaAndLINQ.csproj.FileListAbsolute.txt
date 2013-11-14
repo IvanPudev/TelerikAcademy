@@ -1,0 +1,1 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\Extension-MethodsLamdaAndLINQ\bin\Debug\Extension-MethodsLamdaAndLINQ.exe.config

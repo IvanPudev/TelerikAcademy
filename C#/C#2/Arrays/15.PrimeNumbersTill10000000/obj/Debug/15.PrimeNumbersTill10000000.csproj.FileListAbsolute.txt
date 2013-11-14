@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Arrays\15.PrimeNumbersTill10000000\bin\Debug\15.PrimeNumbersTill10000000.exe.config
+F:\SourceCode\C#\Arrays\15.PrimeNumbersTill10000000\bin\Debug\15.PrimeNumbersTill10000000.exe
+F:\SourceCode\C#\Arrays\15.PrimeNumbersTill10000000\bin\Debug\15.PrimeNumbersTill10000000.pdb
+F:\SourceCode\C#\Arrays\15.PrimeNumbersTill10000000\obj\Debug\15.PrimeNumbersTill10000000.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Arrays\15.PrimeNumbersTill10000000\obj\Debug\15.PrimeNumbersTill10000000.exe
+F:\SourceCode\C#\Arrays\15.PrimeNumbersTill10000000\obj\Debug\15.PrimeNumbersTill10000000.pdb

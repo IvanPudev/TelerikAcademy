@@ -1,0 +1,5 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Model\bin\Debug\StudentsSystem.Model.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Model\bin\Debug\StudentsSystem.Model.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Model\obj\Debug\StudentsSystem.Model.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Model\obj\Debug\StudentsSystem.Model.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\EntityFrameworkCodeFirst\StudentsSystem.Model\obj\Debug\StudentsSystem.Model.pdb

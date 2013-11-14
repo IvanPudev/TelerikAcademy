@@ -1,0 +1,6 @@
+F:\SourceCode\C#\StringsAndTextProcessing\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.exe
+F:\SourceCode\C#\StringsAndTextProcessing\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.exe
+F:\SourceCode\C#\StringsAndTextProcessing\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\ReverseWordsInSentence\obj\Debug\13.ReverseWordsInSentence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>DivideBySevenAndFive</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		input[type=text]{
+			border:1px solid black;
+			padding:5px 15px;
+			background-color:black;
+			color:white;
+			font-family:Consolas;		   
+			margin-bottom:5px;
+		}
+
+		a{
+			color:black;
+			border:1px solid black;
+			padding:5px 15px;						
+			text-decoration:none;	   
+			display:inline-block;		 
+			margin: 15px 0;
+		}
+
+		a:hover{
+			text-decoration:underline;
+		}
+	</style>
+
+</head>
+<body>
+    <label for="number">Enter number: </label>
+	<input type="text" id="number"/>
+    <a href="#" onclick="onGOButtonClick()">GO</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>		  
+	<script>
+	    function onGOButtonClick() {
+	        var number = jsConsole.readInteger("#number");
+	        if (number % 35 == 0) {
+	            jsConsole.writeLine("The number " + number + " is divisible by 5 and 7 at the same time.");
+	        }
+	        else {
+	            jsConsole.writeLine("The number " + number + " is not divisible by 5 and 7 at the same time.");
+	        }
+	    }
+	</script>		
+</body>
+</html>
+

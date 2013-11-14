@@ -1,0 +1,47 @@
+﻿table {
+    font-family: sans-serif;
+    border:1px solid lightgrey;
+    border-spacing:0px;
+}
+th {
+    background-color:limegreen;
+    border-right:1px solid lightgray;
+    border-bottom:1px solid lightgray;
+    height:30px;
+}
+td {
+    border-right:1px solid lightgray;
+    height:30px;
+}
+.alt {
+    background-color:#F0F0F0;
+}
+.name {
+    width:200px;
+}
+.city {
+    width:150px;
+}
+.country {
+    width:180px;
+    
+}
+.promoted {
+    width:100px;
+}
+
+.flag {
+	width: 25px;
+	height: 15px;
+	background:url(flags.png) no-repeat
+}
+.flag.flag-de {background-position: -25px 0}
+.flag.flag-gb {background-position: 0 -15px}
+.flag.flag-mx {background-position: -25px -15px}
+
+th:last-child {
+    border-right:0px;
+}
+td:last-child {
+    border-right:0px;
+}

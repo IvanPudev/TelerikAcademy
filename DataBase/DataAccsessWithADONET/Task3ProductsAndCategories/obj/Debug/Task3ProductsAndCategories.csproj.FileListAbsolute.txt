@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task3ProductsAndCategories\bin\Debug\Task3ProductsAndCategories.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task3ProductsAndCategories\bin\Debug\Task3ProductsAndCategories.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task3ProductsAndCategories\bin\Debug\Task3ProductsAndCategories.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task3ProductsAndCategories\obj\Debug\Task3ProductsAndCategories.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task3ProductsAndCategories\obj\Debug\Task3ProductsAndCategories.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task3ProductsAndCategories\obj\Debug\Task3ProductsAndCategories.pdb

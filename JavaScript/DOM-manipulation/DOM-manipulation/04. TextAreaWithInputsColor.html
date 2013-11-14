@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>04. Text Area With Input type="color"</title>
+</head>
+<body>
+    <input type="color" id="fontColor" />
+    <input type="color" id="backgroundColor" />
+    
+    <textarea id="textArea" style="width: 200px; height: 200px;">Sample text to test changes in font color and background color</textarea>
+    <script>
+        (function () {
+            'use strict';
+            function onFontColorChange() {
+                var color = document.getElementById('fontColor');
+                var textArea = document.getElementById('textArea');
+                textArea.style.color = color.value;
+            }
+
+            function onBackgroundColorChange() {
+                var backgruond = document.getElementById('backgroundColor');
+                var textArea = document.getElementById('textArea');
+                textArea.style.backgroundColor = backgruond.value;
+            }
+
+            var colorBox = document.getElementById('fontColor');
+            colorBox.addEventListener("change", onFontColorChange, true);
+
+            var backgroundColorBox = document.getElementById('backgroundColor');
+            backgroundColorBox.addEventListener('change', onBackgroundColorChange, true);
+        })();
+    </script>
+</body>
+</html>

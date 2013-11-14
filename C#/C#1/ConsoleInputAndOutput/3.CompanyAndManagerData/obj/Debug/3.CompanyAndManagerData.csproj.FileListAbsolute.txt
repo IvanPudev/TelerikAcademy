@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\3.CompanyAndManagerData\bin\Debug\3.CompanyAndManagerData.exe.config
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\3.CompanyAndManagerData\bin\Debug\3.CompanyAndManagerData.exe
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\3.CompanyAndManagerData\bin\Debug\3.CompanyAndManagerData.pdb
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\3.CompanyAndManagerData\obj\Debug\3.CompanyAndManagerData.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\3.CompanyAndManagerData\obj\Debug\3.CompanyAndManagerData.exe
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\3.CompanyAndManagerData\obj\Debug\3.CompanyAndManagerData.pdb

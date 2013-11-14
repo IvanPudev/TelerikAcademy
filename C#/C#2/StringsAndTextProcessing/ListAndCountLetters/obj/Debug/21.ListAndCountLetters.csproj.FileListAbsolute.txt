@@ -1,0 +1,6 @@
+F:\SourceCode\C#\StringsAndTextProcessing\ListAndCountLetters\obj\Debug\21.ListAndCountLetters.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\StringsAndTextProcessing\ListAndCountLetters\bin\Debug\ListAndCountLetters.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\ListAndCountLetters\bin\Debug\ListAndCountLetters.exe
+F:\SourceCode\C#\StringsAndTextProcessing\ListAndCountLetters\bin\Debug\ListAndCountLetters.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\ListAndCountLetters\obj\Debug\ListAndCountLetters.exe
+F:\SourceCode\C#\StringsAndTextProcessing\ListAndCountLetters\obj\Debug\ListAndCountLetters.pdb

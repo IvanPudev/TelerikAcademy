@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Arrays\11.FindElementIndexWithBinarySearch\bin\Debug\11.FindElementIndexWithBinarySearch.exe.config
+F:\SourceCode\C#\Arrays\11.FindElementIndexWithBinarySearch\bin\Debug\11.FindElementIndexWithBinarySearch.exe
+F:\SourceCode\C#\Arrays\11.FindElementIndexWithBinarySearch\bin\Debug\11.FindElementIndexWithBinarySearch.pdb
+F:\SourceCode\C#\Arrays\11.FindElementIndexWithBinarySearch\obj\Debug\11.FindElementIndexWithBinarySearch.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Arrays\11.FindElementIndexWithBinarySearch\obj\Debug\11.FindElementIndexWithBinarySearch.exe
+F:\SourceCode\C#\Arrays\11.FindElementIndexWithBinarySearch\obj\Debug\11.FindElementIndexWithBinarySearch.pdb

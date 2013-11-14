@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MA6INA</Machine>
+    <WindowsUser>zloupotrebitel</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>99394C1782AA3424E94D57D4B936F31CE6A9023E9753EECA1384A7A67182548D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9a09fbf5-8ff0-48af-b02f-7df706613f2c_1.0.0.0_neutral__bzr8dh3gcmq2w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9a09fbf5-8ff0-48af-b02f-7df706613f2c_bzr8dh3gcmq2w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9a09fbf5-8ff0-48af-b02f-7df706613f2c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=zloupotrebitel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\GesturesAndRespondingToInteractions\Paint\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-23T14:32:12.290</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\GesturesAndRespondingToInteractions\Paint\bin\Debug\Paint.exe">
+      <PackagePath>Paint.exe</PackagePath>
+      <Modified>2013-09-23T17:18:33.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\GesturesAndRespondingToInteractions\Paint\bin\Debug\Paint.pdb">
+      <PackagePath>Paint.pdb</PackagePath>
+      <Modified>2013-09-23T17:18:33.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\GesturesAndRespondingToInteractions\Paint\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\GesturesAndRespondingToInteractions\Paint\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\GesturesAndRespondingToInteractions\Paint\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\GesturesAndRespondingToInteractions\Paint\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\GesturesAndRespondingToInteractions\Paint\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-09-23T12:11:55.408</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\GesturesAndRespondingToInteractions\Paint\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T13:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\GesturesAndRespondingToInteractions\Paint\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-09-23T16:07:42.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\GesturesAndRespondingToInteractions\Paint\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-09-23T14:31:53.724</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

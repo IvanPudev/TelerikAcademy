@@ -1,0 +1,15 @@
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\bin\Debug\AgeValidation.exe.config
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\bin\Debug\AgeValidation.exe
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\bin\Debug\AgeValidation.pdb
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\obj\Debug\AgeValidation.csprojResolveAssemblyReference.cache
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\obj\Debug\MainWindow.g.cs
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\obj\Debug\App.g.cs
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\obj\Debug\AgeValidation_MarkupCompile.cache
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\obj\Debug\AgeValidation_MarkupCompile.lref
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\obj\Debug\MainWindow.baml
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\obj\Debug\AgeValidation.g.resources
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\obj\Debug\AgeValidation.Properties.Resources.resources
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\obj\Debug\AgeValidation.csproj.GenerateResource.Cache
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\obj\Debug\AgeValidation.exe
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\AgeValidation\obj\Debug\AgeValidation.pdb

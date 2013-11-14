@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\5.MaxNumberWithoutIf\bin\Debug\5.MaxNumberWithoutIf.exe.config
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\5.MaxNumberWithoutIf\bin\Debug\5.MaxNumberWithoutIf.exe
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\5.MaxNumberWithoutIf\bin\Debug\5.MaxNumberWithoutIf.pdb
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\5.MaxNumberWithoutIf\obj\Debug\5.MaxNumberWithoutIf.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\5.MaxNumberWithoutIf\obj\Debug\5.MaxNumberWithoutIf.exe
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\5.MaxNumberWithoutIf\obj\Debug\5.MaxNumberWithoutIf.pdb

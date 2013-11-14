@@ -1,0 +1,7 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\PockerTest\bin\Debug\PockerTest.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\PockerTest\bin\Debug\PockerTest.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\PockerTest\bin\Debug\Poker.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\PockerTest\bin\Debug\Poker.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\PockerTest\obj\Debug\PockerTest.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\PockerTest\obj\Debug\PockerTest.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\High-QualityCode\PockerTest\obj\Debug\PockerTest.pdb

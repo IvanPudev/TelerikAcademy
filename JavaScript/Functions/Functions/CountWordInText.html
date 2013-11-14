@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Reverse Number</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+
+</head>
+<body>
+    <div id="js-console"></div>
+    
+    <script src="scripts/js-console.js"></script>
+    <script>
+        var text = "We are living in an yellow submarine,  yellow submarine,  Yellow submarine.";
+        var word = "yellow";
+        var isCaseSensitive = false;
+
+        countWord(text, word);
+        countWord(text, word, true);
+
+        function countWord(text, word, isCaseSensitive) {
+            isCaseSensitive = isCaseSensitive || false;
+            var count = 0;
+
+            if (isCaseSensitive === false) {
+                var strArr = text.split(word);
+
+                for (var str in strArr) {
+                    count++;
+                }
+                jsConsole.writeLine("The count of word '" + word + "' (case-insensitive search)  is: " + count)
+            }
+            else {
+                var index = text.indexOf(word);
+
+                while (index >= 0) {
+                    count++;
+                    index = text.indexOf(word, index + 1);
+                }
+                jsConsole.writeLine("The count of word '" + word + "' (case-sensitive search)  is: " + count)
+            }
+        }
+
+    </script>
+</body>
+</html>
+

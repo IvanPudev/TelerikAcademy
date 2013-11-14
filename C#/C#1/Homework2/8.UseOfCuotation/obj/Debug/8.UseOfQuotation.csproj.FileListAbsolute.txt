@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Homework2\8.UseOfCuotation\bin\Debug\8.UseOfCuotation.exe.config
+F:\SourceCode\C#\Homework2\8.UseOfCuotation\bin\Debug\8.UseOfCuotation.exe
+F:\SourceCode\C#\Homework2\8.UseOfCuotation\bin\Debug\8.UseOfCuotation.pdb
+F:\SourceCode\C#\Homework2\8.UseOfCuotation\obj\Debug\8.UseOfQuotation.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Homework2\8.UseOfCuotation\obj\Debug\8.UseOfCuotation.exe
+F:\SourceCode\C#\Homework2\8.UseOfCuotation\obj\Debug\8.UseOfCuotation.pdb

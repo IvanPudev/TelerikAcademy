@@ -1,0 +1,6 @@
+F:\SourceCode\C#\OperatorsAndExpressions\9.CircleRectangleAndPoint\bin\Debug\9.CircleRectangleAndPoint.exe.config
+F:\SourceCode\C#\OperatorsAndExpressions\9.CircleRectangleAndPoint\bin\Debug\9.CircleRectangleAndPoint.exe
+F:\SourceCode\C#\OperatorsAndExpressions\9.CircleRectangleAndPoint\bin\Debug\9.CircleRectangleAndPoint.pdb
+F:\SourceCode\C#\OperatorsAndExpressions\9.CircleRectangleAndPoint\obj\Debug\9.CircleRectangleAndPoint.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\OperatorsAndExpressions\9.CircleRectangleAndPoint\obj\Debug\9.CircleRectangleAndPoint.exe
+F:\SourceCode\C#\OperatorsAndExpressions\9.CircleRectangleAndPoint\obj\Debug\9.CircleRectangleAndPoint.pdb

@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\IEnumerableExtension\obj\Debug\IEnumerableExtension.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\IEnumerableExtension\bin\Debug\IEnumerableExtension.exe.config
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\IEnumerableExtension\bin\Debug\IEnumerableExtension.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\IEnumerableExtension\bin\Debug\IEnumerableExtension.pdb
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\IEnumerableExtension\obj\Debug\IEnumerableExtension.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\IEnumerableExtension\obj\Debug\IEnumerableExtension.pdb

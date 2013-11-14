@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Homework1\7.MembersOfSequence\bin\Debug\7.MembersOfSequence.exe.config
+F:\SourceCode\C#\Homework1\7.MembersOfSequence\bin\Debug\7.MembersOfSequence.exe
+F:\SourceCode\C#\Homework1\7.MembersOfSequence\bin\Debug\7.MembersOfSequence.pdb
+F:\SourceCode\C#\Homework1\7.MembersOfSequence\obj\Debug\7.MembersOfSequence.exe
+F:\SourceCode\C#\Homework1\7.MembersOfSequence\obj\Debug\7.MembersOfSequence.pdb
+F:\SourceCode\C#\Homework1\7.MembersOfSequence\obj\Debug\7.MembersOfSequence.csprojResolveAssemblyReference.cache

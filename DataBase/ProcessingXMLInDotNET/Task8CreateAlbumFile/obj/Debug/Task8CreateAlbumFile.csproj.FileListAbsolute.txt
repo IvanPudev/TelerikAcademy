@@ -1,0 +1,1 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task8CreateAlbumFile\bin\Debug\Task8CreateAlbumFile.exe.config

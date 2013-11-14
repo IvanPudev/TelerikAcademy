@@ -1,0 +1,30 @@
+body, img, nav, ul, li, a, p {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+nav {
+	margin: 15px auto;
+	width: 860px;
+	li {
+		display: inline;
+		margin-left: 6px;
+		.imageView {
+			display: none;
+		}
+		.imageView:target {
+			position: absolute;
+			display: block;
+		}
+	}
+	li:first-child {
+		margin: 0;
+	}
+	.selected {
+		.imageView {
+			position: absolute;
+			display: block;
+		}
+	}
+}

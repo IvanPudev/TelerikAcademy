@@ -1,0 +1,1 @@
+F:\SourceCode\C#\StringsAndTextProcessing\ReplacingTags\bin\Debug\ReplacingTags.exe.config

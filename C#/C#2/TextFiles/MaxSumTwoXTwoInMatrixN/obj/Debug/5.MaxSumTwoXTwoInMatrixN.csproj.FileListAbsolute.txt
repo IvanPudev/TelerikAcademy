@@ -1,0 +1,6 @@
+F:\SourceCode\C#\TextFiles\MaxSumTwoXTwoInMatrixN\obj\Debug\5.MaxSumTwoXTwoInMatrixN.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\TextFiles\MaxSumTwoXTwoInMatrixN\bin\Debug\MaxSumTwoXTwoInMatrixN.exe.config
+F:\SourceCode\C#\TextFiles\MaxSumTwoXTwoInMatrixN\bin\Debug\MaxSumTwoXTwoInMatrixN.exe
+F:\SourceCode\C#\TextFiles\MaxSumTwoXTwoInMatrixN\bin\Debug\MaxSumTwoXTwoInMatrixN.pdb
+F:\SourceCode\C#\TextFiles\MaxSumTwoXTwoInMatrixN\obj\Debug\MaxSumTwoXTwoInMatrixN.exe
+F:\SourceCode\C#\TextFiles\MaxSumTwoXTwoInMatrixN\obj\Debug\MaxSumTwoXTwoInMatrixN.pdb

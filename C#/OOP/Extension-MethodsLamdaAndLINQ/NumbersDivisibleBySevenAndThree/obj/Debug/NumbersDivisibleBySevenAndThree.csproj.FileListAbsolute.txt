@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\NumbersDivisibleBySevenAndThree\bin\Debug\NumbersDivisibleBySevenAndThree.exe.config
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\NumbersDivisibleBySevenAndThree\bin\Debug\NumbersDivisibleBySevenAndThree.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\NumbersDivisibleBySevenAndThree\bin\Debug\NumbersDivisibleBySevenAndThree.pdb
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\NumbersDivisibleBySevenAndThree\obj\Debug\NumbersDivisibleBySevenAndThree.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\NumbersDivisibleBySevenAndThree\obj\Debug\NumbersDivisibleBySevenAndThree.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\NumbersDivisibleBySevenAndThree\obj\Debug\NumbersDivisibleBySevenAndThree.pdb

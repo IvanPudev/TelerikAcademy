@@ -1,0 +1,13 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\FileSystemAccess\VideoPlayer\bin\Debug\resources.pri
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\FileSystemAccess\VideoPlayer\bin\Debug\AppxManifest.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\FileSystemAccess\VideoPlayer\bin\Debug\VideoPlayer.build.appxrecipe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\FileSystemAccess\VideoPlayer\bld\Debug\priconfig.xml.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\FileSystemAccess\VideoPlayer\bld\Debug\layout.resfiles.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\FileSystemAccess\VideoPlayer\bld\Debug\resources.resfiles.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\FileSystemAccess\VideoPlayer\bld\Debug\pri.resfiles.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\FileSystemAccess\VideoPlayer\bld\Debug\priconfig.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\FileSystemAccess\VideoPlayer\bld\Debug\layout.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\FileSystemAccess\VideoPlayer\bld\Debug\resources.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\FileSystemAccess\VideoPlayer\bld\Debug\pri.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\FileSystemAccess\VideoPlayer\bld\Debug\LanguageQualifiers.txt
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\FileSystemAccess\VideoPlayer\bld\Debug\ProjectArchitectures.txt

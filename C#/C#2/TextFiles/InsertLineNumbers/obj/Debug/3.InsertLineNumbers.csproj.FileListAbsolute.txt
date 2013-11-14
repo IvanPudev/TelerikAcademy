@@ -1,0 +1,6 @@
+F:\SourceCode\C#\TextFiles\InsertLineNumbers\bin\Debug\InsertLineNumbers.exe.config
+F:\SourceCode\C#\TextFiles\InsertLineNumbers\bin\Debug\InsertLineNumbers.exe
+F:\SourceCode\C#\TextFiles\InsertLineNumbers\bin\Debug\InsertLineNumbers.pdb
+F:\SourceCode\C#\TextFiles\InsertLineNumbers\obj\Debug\InsertLineNumbers.exe
+F:\SourceCode\C#\TextFiles\InsertLineNumbers\obj\Debug\InsertLineNumbers.pdb
+F:\SourceCode\C#\TextFiles\InsertLineNumbers\obj\Debug\3.InsertLineNumbers.csprojResolveAssemblyReference.cache

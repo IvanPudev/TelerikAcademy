@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>PointsAndLines</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <script src="scripts/PointsAndLines.js"></script>
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+        var pointA = point(1, 2);
+        var pointB = point(4, 5);
+        var pointC = point(6, 3);
+        var line1 = line(pointA, pointB);
+        var line2 = line(pointA, pointC);
+        var line3 = line(pointB, pointC);
+
+        var distance = calculateDistance(pointA, pointB);
+
+        var triangle = checkTriangleForm(line1, line2, line3);
+        jsConsole.writeLine(pointA);
+        jsConsole.writeLine(pointB);
+        jsConsole.writeLine(line1);
+        jsConsole.writeLine("The distance between " + pointA + " and " + pointB + " is " + distance);
+        jsConsole.writeLine("Can the lines form a triangle? " + triangle);
+    </script>
+</body>
+</html>
+
+

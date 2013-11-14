@@ -1,0 +1,5 @@
+F:\SourceCode\C#\StringsAndTextProcessing\SortWordsAlfabeticaly\bin\Debug\SortWordsAlfabeticaly.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\SortWordsAlfabeticaly\bin\Debug\SortWordsAlfabeticaly.exe
+F:\SourceCode\C#\StringsAndTextProcessing\SortWordsAlfabeticaly\bin\Debug\SortWordsAlfabeticaly.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\SortWordsAlfabeticaly\obj\Debug\SortWordsAlfabeticaly.exe
+F:\SourceCode\C#\StringsAndTextProcessing\SortWordsAlfabeticaly\obj\Debug\SortWordsAlfabeticaly.pdb

@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Arrays\6.MaxSumOfKElementsInArray\bin\Debug\6.MaxSumOfKElementsInArray.exe.config
+F:\SourceCode\C#\Arrays\6.MaxSumOfKElementsInArray\bin\Debug\6.MaxSumOfKElementsInArray.exe
+F:\SourceCode\C#\Arrays\6.MaxSumOfKElementsInArray\bin\Debug\6.MaxSumOfKElementsInArray.pdb
+F:\SourceCode\C#\Arrays\6.MaxSumOfKElementsInArray\obj\Debug\6.MaxSumOfKElementsInArray.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Arrays\6.MaxSumOfKElementsInArray\obj\Debug\6.MaxSumOfKElementsInArray.exe
+F:\SourceCode\C#\Arrays\6.MaxSumOfKElementsInArray\obj\Debug\6.MaxSumOfKElementsInArray.pdb

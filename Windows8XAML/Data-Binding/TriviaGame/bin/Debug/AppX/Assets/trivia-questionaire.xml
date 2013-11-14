@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<categories>
+  <movies>
+    <question>
+      <content>Main character Titanic</content>
+      <answers>
+        <answer>
+          <content>Leonardo Di Caprio</content>
+          <isCorrect>
+            true
+          </isCorrect>
+        </answer>
+        <answer>
+          <content>Tom Hanks</content>
+          <isCorrect>
+            false
+          </isCorrect>
+        </answer>
+        <answer>
+          <content>Bruce Willice</content>
+          <isCorrect>false</isCorrect>
+        </answer>
+        <answer>
+          <content>Al Pachino</content>
+          <isCorrect>
+            false
+          </isCorrect>
+        </answer>
+      </answers>
+    </question>
+    <question>
+      <content>Main character Greese</content>
+      <answers>
+        <answer>
+          <content>Al Pachino</content>
+          <isCorrect>
+            false
+          </isCorrect>
+        </answer>
+        <answer>
+          <content>John Travolta</content>
+          <isCorrect>true</isCorrect>
+        </answer>
+        <answer>
+          <content>Bruce Willice</content>
+          <isCorrect>false</isCorrect>
+        </answer>
+        <answer>
+          <content>Tom Hanks</content>
+          <isCorrect>
+            false
+          </isCorrect>
+        </answer>
+      </answers>
+    </question>
+  </movies>
+  <songs>
+    <question>
+      <content>Metallica`s first concert in Bulgaria</content>
+      <answers>
+        <answer>
+          <content>2222</content>
+          <isCorrect>false</isCorrect>
+        </answer>
+        <answer>
+          <content>1999</content>
+          <isCorrect>true</isCorrect>
+        </answer>
+        <answer>
+          <content>1900</content>
+          <isCorrect>false</isCorrect>
+        </answer>
+        <answer>
+          <content>1780</content>
+          <isCorrect>false</isCorrect>
+        </answer>
+      </answers>
+    </question>
+    <question>
+      <content>Metallica`s last concert in Bulgaria</content>
+      <answers>
+        <answer>
+          <content>2222</content>
+          <isCorrect>
+            false
+          </isCorrect>
+        </answer>
+        <answer>
+          <content>1967</content>
+          <isCorrect>
+            false
+          </isCorrect>
+        </answer>
+        <answer>
+          <content>1780</content>
+          <isCorrect>
+            false
+          </isCorrect>
+        </answer>
+        <answer>
+          <content>2010</content>
+          <isCorrect>
+            true
+          </isCorrect>
+        </answer>
+      </answers>
+    </question>
+  </songs>
+</categories>

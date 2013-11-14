@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>FindTheBiggestInt</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		input[type=text]{
+			border:1px solid black;
+			padding:5px 15px;
+			background-color:black;
+			color:white;
+			font-family:Consolas;		   
+			margin-bottom:5px;
+		}
+
+		a{
+			color:black;
+			border:1px solid black;
+			padding:5px 15px;						
+			text-decoration:none;	   
+			display:inline-block;		 
+			margin: 15px 0;
+		}
+
+		a:hover{
+			text-decoration:underline;
+		}
+	</style>
+
+</head>
+<body>
+    <label for="a">Enter number a: </label>
+	<input type="text" id="a"/>
+    <label for="b">Enter number b: </label>
+	<input type="text" id="b"/>
+    <label for="c">Enter number c: </label>
+	<input type="text" id="c"/>
+    <label for="d">Enter number d: </label>
+	<input type="text" id="d"/>
+    <label for="e">Enter number e: </label>
+	<input type="text" id="e"/>
+    <a href="#" onclick="onGOButtonClick()">GO</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>		  
+	<script>
+	    function onGOButtonClick() {
+	        var a = jsConsole.readFloat("#a");
+	        var b = jsConsole.readFloat("#b");
+	        var c = jsConsole.readFloat("#c");
+	        var d = jsConsole.readFloat("#d");
+	        var e = jsConsole.readFloat("#e");
+	        for (var i = 0; i < 5; i++)
+	        {
+               if (a < b)
+	        {
+                   a = b;
+                   b = c;
+                   c = d;
+                   d = e;
+	        }
+        }
+        jsConsole.writeLine("The greatest value is " + a);
+	    }
+	</script>		
+</body>
+</html>
+

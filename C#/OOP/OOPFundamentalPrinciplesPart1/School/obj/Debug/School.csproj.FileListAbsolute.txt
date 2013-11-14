@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\OOPFundamentalPrinciplesPart1\School\bin\Debug\School.exe.config
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\OOPFundamentalPrinciplesPart1\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\OOPFundamentalPrinciplesPart1\School\bin\Debug\School.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\OOPFundamentalPrinciplesPart1\School\bin\Debug\School.pdb
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\OOPFundamentalPrinciplesPart1\School\obj\Debug\School.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\OOPFundamentalPrinciplesPart1\School\obj\Debug\School.pdb

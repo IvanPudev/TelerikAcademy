@@ -1,0 +1,6 @@
+F:\SourceCode\C#\OperatorsAndExpressions\12.ChangeBitValue\bin\Debug\12.ChangeBitValue.exe.config
+F:\SourceCode\C#\OperatorsAndExpressions\12.ChangeBitValue\bin\Debug\12.ChangeBitValue.exe
+F:\SourceCode\C#\OperatorsAndExpressions\12.ChangeBitValue\bin\Debug\12.ChangeBitValue.pdb
+F:\SourceCode\C#\OperatorsAndExpressions\12.ChangeBitValue\obj\Debug\12.ChangeBitValue.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\OperatorsAndExpressions\12.ChangeBitValue\obj\Debug\12.ChangeBitValue.exe
+F:\SourceCode\C#\OperatorsAndExpressions\12.ChangeBitValue\obj\Debug\12.ChangeBitValue.pdb

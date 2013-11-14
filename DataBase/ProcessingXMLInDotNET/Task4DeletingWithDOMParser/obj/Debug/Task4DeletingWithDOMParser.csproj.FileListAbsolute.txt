@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task4DeletingWithDOMParser\bin\Debug\Task4DeletingWithDOMParser.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task4DeletingWithDOMParser\bin\Debug\Task4DeletingWithDOMParser.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task4DeletingWithDOMParser\bin\Debug\Task4DeletingWithDOMParser.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task4DeletingWithDOMParser\obj\Debug\Task4DeletingWithDOMParser.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task4DeletingWithDOMParser\obj\Debug\Task4DeletingWithDOMParser.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task4DeletingWithDOMParser\obj\Debug\Task4DeletingWithDOMParser.pdb

@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskAcademyTasks\bin\Debug\TaskAcademyTasks.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskAcademyTasks\bin\Debug\TaskAcademyTasks.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskAcademyTasks\bin\Debug\TaskAcademyTasks.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskAcademyTasks\obj\Debug\TaskAcademyTasks.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskAcademyTasks\obj\Debug\TaskAcademyTasks.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\PreparationExam\TaskAcademyTasks\obj\Debug\TaskAcademyTasks.csprojResolveAssemblyReference.cache

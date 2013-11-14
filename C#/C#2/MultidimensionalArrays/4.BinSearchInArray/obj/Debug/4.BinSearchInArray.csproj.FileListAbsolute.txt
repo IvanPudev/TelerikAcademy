@@ -1,0 +1,6 @@
+F:\SourceCode\C#\MultidimensionalArrays\4.BinSearchInArray\bin\Debug\4.BinSearchInArray.exe.config
+F:\SourceCode\C#\MultidimensionalArrays\4.BinSearchInArray\obj\Debug\4.BinSearchInArray.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\MultidimensionalArrays\4.BinSearchInArray\bin\Debug\4.BinSearchInArray.exe
+F:\SourceCode\C#\MultidimensionalArrays\4.BinSearchInArray\bin\Debug\4.BinSearchInArray.pdb
+F:\SourceCode\C#\MultidimensionalArrays\4.BinSearchInArray\obj\Debug\4.BinSearchInArray.exe
+F:\SourceCode\C#\MultidimensionalArrays\4.BinSearchInArray\obj\Debug\4.BinSearchInArray.pdb

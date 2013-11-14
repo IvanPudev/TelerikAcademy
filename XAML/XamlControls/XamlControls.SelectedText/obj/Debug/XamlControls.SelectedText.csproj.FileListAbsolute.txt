@@ -1,0 +1,13 @@
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.SelectedText\bin\Debug\XamlControls.SelectedText.exe.config
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.SelectedText\bin\Debug\XamlControls.SelectedText.exe
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.SelectedText\bin\Debug\XamlControls.SelectedText.pdb
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.SelectedText\obj\Debug\XamlControls.SelectedText.csprojResolveAssemblyReference.cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.SelectedText\obj\Debug\MainWindow.baml
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.SelectedText\obj\Debug\MainWindow.g.cs
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.SelectedText\obj\Debug\App.g.cs
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.SelectedText\obj\Debug\XamlControls.SelectedText_MarkupCompile.cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.SelectedText\obj\Debug\XamlControls.SelectedText.g.resources
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.SelectedText\obj\Debug\XamlControls.SelectedText.Properties.Resources.resources
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.SelectedText\obj\Debug\XamlControls.SelectedText.csproj.GenerateResource.Cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.SelectedText\obj\Debug\XamlControls.SelectedText.exe
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.SelectedText\obj\Debug\XamlControls.SelectedText.pdb

@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task2CombinationWithDuplicates\bin\Debug\Task2CombinationWithDuplicates.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task2CombinationWithDuplicates\bin\Debug\Task2CombinationWithDuplicates.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task2CombinationWithDuplicates\bin\Debug\Task2CombinationWithDuplicates.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task2CombinationWithDuplicates\obj\Debug\Task2CombinationWithDuplicates.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task2CombinationWithDuplicates\obj\Debug\Task2CombinationWithDuplicates.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task2CombinationWithDuplicates\obj\Debug\Task2CombinationWithDuplicates.csprojResolveAssemblyReference.cache

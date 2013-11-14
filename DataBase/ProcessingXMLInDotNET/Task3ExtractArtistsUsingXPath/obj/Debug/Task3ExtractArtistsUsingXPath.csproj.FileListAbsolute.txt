@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task3ExtractArtistsUsingXPath\bin\Debug\Task3ExtractArtistsUsingXPath.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task3ExtractArtistsUsingXPath\bin\Debug\Task3ExtractArtistsUsingXPath.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task3ExtractArtistsUsingXPath\bin\Debug\Task3ExtractArtistsUsingXPath.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task3ExtractArtistsUsingXPath\obj\Debug\Task3ExtractArtistsUsingXPath.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task3ExtractArtistsUsingXPath\obj\Debug\Task3ExtractArtistsUsingXPath.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\ProcessingXMLInDotNET\Task3ExtractArtistsUsingXPath\obj\Debug\Task3ExtractArtistsUsingXPath.pdb

@@ -1,0 +1,7 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\CodeFormatting\EventApplicationLibrary\obj\Debug\EventApplicationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\CodeFormatting\EventApplicationLibrary\bin\Debug\EventApplicationLibrary.dll
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\CodeFormatting\EventApplicationLibrary\bin\Debug\EventApplicationLibrary.pdb
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\CodeFormatting\EventApplicationLibrary\bin\Debug\PowerCollections.dll
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\CodeFormatting\EventApplicationLibrary\bin\Debug\PowerCollections.xml
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\CodeFormatting\EventApplicationLibrary\obj\Debug\EventApplicationLibrary.dll
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\CodeFormatting\EventApplicationLibrary\obj\Debug\EventApplicationLibrary.pdb

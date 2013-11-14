@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>PromisesAndBackgroundWorkers</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <script src="js/Helpers/Utilities.js"></script>
+    <script src="js/DedicatedWorker.js"></script>
+    <script src="js/PrimeCalculator.js"></script>
+
+    <script src="viewModels/PrimeCalculatorViewModel.js"></script>
+
+    <!-- PromisesAndBackgroundWorkers references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <section>
+        <div>
+            <label for="workers-id">Number of Workers</label>
+            <input type="text" id="workers-id" placeholder="Workers: 3" data-win-bind="value: workerNumber; onkeyup: setWorkerNumber; onclick: setWorkerNumber" />
+        </div>
+        <div class="left">
+            <input type="text" placeholder="Enter an integer: 20" data-win-bind="onkeyup: setEndNumber; onclick: calculateEnd" />
+            <button data-win-bind="onclick: calculateEnd">Calculate</button>
+            <div class="result" data-win-bind="innerText: endResult"></div>
+        </div>
+        <div class="left">
+            <input type="text" placeholder="From: 2" data-win-bind="onkeyup: setFromNumber; onclick: calculateFromTo" />
+            <input type="text" placeholder="To: 20" data-win-bind="onkeyup: setToNumber; onclick: calculateFromTo" />
+            <button data-win-bind="onclick: calculateFromTo">Calculate</button>
+            <div class="result" data-win-bind="innerText: fromToResult"></div>
+        </div>
+        <div class="left">
+            <input type="text" placeholder="Enter an integer: 5" data-win-bind="onkeyup: setCount; onclick: calculateN" />
+            <button data-win-bind="onclick: calculateN">Calculate</button>
+            <div class="result" data-win-bind="innerText: countResult"></div>
+        </div>
+    </section>
+</body>
+</html>

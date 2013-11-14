@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="5f842703-b013-44c0-9b98-b86cc821c072">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>GenericList/Program.cs</FileRelativePath>
+        <ProjectRelativePath>GenericList/GenericList.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>4756386796190545987</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

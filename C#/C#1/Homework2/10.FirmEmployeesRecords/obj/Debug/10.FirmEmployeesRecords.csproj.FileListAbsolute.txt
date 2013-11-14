@@ -1,0 +1,5 @@
+F:\SourceCode\C#\Homework2\10.FirmEmployeesRecords\bin\Debug\10.FirmEmployeesRecords.exe.config
+F:\SourceCode\C#\Homework2\10.FirmEmployeesRecords\bin\Debug\10.FirmEmployeesRecords.exe
+F:\SourceCode\C#\Homework2\10.FirmEmployeesRecords\bin\Debug\10.FirmEmployeesRecords.pdb
+F:\SourceCode\C#\Homework2\10.FirmEmployeesRecords\obj\Debug\10.FirmEmployeesRecords.exe
+F:\SourceCode\C#\Homework2\10.FirmEmployeesRecords\obj\Debug\10.FirmEmployeesRecords.pdb

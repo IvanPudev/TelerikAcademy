@@ -1,0 +1,6 @@
+F:\SourceCode\C#\StringsAndTextProcessing\RemoveTags\bin\Debug\RemoveTags.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\RemoveTags\bin\Debug\RemoveTags.exe
+F:\SourceCode\C#\StringsAndTextProcessing\RemoveTags\bin\Debug\RemoveTags.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\RemoveTags\obj\Debug\25.RemoveTags.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\StringsAndTextProcessing\RemoveTags\obj\Debug\RemoveTags.exe
+F:\SourceCode\C#\StringsAndTextProcessing\RemoveTags\obj\Debug\RemoveTags.pdb

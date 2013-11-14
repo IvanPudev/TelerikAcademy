@@ -1,0 +1,38 @@
+﻿.article-holder {
+    width:auto;
+    height:auto;
+    display:inline-block;
+    padding:25px;
+}
+
+.article-holder:hover {
+    border:1px solid gray;
+    padding:24px;
+}
+    .article-holder img {
+        width:250px;
+        height:250px;
+    }
+
+section > img {
+    margin-left:25px;
+}
+
+.home section[role=main] {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+@media screen and (-ms-view-state: snapped) {
+    .home section[role=main] {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+    .home section[role=main] {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+}

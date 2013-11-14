@@ -1,0 +1,54 @@
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\bin\Debug\TicTacToe.exe
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\bin\Debug\TicTacToe.pdb
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\bin\Debug\resources.pri
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\bin\Debug\AppxManifest.xml
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\bin\Debug\TicTacToe.build.appxrecipe
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\App.g.i.cs
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\App.g.cs
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\Common\StandardStyles.g.cs
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\MainPage.g.i.cs
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\MainPage.g.cs
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\XamlTypeInfo.g.cs
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\App.xaml
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\Common\StandardStyles.xaml
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\MainPage.xaml
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\TicTacToe.exe
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\TicTacToe.pdb
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\priconfig.xml
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\layout.resfiles
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\resources.resfiles
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\pri.resfiles
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\LanguageQualifiers.txt
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\ProjectArchitectures.txt
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\priconfig.xml.intermediate
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\layout.resfiles.intermediate
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\resources.resfiles.intermediate
+c:\users\lina\documents\visual studio 2012\Projects\BindingHomework\TicTacToe\obj\Debug\pri.resfiles.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\bin\Debug\resources.pri
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\bin\Debug\AppxManifest.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\bin\Debug\TicTacToe.build.appxrecipe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\App.g.i.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\App.g.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\MainPage.g.i.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\MainPage.g.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\App.xaml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\Common\StandardStyles.xaml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\MainPage.xaml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\priconfig.xml.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\layout.resfiles.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\resources.resfiles.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\pri.resfiles.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\priconfig.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\layout.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\resources.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\pri.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\LanguageQualifiers.txt
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\BindingHomework\TicTacToe\obj\Debug\ProjectArchitectures.txt

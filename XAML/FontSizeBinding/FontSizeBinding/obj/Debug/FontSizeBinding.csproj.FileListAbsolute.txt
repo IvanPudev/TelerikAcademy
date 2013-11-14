@@ -1,0 +1,13 @@
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\FontSizeBinding\bin\Debug\FontSizeBinding.exe.config
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\FontSizeBinding\bin\Debug\FontSizeBinding.exe
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\FontSizeBinding\bin\Debug\FontSizeBinding.pdb
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\FontSizeBinding\obj\Debug\FontSizeBinding.csprojResolveAssemblyReference.cache
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\FontSizeBinding\obj\Debug\MainWindow.baml
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\FontSizeBinding\obj\Debug\MainWindow.g.cs
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\FontSizeBinding\obj\Debug\App.g.cs
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\FontSizeBinding\obj\Debug\FontSizeBinding_MarkupCompile.cache
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\FontSizeBinding\obj\Debug\FontSizeBinding.g.resources
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\FontSizeBinding\obj\Debug\FontSizeBinding.Properties.Resources.resources
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\FontSizeBinding\obj\Debug\FontSizeBinding.csproj.GenerateResource.Cache
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\FontSizeBinding\obj\Debug\FontSizeBinding.exe
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\FontSizeBinding\obj\Debug\FontSizeBinding.pdb

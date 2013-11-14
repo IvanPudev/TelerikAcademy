@@ -1,0 +1,15 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\bin\Debug\CountriesSystemTextBoxes.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\obj\Debug\CountriesSystemTextBoxes.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\obj\Debug\App.g.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\obj\Debug\CountriesSystemTextBoxes_MarkupCompile.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\obj\Debug\MainWindow.g.cs
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\bin\Debug\CountriesSystemTextBoxes.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\bin\Debug\CountriesSystemTextBoxes.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\bin\Debug\ViewModels.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\bin\Debug\ViewModels.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\obj\Debug\MainWindow.baml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\obj\Debug\CountriesSystemTextBoxes.g.resources
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\obj\Debug\CountriesSystemTextBoxes.Properties.Resources.resources
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\obj\Debug\CountriesSystemTextBoxes.csproj.GenerateResource.Cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\obj\Debug\CountriesSystemTextBoxes.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\XAML\ComplexAndListDataBinding\CountriesSystemTextBoxes\obj\Debug\CountriesSystemTextBoxes.pdb

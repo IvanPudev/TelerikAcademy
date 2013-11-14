@@ -1,0 +1,6 @@
+F:\SourceCode\C#\UsingClassesAndObjects\TriangleSurface\obj\Debug\4.TriangleSurface.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\UsingClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.exe.config
+F:\SourceCode\C#\UsingClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.exe
+F:\SourceCode\C#\UsingClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.pdb
+F:\SourceCode\C#\UsingClassesAndObjects\TriangleSurface\obj\Debug\TriangleSurface.exe
+F:\SourceCode\C#\UsingClassesAndObjects\TriangleSurface\obj\Debug\TriangleSurface.pdb

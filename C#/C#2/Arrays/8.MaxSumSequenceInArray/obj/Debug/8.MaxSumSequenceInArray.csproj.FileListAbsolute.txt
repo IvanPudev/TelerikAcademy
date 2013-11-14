@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Arrays\8.MaxSumSequenceInArray\bin\Debug\8.MaxSumSequenceInArray.exe.config
+F:\SourceCode\C#\Arrays\8.MaxSumSequenceInArray\bin\Debug\8.MaxSumSequenceInArray.exe
+F:\SourceCode\C#\Arrays\8.MaxSumSequenceInArray\bin\Debug\8.MaxSumSequenceInArray.pdb
+F:\SourceCode\C#\Arrays\8.MaxSumSequenceInArray\obj\Debug\8.MaxSumSequenceInArray.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Arrays\8.MaxSumSequenceInArray\obj\Debug\8.MaxSumSequenceInArray.exe
+F:\SourceCode\C#\Arrays\8.MaxSumSequenceInArray\obj\Debug\8.MaxSumSequenceInArray.pdb

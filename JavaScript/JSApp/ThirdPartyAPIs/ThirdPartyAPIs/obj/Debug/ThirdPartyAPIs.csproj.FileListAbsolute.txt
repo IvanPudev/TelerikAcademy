@@ -1,0 +1,10 @@
+C:\Users\rusev_000\Desktop\ThirdPartyAPIs\ThirdPartyAPIs\bin\ThirdPartyAPIs.dll
+C:\Users\rusev_000\Desktop\ThirdPartyAPIs\ThirdPartyAPIs\bin\ThirdPartyAPIs.pdb
+C:\Users\rusev_000\Desktop\ThirdPartyAPIs\ThirdPartyAPIs\obj\Debug\ThirdPartyAPIs.csprojResolveAssemblyReference.cache
+C:\Users\rusev_000\Desktop\ThirdPartyAPIs\ThirdPartyAPIs\obj\Debug\ThirdPartyAPIs.dll
+C:\Users\rusev_000\Desktop\ThirdPartyAPIs\ThirdPartyAPIs\obj\Debug\ThirdPartyAPIs.pdb
+C:\Users\zloupotrebitel\Desktop\ThirdPartyAPIsHomework\ThirdPartyAPIs\ThirdPartyAPIs\bin\ThirdPartyAPIs.dll
+C:\Users\zloupotrebitel\Desktop\ThirdPartyAPIsHomework\ThirdPartyAPIs\ThirdPartyAPIs\bin\ThirdPartyAPIs.pdb
+C:\Users\zloupotrebitel\Desktop\ThirdPartyAPIsHomework\ThirdPartyAPIs\ThirdPartyAPIs\obj\Debug\ThirdPartyAPIs.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\Desktop\ThirdPartyAPIsHomework\ThirdPartyAPIs\ThirdPartyAPIs\obj\Debug\ThirdPartyAPIs.dll
+C:\Users\zloupotrebitel\Desktop\ThirdPartyAPIsHomework\ThirdPartyAPIs\ThirdPartyAPIs\obj\Debug\ThirdPartyAPIs.pdb

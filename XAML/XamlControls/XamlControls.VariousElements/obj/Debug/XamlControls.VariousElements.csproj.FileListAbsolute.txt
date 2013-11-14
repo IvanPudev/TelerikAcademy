@@ -1,0 +1,13 @@
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.VariousElements\bin\Debug\XamlControls.VariousElements.exe.config
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.VariousElements\bin\Debug\XamlControls.VariousElements.exe
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.VariousElements\bin\Debug\XamlControls.VariousElements.pdb
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.VariousElements\obj\Debug\XamlControls.VariousElements.csprojResolveAssemblyReference.cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.VariousElements\obj\Debug\MainWindow.baml
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.VariousElements\obj\Debug\MainWindow.g.cs
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.VariousElements\obj\Debug\App.g.cs
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.VariousElements\obj\Debug\XamlControls.VariousElements_MarkupCompile.cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.VariousElements\obj\Debug\XamlControls.VariousElements.g.resources
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.VariousElements\obj\Debug\XamlControls.VariousElements.Properties.Resources.resources
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.VariousElements\obj\Debug\XamlControls.VariousElements.csproj.GenerateResource.Cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.VariousElements\obj\Debug\XamlControls.VariousElements.exe
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\XamlControls\XamlControls.VariousElements\obj\Debug\XamlControls.VariousElements.pdb

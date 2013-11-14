@@ -1,0 +1,6 @@
+F:\SourceCode\C#\ExceptionsHendling\ReadNumberMethod\bin\Debug\ReadNumberMethod.exe.config
+F:\SourceCode\C#\ExceptionsHendling\ReadNumberMethod\bin\Debug\ReadNumberMethod.exe
+F:\SourceCode\C#\ExceptionsHendling\ReadNumberMethod\bin\Debug\ReadNumberMethod.pdb
+F:\SourceCode\C#\ExceptionsHendling\ReadNumberMethod\obj\Debug\2.ReadNumberMethod.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\ExceptionsHendling\ReadNumberMethod\obj\Debug\ReadNumberMethod.exe
+F:\SourceCode\C#\ExceptionsHendling\ReadNumberMethod\obj\Debug\ReadNumberMethod.pdb

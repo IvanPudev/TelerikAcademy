@@ -1,0 +1,5 @@
+F:\SourceCode\C#\OperatorsAndExpressions\3.RectangleArea\bin\Debug\3.RectangleArea.exe.config
+F:\SourceCode\C#\OperatorsAndExpressions\3.RectangleArea\bin\Debug\3.RectangleArea.exe
+F:\SourceCode\C#\OperatorsAndExpressions\3.RectangleArea\bin\Debug\3.RectangleArea.pdb
+F:\SourceCode\C#\OperatorsAndExpressions\3.RectangleArea\obj\Debug\3.RectangleArea.exe
+F:\SourceCode\C#\OperatorsAndExpressions\3.RectangleArea\obj\Debug\3.RectangleArea.pdb

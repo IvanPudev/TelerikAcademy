@@ -1,0 +1,6 @@
+F:\SourceCode\C#\StringsAndTextProcessing\DaysBetweenTwoDates\bin\Debug\DaysBetweenTwoDates.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\DaysBetweenTwoDates\bin\Debug\DaysBetweenTwoDates.exe
+F:\SourceCode\C#\StringsAndTextProcessing\DaysBetweenTwoDates\bin\Debug\DaysBetweenTwoDates.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\DaysBetweenTwoDates\obj\Debug\16.DaysBetweenTwoDates.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\StringsAndTextProcessing\DaysBetweenTwoDates\obj\Debug\DaysBetweenTwoDates.exe
+F:\SourceCode\C#\StringsAndTextProcessing\DaysBetweenTwoDates\obj\Debug\DaysBetweenTwoDates.pdb

@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Loops\1.NubersFrom1ToN\bin\Debug\1.NubersFrom1ToN.exe.config
+F:\SourceCode\C#\Loops\1.NubersFrom1ToN\bin\Debug\1.NubersFrom1ToN.exe
+F:\SourceCode\C#\Loops\1.NubersFrom1ToN\bin\Debug\1.NubersFrom1ToN.pdb
+F:\SourceCode\C#\Loops\1.NubersFrom1ToN\obj\Debug\1.NubersFrom1ToN.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Loops\1.NubersFrom1ToN\obj\Debug\1.NubersFrom1ToN.exe
+F:\SourceCode\C#\Loops\1.NubersFrom1ToN\obj\Debug\1.NubersFrom1ToN.pdb

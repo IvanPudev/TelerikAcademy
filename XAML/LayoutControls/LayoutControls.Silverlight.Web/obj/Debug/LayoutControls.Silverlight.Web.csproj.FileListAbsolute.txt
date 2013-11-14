@@ -1,0 +1,5 @@
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Silverlight.Web\bin\LayoutControls.Silverlight.Web.dll
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Silverlight.Web\bin\LayoutControls.Silverlight.Web.pdb
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Silverlight.Web\obj\Debug\LayoutControls.Silverlight.Web.csprojResolveAssemblyReference.cache
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Silverlight.Web\obj\Debug\LayoutControls.Silverlight.Web.dll
+C:\Projects\TelerikAkademy\DesktopDevelopment\WPF\LayoutControls\LayoutControls.Silverlight.Web\obj\Debug\LayoutControls.Silverlight.Web.pdb

@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\High-QualityMethods\High-QualityMethods\bin\Debug\High-QualityMethods.exe.config
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\High-QualityMethods\High-QualityMethods\bin\Debug\High-QualityMethods.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\High-QualityMethods\High-QualityMethods\bin\Debug\High-QualityMethods.pdb
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\High-QualityMethods\High-QualityMethods\obj\Debug\High-QualityMethods.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\High-QualityMethods\High-QualityMethods\obj\Debug\High-QualityMethods.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\High-QualityCode\High-QualityMethods\High-QualityMethods\obj\Debug\High-QualityMethods.pdb

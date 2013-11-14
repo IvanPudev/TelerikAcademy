@@ -1,0 +1,13 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSClassesAndNamespaces\VegetableHierarchy\bin\Debug\resources.pri
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSClassesAndNamespaces\VegetableHierarchy\bin\Debug\AppxManifest.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSClassesAndNamespaces\VegetableHierarchy\bin\Debug\VegetableHierarchy.build.appxrecipe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSClassesAndNamespaces\VegetableHierarchy\bld\Debug\priconfig.xml.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSClassesAndNamespaces\VegetableHierarchy\bld\Debug\layout.resfiles.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSClassesAndNamespaces\VegetableHierarchy\bld\Debug\resources.resfiles.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSClassesAndNamespaces\VegetableHierarchy\bld\Debug\pri.resfiles.intermediate
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSClassesAndNamespaces\VegetableHierarchy\bld\Debug\priconfig.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSClassesAndNamespaces\VegetableHierarchy\bld\Debug\layout.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSClassesAndNamespaces\VegetableHierarchy\bld\Debug\resources.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSClassesAndNamespaces\VegetableHierarchy\bld\Debug\pri.resfiles
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSClassesAndNamespaces\VegetableHierarchy\bld\Debug\LanguageQualifiers.txt
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&JS\WinJSClassesAndNamespaces\VegetableHierarchy\bld\Debug\ProjectArchitectures.txt

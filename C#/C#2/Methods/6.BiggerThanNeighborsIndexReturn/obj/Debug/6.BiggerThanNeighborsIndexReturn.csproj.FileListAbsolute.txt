@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Methods\6.BiggerThanNeighborsIndexReturn\bin\Debug\6.BiggerThanNeighborsIndexReturn.exe.config
+F:\SourceCode\C#\Methods\6.BiggerThanNeighborsIndexReturn\obj\Debug\6.BiggerThanNeighborsIndexReturn.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Methods\6.BiggerThanNeighborsIndexReturn\bin\Debug\6.BiggerThanNeighborsIndexReturn.exe
+F:\SourceCode\C#\Methods\6.BiggerThanNeighborsIndexReturn\bin\Debug\6.BiggerThanNeighborsIndexReturn.pdb
+F:\SourceCode\C#\Methods\6.BiggerThanNeighborsIndexReturn\obj\Debug\6.BiggerThanNeighborsIndexReturn.exe
+F:\SourceCode\C#\Methods\6.BiggerThanNeighborsIndexReturn\obj\Debug\6.BiggerThanNeighborsIndexReturn.pdb

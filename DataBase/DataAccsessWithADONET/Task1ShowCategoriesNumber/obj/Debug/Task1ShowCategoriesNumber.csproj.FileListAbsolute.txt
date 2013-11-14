@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task1ShowCategoriesNumber\bin\Debug\Task1ShowCategoriesNumber.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task1ShowCategoriesNumber\bin\Debug\Task1ShowCategoriesNumber.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task1ShowCategoriesNumber\bin\Debug\Task1ShowCategoriesNumber.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task1ShowCategoriesNumber\obj\Debug\Task1ShowCategoriesNumber.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task1ShowCategoriesNumber\obj\Debug\Task1ShowCategoriesNumber.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task1ShowCategoriesNumber\obj\Debug\Task1ShowCategoriesNumber.pdb

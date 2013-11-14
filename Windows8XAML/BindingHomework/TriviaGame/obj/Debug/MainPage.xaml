@@ -1,0 +1,78 @@
+﻿<Page
+    x:Class="TriviaGame.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TriviaGame"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Converters="using:TriviaGame.Converters"
+    xmlns:ViewModels="using:TriviaGame.ViewModels"
+    xmlns:AttachedBehaviour="using:TriviaGame.AttachedBehaviour"
+    xmlns:Interactivity="using:Windows.UI.Interactivity"
+    xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+    xmlns:Core="using:Microsoft.Xaml.Interactions.Core"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.Resources>
+            <Converters:BoolToVisibilityConverter x:Key="boolToVisibilityConverter"/>
+            <Converters:BoolToVisibilityConverterReversed x:Key="boolToVisibilityConverterReversed"/>
+        </Grid.Resources>
+        <Grid.DataContext>
+            <ViewModels:GameViewModel/>
+        </Grid.DataContext>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button Grid.Row="0" Grid.Column="0" Content="Start new game" Command="{Binding StartGame, Mode=TwoWay}" 
+                Visibility="{Binding Converter={StaticResource boolToVisibilityConverter}, Path=Active}" />
+                <ListBox Grid.Row="0" Grid.Column="1" Name="Categories" Width="100"
+                         Visibility="{Binding Converter={StaticResource boolToVisibilityConverterReversed},Path=Active}">
+            <ListBoxItem AttachedBehaviour:SelectionChangedCommanBehaviour.Category="True"
+                >Movies</ListBoxItem>
+            <ListBoxItem AttachedBehaviour:SelectionChangedCommanBehaviour.Category="True"
+                        >Songs</ListBoxItem>
+            <ListBoxItem AttachedBehaviour:SelectionChangedCommanBehaviour.Category="True"
+                        >All</ListBoxItem>
+        </ListBox>
+        <Button Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center"
+                 Visibility="{Binding Converter={StaticResource boolToVisibilityConverterReversed},Path=Active}"
+                Command="{Binding SetCategory}" CommandParameter="{Binding ElementName=Categories,Path=SelectedItem.Content}">Select category</Button>
+        <ListBox Name="AllQuestions" Grid.Row="0" Grid.Column="2" ItemsSource="{Binding Questions}">
+            <Interactivity:Interaction.Triggers>
+                <Interactivity:EventTrigger EventName="SelectionChanged">
+                    <Interactivity:InvokeCommandAction Command="{Binding ShowSelectedQuestionAnswers}"
+                                                   CommandParameter="{Binding ElementName=AllQuestions, Path=SelectedItem}"/>
+                </Interactivity:EventTrigger>
+            </Interactivity:Interaction.Triggers>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Content}"></TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <ListBox Name="AllAnswers" Grid.Row="1" Grid.Column="2" ItemsSource="{Binding Path=CurrentQuestion.Answers}">
+            <Interactivity:Interaction.Triggers>
+                <Interactivity:EventTrigger EventName="SelectionChanged">
+                    <Interactivity:InvokeCommandAction Command="{Binding CheckAnswer}"
+                                                   CommandParameter="{Binding ElementName=AllAnswers, Path=SelectedItem}"/>
+                </Interactivity:EventTrigger>
+            </Interactivity:Interaction.Triggers>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Content}"></TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <TextBlock Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" FontSize="20" Text="{Binding Message}"/>
+    </Grid>
+</Page>
+

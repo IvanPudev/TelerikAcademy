@@ -1,0 +1,8 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\Bookstore.Data\bin\Debug\Bookstore.Data.dll.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\Bookstore.Data\bin\Debug\Bookstore.Data.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\Bookstore.Data\bin\Debug\Bookstore.Data.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\Bookstore.Data\bin\Debug\EntityFramework.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\Bookstore.Data\bin\Debug\EntityFramework.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\Bookstore.Data\obj\Debug\Bookstore.Data.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\Bookstore.Data\obj\Debug\Bookstore.Data.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DatabasesExam\Bookstore.Data\obj\Debug\Bookstore.Data.pdb

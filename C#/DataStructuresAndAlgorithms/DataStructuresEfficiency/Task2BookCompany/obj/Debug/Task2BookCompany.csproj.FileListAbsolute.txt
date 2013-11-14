@@ -1,0 +1,8 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\Task2BookCompany\bin\Debug\Task2BookCompany.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\Task2BookCompany\bin\Debug\Task2BookCompany.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\Task2BookCompany\bin\Debug\Task2BookCompany.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\Task2BookCompany\bin\Debug\PowerCollections.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\Task2BookCompany\bin\Debug\PowerCollections.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\Task2BookCompany\obj\Debug\Task2BookCompany.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\Task2BookCompany\obj\Debug\Task2BookCompany.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DataStructuresEfficiency\Task2BookCompany\obj\Debug\Task2BookCompany.pdb

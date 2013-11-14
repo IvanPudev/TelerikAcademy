@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Homework2\11.ChangingPlaces\bin\Debug\11.ChangingPlaces.exe.config
+F:\SourceCode\C#\Homework2\11.ChangingPlaces\bin\Debug\11.ChangingPlaces.exe
+F:\SourceCode\C#\Homework2\11.ChangingPlaces\bin\Debug\11.ChangingPlaces.pdb
+F:\SourceCode\C#\Homework2\11.ChangingPlaces\obj\Debug\11.ChangingPlaces.exe
+F:\SourceCode\C#\Homework2\11.ChangingPlaces\obj\Debug\11.ChangingPlaces.pdb
+F:\SourceCode\C#\Homework2\11.ChangingPlaces\obj\Debug\11.ChangingPlaces.csprojResolveAssemblyReference.cache

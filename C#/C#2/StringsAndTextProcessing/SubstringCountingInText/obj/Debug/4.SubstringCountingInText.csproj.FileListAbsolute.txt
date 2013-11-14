@@ -1,0 +1,6 @@
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringCountingInText\bin\Debug\SubstringCountingInText.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringCountingInText\bin\Debug\SubstringCountingInText.exe
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringCountingInText\bin\Debug\SubstringCountingInText.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringCountingInText\obj\Debug\SubstringCountingInText.exe
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringCountingInText\obj\Debug\SubstringCountingInText.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\SubstringCountingInText\obj\Debug\4.SubstringCountingInText.csprojResolveAssemblyReference.cache

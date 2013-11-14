@@ -1,0 +1,1 @@
+F:\SourceCode\C#\ExceptionsHendling\ExceptionsHendling\bin\Debug\ExceptionsHendling.exe.config

@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>DomManager</title>
+</head>
+<body>
+    <ul>
+        <li>First item</li>
+        <li>Second item</li>
+    </ul>
+    <div>
+        <p>Paragraph</p>
+    </div>
+    <script>
+        var domManager = (function () {
+            var elementArray = [];
+            var nodesArray = [];
+            var bufferCount = 0;
+            var MAX_SIZE = 100;
+
+            function addElement(selector, element, text) {
+                var element = document.querySelector(selector);
+                var node = document.createElement(element);
+                node.innerHTML = text;
+                element.appendChild(node);
+            }
+
+            function removeElement(selector) {
+                var el = document.querySelector(selector);
+                el.parentNode.removeChild(element);
+            }
+
+            function eventAttach(selector, eventType, eventHandler) {
+                document.querySelector(selector).addEventListener(eventType, eventHandler, false);
+            }
+
+            function appendElement(selector, element, count, text) {
+                elementArray.push(document.querySelector(selector));
+
+                for (var i = bufferCount; i < count + bufferCount; i++) {
+                    nodesArray.push(document.createElement(element));
+                    nodesArray[i].innerHTML = text;
+                }
+
+                bufferCount += count;
+
+                if (bufferCount >= MAX_SIZE) {
+                    for (var i = 0; i < elementArray.length; i++) {
+                        for (var j = 0; c < nodesArray.length; j++) {
+                            elementArray[i].appendChild(nodesArray[j]);
+                        }
+                    }
+                }
+            }
+
+            return {
+                appendElement: appendElement,
+                addElement: addElement,
+                removeElement: removeElement,
+                eventAttach: eventAttach,
+                getElement: function (selector) {
+                    return document.querySelector(selector);
+                },
+                getElement: function (selector) {
+                    return document.querySelectorAll(selector);
+                }
+            };
+        })();
+
+        domManager.addElement("div", "p", "New div added");
+        domManager.eventAttach("p", 'click', function () {
+            alert('Clicked');
+        })
+        domManager.appendElement("div", "p", 10, "10 p");
+        domManager.appendElement("div", "p", 90, "90 p");
+
+    </script>
+</body>
+</html>

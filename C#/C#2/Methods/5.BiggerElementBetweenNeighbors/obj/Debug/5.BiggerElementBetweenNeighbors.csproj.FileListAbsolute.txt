@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Methods\5.BiggerElementBetweenNeighbors\bin\Debug\5.BiggerElementBetweenNeighbors.exe.config
+F:\SourceCode\C#\Methods\5.BiggerElementBetweenNeighbors\obj\Debug\5.BiggerElementBetweenNeighbors.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Methods\5.BiggerElementBetweenNeighbors\bin\Debug\5.BiggerElementBetweenNeighbors.exe
+F:\SourceCode\C#\Methods\5.BiggerElementBetweenNeighbors\bin\Debug\5.BiggerElementBetweenNeighbors.pdb
+F:\SourceCode\C#\Methods\5.BiggerElementBetweenNeighbors\obj\Debug\5.BiggerElementBetweenNeighbors.exe
+F:\SourceCode\C#\Methods\5.BiggerElementBetweenNeighbors\obj\Debug\5.BiggerElementBetweenNeighbors.pdb

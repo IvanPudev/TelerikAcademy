@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Homework2\1.DeclaringFiveVariables\bin\Debug\1.DeclaringFiveVariables.exe.config
+F:\SourceCode\C#\Homework2\1.DeclaringFiveVariables\bin\Debug\1.DeclaringFiveVariables.exe
+F:\SourceCode\C#\Homework2\1.DeclaringFiveVariables\bin\Debug\1.DeclaringFiveVariables.pdb
+F:\SourceCode\C#\Homework2\1.DeclaringFiveVariables\obj\Debug\1.DeclaringFiveVariables.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Homework2\1.DeclaringFiveVariables\obj\Debug\1.DeclaringFiveVariables.exe
+F:\SourceCode\C#\Homework2\1.DeclaringFiveVariables\obj\Debug\1.DeclaringFiveVariables.pdb

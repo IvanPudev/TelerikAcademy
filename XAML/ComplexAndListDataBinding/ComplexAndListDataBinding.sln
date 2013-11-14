@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountriesSystemTextBoxes", "CountriesSystemTextBoxes\CountriesSystemTextBoxes.csproj", "{2E0A7288-17A2-4287-90C1-4B58FCE6487D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModels", "ViewModels\ViewModels.csproj", "{0842AEA8-5BC0-43A4-B2E9-425A1A2E7B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E0A7288-17A2-4287-90C1-4B58FCE6487D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0A7288-17A2-4287-90C1-4B58FCE6487D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0A7288-17A2-4287-90C1-4B58FCE6487D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0A7288-17A2-4287-90C1-4B58FCE6487D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0842AEA8-5BC0-43A4-B2E9-425A1A2E7B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0842AEA8-5BC0-43A4-B2E9-425A1A2E7B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0842AEA8-5BC0-43A4-B2E9-425A1A2E7B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0842AEA8-5BC0-43A4-B2E9-425A1A2E7B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\DefiningClassesPartTwo\Euclidian3D\bin\Debug\Euclidian3D.exe.config
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\DefiningClassesPartTwo\Euclidian3D\obj\Debug\Euclidian3D.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\DefiningClassesPartTwo\Euclidian3D\bin\Debug\Euclidian3D.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\DefiningClassesPartTwo\Euclidian3D\bin\Debug\Euclidian3D.pdb
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\DefiningClassesPartTwo\Euclidian3D\obj\Debug\Euclidian3D.exe
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\DefiningClassesPartTwo\Euclidian3D\obj\Debug\Euclidian3D.pdb

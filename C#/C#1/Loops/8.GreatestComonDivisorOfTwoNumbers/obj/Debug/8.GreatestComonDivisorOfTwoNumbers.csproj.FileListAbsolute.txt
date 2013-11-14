@@ -1,0 +1,1 @@
+F:\SourceCode\C#\Loops\8.GreatestComonDivisorOfTwoNumbers\bin\Debug\8.GreatestComonDivisorOfTwoNumbers.exe.config

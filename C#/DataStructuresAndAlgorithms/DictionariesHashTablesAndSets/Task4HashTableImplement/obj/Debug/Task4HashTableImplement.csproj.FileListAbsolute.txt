@@ -1,0 +1,1 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\HashTablesAndSets\DictionariesHashTablesAndSets\Task4HashTableImplement\bin\Debug\Task4HashTableImplement.exe.config

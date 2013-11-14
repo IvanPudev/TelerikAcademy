@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Arrays\4.MaxSequenceOfEqualElementsInArray\bin\Debug\4.MaxSequenceOfEqualElementsInArray.exe.config
+F:\SourceCode\C#\Arrays\4.MaxSequenceOfEqualElementsInArray\bin\Debug\4.MaxSequenceOfEqualElementsInArray.exe
+F:\SourceCode\C#\Arrays\4.MaxSequenceOfEqualElementsInArray\bin\Debug\4.MaxSequenceOfEqualElementsInArray.pdb
+F:\SourceCode\C#\Arrays\4.MaxSequenceOfEqualElementsInArray\obj\Debug\4.MaxSequenceOfEqualElementsInArray.exe
+F:\SourceCode\C#\Arrays\4.MaxSequenceOfEqualElementsInArray\obj\Debug\4.MaxSequenceOfEqualElementsInArray.pdb
+F:\SourceCode\C#\Arrays\4.MaxSequenceOfEqualElementsInArray\obj\Debug\4.MaxSequenceOfEqualElementsInArray.csprojResolveAssemblyReference.cache

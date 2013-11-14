@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>WinJSControls</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- WinJS_Controls references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <div id="date-calculator-control">
+        <div data-win-control="WinJS.UI.DatePicker"></div>
+        <div data-win-control="WinJS.UI.DatePicker"></div>
+        
+        <div id="options">
+        <div id="switcher" data-win-control="WinJS.UI.ToggleSwitch" 
+            data-win-options="{
+                labelOn : 'Time On',
+                labelOff : 'Time Off',
+                checked : true
+                
+            }"></div>
+   
+        <button id="calculate-button">Calculate</button>
+            </div>
+        <div data-win-control="WinJS.UI.TimePicker"></div>
+        <div data-win-control="WinJS.UI.TimePicker"></div>
+
+        <div id="menu" data-win-control="WinJS.UI.Menu", data-win-options="{anchor:'calculate-button'}">
+            <button data-win-control="WinJS.UI.MenuCommand" data-win-options="{id:'calculate-days',label:'Calculate days'}"></button>
+            <button data-win-control="WinJS.UI.MenuCommand" data-win-options="{id:'calculate-hours',label:'Calculate hours'}"></button>
+            <button data-win-control="WinJS.UI.MenuCommand" data-win-options="{id:'calculate-days-hours',label:'Calculate days and hours'}"></button>
+        </div>
+    </div>
+    <ul id="results">
+
+    </ul>
+</body>
+</html>

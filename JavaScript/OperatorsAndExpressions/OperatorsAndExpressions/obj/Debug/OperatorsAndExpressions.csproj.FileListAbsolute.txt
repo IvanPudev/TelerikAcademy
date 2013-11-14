@@ -1,0 +1,5 @@
+F:\SourceCode\JavaScript\OperatorsAndExpressions\OperatorsAndExpressions\bin\OperatorsAndExpressions.dll
+F:\SourceCode\JavaScript\OperatorsAndExpressions\OperatorsAndExpressions\bin\OperatorsAndExpressions.pdb
+F:\SourceCode\JavaScript\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.csprojResolveAssemblyReference.cache
+F:\SourceCode\JavaScript\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.dll
+F:\SourceCode\JavaScript\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.pdb

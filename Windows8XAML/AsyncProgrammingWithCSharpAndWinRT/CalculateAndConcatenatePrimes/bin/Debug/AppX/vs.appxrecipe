@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MA6INA</Machine>
+    <WindowsUser>zloupotrebitel</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>62364C02E24A6EE84C11AC35763E5851F31BE445A7A97D9AC12CDF538DB8A0B6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ef2b9c92-0743-406c-9696-5701fd146627_1.0.0.0_neutral__bzr8dh3gcmq2w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ef2b9c92-0743-406c-9696-5701fd146627_bzr8dh3gcmq2w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ef2b9c92-0743-406c-9696-5701fd146627</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=zloupotrebitel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\AsyncProgrammingWithCSharpAndWinRT\CalculateAndConcatenatePrimes\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-19T12:37:08.812</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\AsyncProgrammingWithCSharpAndWinRT\CalculateAndConcatenatePrimes\bin\Debug\CalculateAndConcatenatePrimes.exe">
+      <PackagePath>CalculateAndConcatenatePrimes.exe</PackagePath>
+      <Modified>2013-09-20T08:46:53.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\AsyncProgrammingWithCSharpAndWinRT\CalculateAndConcatenatePrimes\bin\Debug\CalculateAndConcatenatePrimes.pdb">
+      <PackagePath>CalculateAndConcatenatePrimes.pdb</PackagePath>
+      <Modified>2013-09-20T08:46:53.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\AsyncProgrammingWithCSharpAndWinRT\CalculateAndConcatenatePrimes\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\AsyncProgrammingWithCSharpAndWinRT\CalculateAndConcatenatePrimes\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\AsyncProgrammingWithCSharpAndWinRT\CalculateAndConcatenatePrimes\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\AsyncProgrammingWithCSharpAndWinRT\CalculateAndConcatenatePrimes\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\AsyncProgrammingWithCSharpAndWinRT\CalculateAndConcatenatePrimes\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-09-19T09:03:16.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\AsyncProgrammingWithCSharpAndWinRT\CalculateAndConcatenatePrimes\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T13:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\AsyncProgrammingWithCSharpAndWinRT\CalculateAndConcatenatePrimes\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-09-20T08:46:51.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Windows8XAML\AsyncProgrammingWithCSharpAndWinRT\CalculateAndConcatenatePrimes\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-09-19T09:56:32.474</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

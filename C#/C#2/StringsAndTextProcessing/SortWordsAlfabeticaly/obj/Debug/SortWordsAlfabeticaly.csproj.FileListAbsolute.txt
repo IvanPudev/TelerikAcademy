@@ -1,0 +1,1 @@
+F:\SourceCode\C#\StringsAndTextProcessing\SortWordsAlfabeticaly\bin\Debug\SortWordsAlfabeticaly.exe.config

@@ -1,0 +1,1 @@
+F:\SourceCode\C#\StringsAndTextProcessing\Palindromes\bin\Debug\Palindromes.exe.config

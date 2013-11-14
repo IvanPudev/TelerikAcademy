@@ -1,0 +1,3 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\DefiningClassesPartOne\MobilePhoneDeviceData\bin\Debug\MobilePhoneDeviceData.exe.config
+F:\SourceCode\C#\OOP\DefiningClassesPartOne\MobilePhoneDeviceData\bin\Debug\MobilePhoneDeviceData.exe.config
+F:\SourceCode\C#\OOP\DefiningClassesPartOne\MobilePhoneDeviceData\obj\Debug\MobilePhoneDeviceData.csprojResolveAssemblyReference.cache

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MA6INA</Machine>
+    <WindowsUser>zloupotrebitel</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>A2C1C664DB159FA4D375540EE9D9E531E44E21A79D6D654635554DA01AB75614</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d25531f4-95ca-4612-8f04-f90a3bccaf44_1.0.0.0_neutral__bzr8dh3gcmq2w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d25531f4-95ca-4612-8f04-f90a3bccaf44_bzr8dh3gcmq2w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d25531f4-95ca-4612-8f04-f90a3bccaf44</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=zloupotrebitel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-23T20:22:13.273</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-24T00:05:02.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\js\cucumber.js">
+      <PackagePath>js\cucumber.js</PackagePath>
+      <Modified>2013-08-24T09:38:52.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-08-24T09:55:20.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\js\gmo.js">
+      <PackagePath>js\gmo.js</PackagePath>
+      <Modified>2013-08-23T21:14:24.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\js\mushroom-mixin.js">
+      <PackagePath>js\mushroom-mixin.js</PackagePath>
+      <Modified>2013-08-24T08:49:18.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\js\tomato.js">
+      <PackagePath>js\tomato.js</PackagePath>
+      <Modified>2013-08-24T09:38:37.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\js\vegetable.js">
+      <PackagePath>js\vegetable.js</PackagePath>
+      <Modified>2013-08-24T09:55:57.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSClassesAndNamespaces\VegetableHierarchy\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-23T20:22:13.160</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\Students\bin\Debug\Students.exe.config
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache

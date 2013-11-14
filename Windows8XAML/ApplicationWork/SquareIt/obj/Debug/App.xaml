@@ -1,0 +1,26 @@
+﻿<Application
+    x:Class="SquareIt.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vm="using:SquareIt.ViewModels"
+    xmlns:converters="using:SquareIt.Converters"
+    xmlns:local="using:SquareIt">
+    
+
+    <Application.Resources>
+        <ResourceDictionary>
+            <vm:AppViewModel x:Key="AppVM"/>
+            <converters:ColorToSolidColorBrushConverter x:Key="ColorToSolidColorBrushConverter"/>
+            <ResourceDictionary.MergedDictionaries>
+
+                <!-- 
+                    Styles that define common aspects of the platform look and feel
+                    Required by Visual Studio project and item templates
+                 -->
+                <ResourceDictionary Source="Common/StandardStyles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+

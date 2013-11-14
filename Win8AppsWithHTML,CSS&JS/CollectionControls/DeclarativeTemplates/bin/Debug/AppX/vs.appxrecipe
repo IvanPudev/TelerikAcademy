@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VOROBYOV</Machine>
+    <WindowsUser>Georgi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B3FED35A772D9F1F4CAB64F77ED99F4BF6846C4C8F31A789D539C8D70203A532</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>99bd61dd-c98f-4988-909e-c3966d2b3bd5_1.0.0.0_neutral__mn0dvqpmbk0m2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>99bd61dd-c98f-4988-909e-c3966d2b3bd5_mn0dvqpmbk0m2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>99bd61dd-c98f-4988-909e-c3966d2b3bd5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=George</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-30T20:08:24.756</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-08-30T20:18:30.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-30T20:39:18.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\images\hp-650.jpg">
+      <PackagePath>images\hp-650.jpg</PackagePath>
+      <Modified>2013-08-25T21:16:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T16:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T16:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T16:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T16:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\images\studio-1535.png">
+      <PackagePath>images\studio-1535.png</PackagePath>
+      <Modified>2013-08-25T20:49:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2013-08-30T20:14:17.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-08-30T20:40:10.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\CollectionControls\DeclarativeTemplates\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-30T20:08:23.113</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

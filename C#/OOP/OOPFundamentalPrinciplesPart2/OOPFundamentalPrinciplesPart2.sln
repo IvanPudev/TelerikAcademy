@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{2077D1F8-408C-484B-980C-ADCCF4AC5340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{1B6AF55C-C646-4559-9677-BE6421028F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvalidRAngeException", "InvalidRAngeException\InvalidRAngeException.csproj", "{2785709A-35C6-4668-8489-7B82AA08835B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2077D1F8-408C-484B-980C-ADCCF4AC5340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2077D1F8-408C-484B-980C-ADCCF4AC5340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2077D1F8-408C-484B-980C-ADCCF4AC5340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2077D1F8-408C-484B-980C-ADCCF4AC5340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6AF55C-C646-4559-9677-BE6421028F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6AF55C-C646-4559-9677-BE6421028F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6AF55C-C646-4559-9677-BE6421028F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6AF55C-C646-4559-9677-BE6421028F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2785709A-35C6-4668-8489-7B82AA08835B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2785709A-35C6-4668-8489-7B82AA08835B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2785709A-35C6-4668-8489-7B82AA08835B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2785709A-35C6-4668-8489-7B82AA08835B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

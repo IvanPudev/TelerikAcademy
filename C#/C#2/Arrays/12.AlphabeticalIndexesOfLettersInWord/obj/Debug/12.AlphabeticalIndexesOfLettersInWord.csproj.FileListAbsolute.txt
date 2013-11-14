@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Arrays\12.AlphabeticalIndexesOfLettersInWord\bin\Debug\12.AlphabeticalIndexesOfLettersInWord.exe.config
+F:\SourceCode\C#\Arrays\12.AlphabeticalIndexesOfLettersInWord\bin\Debug\12.AlphabeticalIndexesOfLettersInWord.exe
+F:\SourceCode\C#\Arrays\12.AlphabeticalIndexesOfLettersInWord\bin\Debug\12.AlphabeticalIndexesOfLettersInWord.pdb
+F:\SourceCode\C#\Arrays\12.AlphabeticalIndexesOfLettersInWord\obj\Debug\12.AlphabeticalIndexesOfLettersInWord.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Arrays\12.AlphabeticalIndexesOfLettersInWord\obj\Debug\12.AlphabeticalIndexesOfLettersInWord.exe
+F:\SourceCode\C#\Arrays\12.AlphabeticalIndexesOfLettersInWord\obj\Debug\12.AlphabeticalIndexesOfLettersInWord.pdb

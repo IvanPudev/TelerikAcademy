@@ -1,0 +1,5 @@
+F:\SourceCode\HTMLCode\SemanticHTML\SemanticHTML\bin\SemanticHTML.dll
+F:\SourceCode\HTMLCode\SemanticHTML\SemanticHTML\bin\SemanticHTML.pdb
+F:\SourceCode\HTMLCode\SemanticHTML\SemanticHTML\obj\Debug\SemanticHTML.csprojResolveAssemblyReference.cache
+F:\SourceCode\HTMLCode\SemanticHTML\SemanticHTML\obj\Debug\SemanticHTML.dll
+F:\SourceCode\HTMLCode\SemanticHTML\SemanticHTML\obj\Debug\SemanticHTML.pdb

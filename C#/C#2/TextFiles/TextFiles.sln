@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ReadAndPrintTextFile", "ReadAndPrintTextFile\1.ReadAndPrintTextFile.csproj", "{6E32F686-1B53-466C-972D-713B66CDCA92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConcatenateTwoTextFiles", "ConcatenateTwoTextFiles\2.ConcatenateTwoTextFiles.csproj", "{99F559F5-94AC-469E-B8DA-9A5A400B37CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.InsertLineNumbers", "InsertLineNumbers\3.InsertLineNumbers.csproj", "{886B665C-363C-465F-AE74-11FD95EFC7EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.CompareEqualLinesInTextFiles", "CompareEqualLinesInTextFiles\4.CompareEqualLinesInTextFiles.csproj", "{12285624-E803-4939-B2CA-7EDA810BCB1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E32F686-1B53-466C-972D-713B66CDCA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E32F686-1B53-466C-972D-713B66CDCA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E32F686-1B53-466C-972D-713B66CDCA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E32F686-1B53-466C-972D-713B66CDCA92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F559F5-94AC-469E-B8DA-9A5A400B37CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F559F5-94AC-469E-B8DA-9A5A400B37CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F559F5-94AC-469E-B8DA-9A5A400B37CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F559F5-94AC-469E-B8DA-9A5A400B37CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886B665C-363C-465F-AE74-11FD95EFC7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886B665C-363C-465F-AE74-11FD95EFC7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886B665C-363C-465F-AE74-11FD95EFC7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886B665C-363C-465F-AE74-11FD95EFC7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12285624-E803-4939-B2CA-7EDA810BCB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12285624-E803-4939-B2CA-7EDA810BCB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12285624-E803-4939-B2CA-7EDA810BCB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12285624-E803-4939-B2CA-7EDA810BCB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

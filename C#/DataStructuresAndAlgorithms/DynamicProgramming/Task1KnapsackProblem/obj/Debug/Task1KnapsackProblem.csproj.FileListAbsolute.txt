@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DynamicProgramming\Task1KnapsackProblem\bin\Debug\Task1KnapsackProblem.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DynamicProgramming\Task1KnapsackProblem\obj\Debug\Task1KnapsackProblem.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DynamicProgramming\Task1KnapsackProblem\bin\Debug\Task1KnapsackProblem.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DynamicProgramming\Task1KnapsackProblem\bin\Debug\Task1KnapsackProblem.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DynamicProgramming\Task1KnapsackProblem\obj\Debug\Task1KnapsackProblem.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\DynamicProgramming\Task1KnapsackProblem\obj\Debug\Task1KnapsackProblem.pdb

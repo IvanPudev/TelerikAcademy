@@ -1,0 +1,217 @@
+﻿html,
+body,
+header,
+div,
+form,
+article,
+li,
+ul,
+nav,
+p,
+a,
+button,
+footer,
+label,
+input,
+h1,
+h2,
+time,
+section,
+aside,
+strong,
+em {
+  margin: 0px;
+  padding: 0px;
+}
+.Gradient {
+  background: #d593ff;
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Q1OTNmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjE5JSIgc3RvcC1jb2xvcj0iIzkxMTdmMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM5MjE1ZjIiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+  background: -moz-linear-gradient(top, #d593ff 0%, #9117f1 19%, #9215f2 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #d593ff), color-stop(19%, #9117f1), color-stop(100%, #9215f2));
+  background: -webkit-linear-gradient(top, #d593ff 0%, #9117f1 19%, #9215f2 100%);
+  background: -o-linear-gradient(top, #d593ff 0%, #9117f1 19%, #9215f2 100%);
+  background: -ms-linear-gradient(top, #d593ff 0%, #9117f1 19%, #9215f2 100%);
+  background: linear-gradient(to bottom, #d593ff 0%, #9117f1 19%, #9215f2 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d593ff', endColorstr='#9215f2', GradientType=0);
+}
+.clearfix {
+  zoom: 1;
+}
+.clearfix:after {
+  display: block;
+  content: "";
+  height: 0;
+  clear: both;
+}
+.clearfix-before {
+  zoom: 1;
+}
+.clearfix-before:before {
+  display: block;
+  content: "";
+  height: 0;
+  clear: both;
+}
+body {
+  background: #d593ff;
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Q1OTNmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjE5JSIgc3RvcC1jb2xvcj0iIzkxMTdmMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM5MjE1ZjIiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+  background: -moz-linear-gradient(top, #d593ff 0%, #9117f1 19%, #9215f2 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #d593ff), color-stop(19%, #9117f1), color-stop(100%, #9215f2));
+  background: -webkit-linear-gradient(top, #d593ff 0%, #9117f1 19%, #9215f2 100%);
+  background: -o-linear-gradient(top, #d593ff 0%, #9117f1 19%, #9215f2 100%);
+  background: -ms-linear-gradient(top, #d593ff 0%, #9117f1 19%, #9215f2 100%);
+  background: linear-gradient(to bottom, #d593ff 0%, #9117f1 19%, #9215f2 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d593ff', endColorstr='#9215f2', GradientType=0);
+  color: white;
+  height: 100%;
+  zoom: 1;
+}
+body:before {
+  display: block;
+  content: "";
+  height: 0;
+  clear: both;
+}
+body a:visited {
+  color: #AAAAAA;
+}
+body header div#header-container {
+  zoom: 1;
+}
+body header div#header-container:after {
+  display: block;
+  content: "";
+  height: 0;
+  clear: both;
+}
+body header div#logo-container {
+  padding: 30px 20px;
+  float: left;
+}
+body header div#reg-form-container {
+  font-size: small;
+  padding: 30px 100px;
+  float: right;
+}
+body header div#reg-form-container input {
+  margin-left: 10px;
+  background-color: #B35EF3;
+  border: 1px solid black;
+  border-radius: 15px;
+  height: 20px;
+  margin-bottom: 3px;
+  padding: 0px 10px;
+}
+body header div#reg-form-container button#btn-register {
+  background-color: #B35EF3;
+  border-radius: 10px;
+  height: 30px;
+  width: 70px;
+  color: white;
+  font-weight: bold;
+}
+body header nav ul#main-nav-list {
+  margin-left: 30px;
+  list-style-type: none;
+  font-size: large;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding-top: 10px;
+  width: 75%;
+  height: 30px;
+}
+body header nav ul#main-nav-list li {
+  display: inline-block;
+}
+body header nav ul#main-nav-list li:hover ul {
+  display: block;
+}
+body header nav ul#main-nav-list li a {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
+body header nav ul#main-nav-list li a:hover {
+  text-decoration: underline;
+}
+body header nav ul#main-nav-list ul.sub-nav-list {
+  border-radius: 10px;
+  position: absolute;
+  width: 210px;
+  height: 150px;
+  background-color: gray;
+}
+body header nav ul#main-nav-list ul.sub-nav-list li {
+  display: block;
+}
+body header nav ul#main-nav-list ul.nav-list {
+  display: none;
+}
+body section {
+  float: left;
+  width: 70%;
+}
+body section article {
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 15px;
+  margin: 20px;
+}
+body section article h1 {
+  padding-left: 5px;
+}
+body section article footer p a {
+  color: #D0A3F7;
+}
+body section article footer p time {
+  font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', monospace;
+}
+body section footer {
+  text-align: right;
+  margin: 0px;
+  padding: 0px;
+}
+body aside {
+  float: right;
+  width: 25%;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+body aside ul {
+  padding-left: 3em;
+}
+body aside ul li {
+  list-style-type: none;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+body aside ul li h2 {
+  padding-left: 5px;
+  font-size: 1.2em;
+}
+body aside ul li p a {
+  text-decoration: none;
+  color: #C4CCCC;
+}
+body aside ul li p strong {
+  color: #CCCCD1;
+}
+body aside ul li p em {
+  color: #CCCCD1;
+}
+body aside ul li ul li {
+  padding: 0px;
+  border: none;
+  list-style-image: url(li-dot.png);
+}
+body aside ul li ul li a {
+  padding: 0px;
+}
+body footer {
+  clear: both;
+  text-align: center;
+  margin: 0px 0px 150px 0px;
+  padding: 50px;
+}

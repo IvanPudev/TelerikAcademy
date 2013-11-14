@@ -1,0 +1,5 @@
+F:\SourceCode\C#\Arrays\14.SortStringArrayWithQuickSort\bin\Debug\14.SortStringArrayWithQuickSort.exe.config
+F:\SourceCode\C#\Arrays\14.SortStringArrayWithQuickSort\bin\Debug\14.SortStringArrayWithQuickSort.exe
+F:\SourceCode\C#\Arrays\14.SortStringArrayWithQuickSort\bin\Debug\14.SortStringArrayWithQuickSort.pdb
+F:\SourceCode\C#\Arrays\14.SortStringArrayWithQuickSort\obj\Debug\14.SortStringArrayWithQuickSort.exe
+F:\SourceCode\C#\Arrays\14.SortStringArrayWithQuickSort\obj\Debug\14.SortStringArrayWithQuickSort.pdb

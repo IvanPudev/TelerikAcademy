@@ -1,0 +1,6 @@
+F:\SourceCode\C#\ConditionalStatements\10.BonusPointsOnScores\bin\Debug\10.BonusPointsOnScores.exe.config
+F:\SourceCode\C#\ConditionalStatements\10.BonusPointsOnScores\bin\Debug\10.BonusPointsOnScores.exe
+F:\SourceCode\C#\ConditionalStatements\10.BonusPointsOnScores\bin\Debug\10.BonusPointsOnScores.pdb
+F:\SourceCode\C#\ConditionalStatements\10.BonusPointsOnScores\obj\Debug\10.BonusPointsOnScores.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\ConditionalStatements\10.BonusPointsOnScores\obj\Debug\10.BonusPointsOnScores.exe
+F:\SourceCode\C#\ConditionalStatements\10.BonusPointsOnScores\obj\Debug\10.BonusPointsOnScores.pdb

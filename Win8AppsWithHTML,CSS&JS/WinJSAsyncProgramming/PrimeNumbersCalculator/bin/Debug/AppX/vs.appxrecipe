@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MA6INA</Machine>
+    <WindowsUser>zloupotrebitel</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>AD146A49BCC3050F757231A7F90FC93F974009F29C017ECC061DFE4F9BF1E785</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8720a3b4-0c69-4bb3-bbb7-7f3412ca1b47_1.0.0.0_neutral__bzr8dh3gcmq2w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8720a3b4-0c69-4bb3-bbb7-7f3412ca1b47_bzr8dh3gcmq2w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8720a3b4-0c69-4bb3-bbb7-7f3412ca1b47</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=zloupotrebitel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSAsyncProgramming\PrimeNumbersCalculator\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-25T11:20:11.287</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSAsyncProgramming\PrimeNumbersCalculator\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-27T17:22:39.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSAsyncProgramming\PrimeNumbersCalculator\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSAsyncProgramming\PrimeNumbersCalculator\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSAsyncProgramming\PrimeNumbersCalculator\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSAsyncProgramming\PrimeNumbersCalculator\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSAsyncProgramming\PrimeNumbersCalculator\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-08-27T18:31:41.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSAsyncProgramming\PrimeNumbersCalculator\js\PrimesCalculator.js">
+      <PackagePath>js\PrimesCalculator.js</PackagePath>
+      <Modified>2013-08-27T18:19:27.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSAsyncProgramming\PrimeNumbersCalculator\js\primesWorker.js">
+      <PackagePath>js\primesWorker.js</PackagePath>
+      <Modified>2013-08-27T18:32:45.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSAsyncProgramming\PrimeNumbersCalculator\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zloupotrebitel\SkyDrive\SourceCode\Win8AppsWithHTML,CSS&amp;JS\WinJSAsyncProgramming\PrimeNumbersCalculator\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-25T11:20:10.567</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

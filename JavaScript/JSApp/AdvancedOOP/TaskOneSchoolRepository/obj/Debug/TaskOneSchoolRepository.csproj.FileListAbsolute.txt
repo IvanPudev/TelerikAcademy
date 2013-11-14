@@ -1,0 +1,5 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\JSApp\AdvancedOOP\TaskOneSchoolRepository\bin\TaskOneSchoolRepository.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\JSApp\AdvancedOOP\TaskOneSchoolRepository\bin\TaskOneSchoolRepository.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\JSApp\AdvancedOOP\TaskOneSchoolRepository\obj\Debug\TaskOneSchoolRepository.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\JSApp\AdvancedOOP\TaskOneSchoolRepository\obj\Debug\TaskOneSchoolRepository.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\JSApp\AdvancedOOP\TaskOneSchoolRepository\obj\Debug\TaskOneSchoolRepository.pdb

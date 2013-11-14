@@ -1,0 +1,6 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task6_7WorkWithMSExcelFiles\bin\Debug\Task6_7WorkWithMSExcelFiles.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task6_7WorkWithMSExcelFiles\bin\Debug\Task6_7WorkWithMSExcelFiles.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task6_7WorkWithMSExcelFiles\bin\Debug\Task6_7WorkWithMSExcelFiles.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task6_7WorkWithMSExcelFiles\obj\Debug\Task6_7WorkWithMSExcelFiles.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task6_7WorkWithMSExcelFiles\obj\Debug\Task6_7WorkWithMSExcelFiles.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\DataAccsessWithADONET\Task6_7WorkWithMSExcelFiles\obj\Debug\Task6_7WorkWithMSExcelFiles.pdb

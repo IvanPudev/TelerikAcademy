@@ -1,0 +1,6 @@
+F:\SourceCode\C#\OperatorsAndExpressions\7.PrimeNumbers\bin\Debug\7.PrimeNumbers.exe.config
+F:\SourceCode\C#\OperatorsAndExpressions\7.PrimeNumbers\bin\Debug\7.PrimeNumbers.exe
+F:\SourceCode\C#\OperatorsAndExpressions\7.PrimeNumbers\bin\Debug\7.PrimeNumbers.pdb
+F:\SourceCode\C#\OperatorsAndExpressions\7.PrimeNumbers\obj\Debug\7.PrimeNumbers.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\OperatorsAndExpressions\7.PrimeNumbers\obj\Debug\7.PrimeNumbers.exe
+F:\SourceCode\C#\OperatorsAndExpressions\7.PrimeNumbers\obj\Debug\7.PrimeNumbers.pdb

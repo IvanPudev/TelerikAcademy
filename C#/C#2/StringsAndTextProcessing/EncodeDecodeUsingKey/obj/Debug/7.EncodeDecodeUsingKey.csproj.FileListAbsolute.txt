@@ -1,0 +1,6 @@
+F:\SourceCode\C#\StringsAndTextProcessing\EncodeDecodeUsingKey\bin\Debug\EncodeDecodeUsingKey.exe.config
+F:\SourceCode\C#\StringsAndTextProcessing\EncodeDecodeUsingKey\obj\Debug\7.EncodeDecodeUsingKey.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\StringsAndTextProcessing\EncodeDecodeUsingKey\bin\Debug\EncodeDecodeUsingKey.exe
+F:\SourceCode\C#\StringsAndTextProcessing\EncodeDecodeUsingKey\bin\Debug\EncodeDecodeUsingKey.pdb
+F:\SourceCode\C#\StringsAndTextProcessing\EncodeDecodeUsingKey\obj\Debug\EncodeDecodeUsingKey.exe
+F:\SourceCode\C#\StringsAndTextProcessing\EncodeDecodeUsingKey\obj\Debug\EncodeDecodeUsingKey.pdb

@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Arrays\10.FindGivvenSumInArray\bin\Debug\10.FindGivvenSumInArray.exe.config
+F:\SourceCode\C#\Arrays\10.FindGivvenSumInArray\bin\Debug\10.FindGivvenSumInArray.exe
+F:\SourceCode\C#\Arrays\10.FindGivvenSumInArray\bin\Debug\10.FindGivvenSumInArray.pdb
+F:\SourceCode\C#\Arrays\10.FindGivvenSumInArray\obj\Debug\10.FindGivvenSumInArray.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Arrays\10.FindGivvenSumInArray\obj\Debug\10.FindGivvenSumInArray.exe
+F:\SourceCode\C#\Arrays\10.FindGivvenSumInArray\obj\Debug\10.FindGivvenSumInArray.pdb

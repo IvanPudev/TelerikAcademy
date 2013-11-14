@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\9.FibonacciSequence\bin\Debug\9.FibonacciSequence.exe.config
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\9.FibonacciSequence\bin\Debug\9.FibonacciSequence.exe
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\9.FibonacciSequence\bin\Debug\9.FibonacciSequence.pdb
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\9.FibonacciSequence\obj\Debug\9.FibonacciSequence.exe
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\9.FibonacciSequence\obj\Debug\9.FibonacciSequence.pdb
+C:\Users\User\Desktop\Homework\ConsoleInputAndOutput\9.FibonacciSequence\obj\Debug\9.FibonacciSequence.csprojResolveAssemblyReference.cache

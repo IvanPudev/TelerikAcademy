@@ -1,0 +1,6 @@
+F:\SourceCode\C#\TextFiles\CompareEqualLinesInTextFiles\bin\Debug\CompareEqualLinesInTextFiles.exe.config
+F:\SourceCode\C#\TextFiles\CompareEqualLinesInTextFiles\bin\Debug\CompareEqualLinesInTextFiles.exe
+F:\SourceCode\C#\TextFiles\CompareEqualLinesInTextFiles\bin\Debug\CompareEqualLinesInTextFiles.pdb
+F:\SourceCode\C#\TextFiles\CompareEqualLinesInTextFiles\obj\Debug\4.CompareEqualLinesInTextFiles.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\TextFiles\CompareEqualLinesInTextFiles\obj\Debug\CompareEqualLinesInTextFiles.exe
+F:\SourceCode\C#\TextFiles\CompareEqualLinesInTextFiles\obj\Debug\CompareEqualLinesInTextFiles.pdb

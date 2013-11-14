@@ -1,0 +1,5 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task3CombinationWithoutRepeating\bin\Debug\Task3CombinationWithoutRepeating.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task3CombinationWithoutRepeating\bin\Debug\Task3CombinationWithoutRepeating.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task3CombinationWithoutRepeating\bin\Debug\Task3CombinationWithoutRepeating.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task3CombinationWithoutRepeating\obj\Debug\Task3CombinationWithoutRepeating.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\Recursion\Task3CombinationWithoutRepeating\obj\Debug\Task3CombinationWithoutRepeating.pdb

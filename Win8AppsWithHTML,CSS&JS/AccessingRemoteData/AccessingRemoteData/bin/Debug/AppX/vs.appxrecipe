@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VOROBYOV</Machine>
+    <WindowsUser>Georgi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>ED55423CD83D6BA877938C2F7EB842F69E652DC892D06D6913C28839F3E7B02A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>df36befe-d247-49da-88c7-d7a3b269a0d6_1.0.0.0_neutral__npysjcx1rdjd6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>df36befe-d247-49da-88c7-d7a3b269a0d6_npysjcx1rdjd6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>df36befe-d247-49da-88c7-d7a3b269a0d6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Georgi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-30T16:26:35.512</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-08-29T21:38:35.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\pages\add\add.css">
+      <PackagePath>pages\add\add.css</PackagePath>
+      <Modified>2013-08-30T16:25:44.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2013-08-29T21:38:35.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-08-30T16:26:11.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-08-29T21:38:35.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\pages\add\add.js">
+      <PackagePath>pages\add\add.js</PackagePath>
+      <Modified>2013-08-30T19:20:00.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2013-08-30T18:52:02.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\pages\add\add.html">
+      <PackagePath>pages\add\add.html</PackagePath>
+      <Modified>2013-08-30T19:20:36.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2013-08-30T19:21:48.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-30T19:22:43.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\AccessingRemoteData\AccessingRemoteData\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-30T16:26:35.028</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

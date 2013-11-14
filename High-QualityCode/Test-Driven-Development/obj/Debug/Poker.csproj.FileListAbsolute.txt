@@ -1,0 +1,5 @@
+G:\11. Test-Driven-Development-Demo-Homework\bin\Debug\Poker.exe
+G:\11. Test-Driven-Development-Demo-Homework\bin\Debug\Poker.pdb
+G:\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+G:\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.exe
+G:\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.pdb

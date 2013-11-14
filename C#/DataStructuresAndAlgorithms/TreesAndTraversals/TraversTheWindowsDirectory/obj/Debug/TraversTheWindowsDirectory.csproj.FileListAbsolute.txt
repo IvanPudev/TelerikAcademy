@@ -1,0 +1,5 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\TraversTheWindowsDirectory\bin\Debug\TraversTheWindowsDirectory.exe.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\TraversTheWindowsDirectory\bin\Debug\TraversTheWindowsDirectory.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\TraversTheWindowsDirectory\bin\Debug\TraversTheWindowsDirectory.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\TraversTheWindowsDirectory\obj\Debug\TraversTheWindowsDirectory.exe
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\C#\DataStructuresAndAlgorithms\TreesAndTraversals\TraversTheWindowsDirectory\obj\Debug\TraversTheWindowsDirectory.pdb

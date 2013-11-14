@@ -1,0 +1,6 @@
+F:\SourceCode\C#\ExceptionsHendling\SquareRootException\bin\Debug\SquareRootException.exe.config
+F:\SourceCode\C#\ExceptionsHendling\SquareRootException\bin\Debug\SquareRootException.exe
+F:\SourceCode\C#\ExceptionsHendling\SquareRootException\bin\Debug\SquareRootException.pdb
+F:\SourceCode\C#\ExceptionsHendling\SquareRootException\obj\Debug\1.SquareRootException.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\ExceptionsHendling\SquareRootException\obj\Debug\SquareRootException.exe
+F:\SourceCode\C#\ExceptionsHendling\SquareRootException\obj\Debug\SquareRootException.pdb

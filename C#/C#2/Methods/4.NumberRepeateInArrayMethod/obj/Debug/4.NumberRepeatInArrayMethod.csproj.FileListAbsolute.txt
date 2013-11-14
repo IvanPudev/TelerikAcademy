@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Methods\4.NumberRepeateInArrayMethod\bin\Debug\4.NumberRepeateInArrayMethod.exe.config
+F:\SourceCode\C#\Methods\4.NumberRepeateInArrayMethod\bin\Debug\4.NumberRepeateInArrayMethod.exe
+F:\SourceCode\C#\Methods\4.NumberRepeateInArrayMethod\bin\Debug\4.NumberRepeateInArrayMethod.pdb
+F:\SourceCode\C#\Methods\4.NumberRepeateInArrayMethod\obj\Debug\4.NumberRepeatInArrayMethod.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Methods\4.NumberRepeateInArrayMethod\obj\Debug\4.NumberRepeateInArrayMethod.exe
+F:\SourceCode\C#\Methods\4.NumberRepeateInArrayMethod\obj\Debug\4.NumberRepeateInArrayMethod.pdb

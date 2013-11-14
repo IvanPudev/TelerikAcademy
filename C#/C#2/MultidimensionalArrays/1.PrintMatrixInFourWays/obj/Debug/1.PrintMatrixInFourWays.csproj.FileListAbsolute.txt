@@ -1,0 +1,6 @@
+F:\SourceCode\C#\MultidimensionalArrays\1.PrintMatrixInFourWays\bin\Debug\1.PrintMatrixInFourWays.exe.config
+F:\SourceCode\C#\MultidimensionalArrays\1.PrintMatrixInFourWays\bin\Debug\1.PrintMatrixInFourWays.exe
+F:\SourceCode\C#\MultidimensionalArrays\1.PrintMatrixInFourWays\bin\Debug\1.PrintMatrixInFourWays.pdb
+F:\SourceCode\C#\MultidimensionalArrays\1.PrintMatrixInFourWays\obj\Debug\1.PrintMatrixInFourWays.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\MultidimensionalArrays\1.PrintMatrixInFourWays\obj\Debug\1.PrintMatrixInFourWays.exe
+F:\SourceCode\C#\MultidimensionalArrays\1.PrintMatrixInFourWays\obj\Debug\1.PrintMatrixInFourWays.pdb

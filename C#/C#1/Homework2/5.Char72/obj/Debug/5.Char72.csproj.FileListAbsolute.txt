@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Homework2\5.Char72\bin\Debug\5.Char72.exe.config
+F:\SourceCode\C#\Homework2\5.Char72\bin\Debug\5.Char72.exe
+F:\SourceCode\C#\Homework2\5.Char72\bin\Debug\5.Char72.pdb
+F:\SourceCode\C#\Homework2\5.Char72\obj\Debug\5.Char72.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Homework2\5.Char72\obj\Debug\5.Char72.exe
+F:\SourceCode\C#\Homework2\5.Char72\obj\Debug\5.Char72.pdb

@@ -1,0 +1,5 @@
+F:\SourceCode\C#\OperatorsAndExpressions\8.AreaOfTrapezoid\bin\Debug\8.AreaOfTrapezoid.exe.config
+F:\SourceCode\C#\OperatorsAndExpressions\8.AreaOfTrapezoid\bin\Debug\8.AreaOfTrapezoid.exe
+F:\SourceCode\C#\OperatorsAndExpressions\8.AreaOfTrapezoid\bin\Debug\8.AreaOfTrapezoid.pdb
+F:\SourceCode\C#\OperatorsAndExpressions\8.AreaOfTrapezoid\obj\Debug\8.AreaOfTrapezoid.exe
+F:\SourceCode\C#\OperatorsAndExpressions\8.AreaOfTrapezoid\obj\Debug\8.AreaOfTrapezoid.pdb

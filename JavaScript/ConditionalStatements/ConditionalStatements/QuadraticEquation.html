@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>FindTheBiggestInt</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		input[type=text]{
+			border:1px solid black;
+			padding:5px 15px;
+			background-color:black;
+			color:white;
+			font-family:Consolas;		   
+			margin-bottom:5px;
+		}
+
+		a{
+			color:black;
+			border:1px solid black;
+			padding:5px 15px;						
+			text-decoration:none;	   
+			display:inline-block;		 
+			margin: 15px 0;
+		}
+
+		a:hover{
+			text-decoration:underline;
+		}
+	</style>
+
+</head>
+<body>
+    <label for="a">Enter coefficient a: </label>
+	<input type="text" id="a"/>
+    <label for="b">Enter coefficient b: </label>
+	<input type="text" id="b"/>
+    <label for="c">Enter coefficient c: </label>
+	<input type="text" id="c"/>
+    <a href="#" onclick="onGOButtonClick()">GO</a>
+	<div id="js-console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>		  
+	<script>
+	    function onGOButtonClick() {
+	        var a= jsConsole.readFloat("#a");
+	        var b = jsConsole.readFloat("#b");
+	        var c = jsConsole.readFloat("#c");
+	        var x1;
+	        var x2;
+	        var d;
+	        if (a == 0) {
+	            jsConsole.writeLine("The equation is not quadratic.");
+	        }
+	        else {
+	            d = b * b - 4 * a * c;
+	            if (d < 0) {
+	                jsConsole.writeLine("The equation has no real roots.");
+	            }
+	            else if (d == 0) {
+	                x1 = -b / 2 * a;
+	                jsConsole.writeLine("The discriminant is 0. The root is x = " + x1);
+	            }
+	            else if (d > 0) {
+	                x1 = (-b + d) / 2 * a;
+	                x2 = (-b - d) / 2 * a;
+	                jsConsole.writeLine("The roots of the equation are x1 = " + x1 + " and x2 = " + x2);
+	            }
+	        }
+	    }
+	</script>		
+</body>
+</html>
+

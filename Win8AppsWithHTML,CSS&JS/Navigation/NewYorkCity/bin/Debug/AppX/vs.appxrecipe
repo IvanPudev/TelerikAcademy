@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VOROBYOV</Machine>
+    <WindowsUser>Georgi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>FEBFC378EE0159F3C5C36E91FC9ABBD9D14CE8895A4D402BC2F80EF362225518</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c701cb32-f20f-4e09-b2b0-89947ef2d0cb_1.0.0.0_neutral__npysjcx1rdjd6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c701cb32-f20f-4e09-b2b0-89947ef2d0cb_npysjcx1rdjd6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c701cb32-f20f-4e09-b2b0-89947ef2d0cb</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Georgi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-26T20:42:32.465</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-08-26T20:49:51.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\pages\architecture\architecture.css">
+      <PackagePath>pages\architecture\architecture.css</PackagePath>
+      <Modified>2013-08-26T20:49:41.909</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\pages\geography\geography.css">
+      <PackagePath>pages\geography\geography.css</PackagePath>
+      <Modified>2013-08-26T20:38:27.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\pages\history\history.css">
+      <PackagePath>pages\history\history.css</PackagePath>
+      <Modified>2013-08-26T20:30:13.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2013-08-26T20:52:20.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T15:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-08-26T20:01:11.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-08-26T20:01:11.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\pages\architecture\architecture.js">
+      <PackagePath>pages\architecture\architecture.js</PackagePath>
+      <Modified>2013-08-26T20:40:52.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\pages\geography\geography.js">
+      <PackagePath>pages\geography\geography.js</PackagePath>
+      <Modified>2013-08-26T20:38:26.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\pages\history\history.js">
+      <PackagePath>pages\history\history.js</PackagePath>
+      <Modified>2013-08-26T20:30:13.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2013-08-26T20:43:10.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\pages\architecture\architecture.html">
+      <PackagePath>pages\architecture\architecture.html</PackagePath>
+      <Modified>2013-08-26T20:44:59.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\pages\geography\geography.html">
+      <PackagePath>pages\geography\geography.html</PackagePath>
+      <Modified>2013-08-26T20:41:46.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\pages\history\history.html">
+      <PackagePath>pages\history\history.html</PackagePath>
+      <Modified>2013-08-26T20:37:43.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2013-08-26T20:26:03.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-26T20:05:35.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\Telerik\WinJs\Navigation\NewYorkCity\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-26T20:42:32.207</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

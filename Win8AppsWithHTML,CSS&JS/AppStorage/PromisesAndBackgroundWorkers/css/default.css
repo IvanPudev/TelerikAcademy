@@ -1,0 +1,40 @@
+﻿body {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.left {
+    float: left;
+    width: 30%;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+button {
+    display: block;
+}
+
+.result {
+    word-break: break-all;
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+}
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+    .left {
+        width: 250px;
+    }
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}

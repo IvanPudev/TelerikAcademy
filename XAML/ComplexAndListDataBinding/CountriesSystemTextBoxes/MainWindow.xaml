@@ -1,0 +1,27 @@
+﻿<Window x:Class="CountriesSystemTextBoxes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vms="clr-namespace:ViewModels;assembly=ViewModels"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.DataContext>
+        <vms:CountriesSystemViewModel/>
+    </Window.DataContext>
+    
+    <StackPanel Orientation="Horizontal">
+        <Border Height="250" Width="200" Margin="20" BorderBrush="black" BorderThickness="1">
+            <StackPanel DataContext="{Binding CountryViewModel}" Name="Country">
+                <TextBlock FontSize="16" TextAlignment="Center" FontWeight="ExtraBold">Country</TextBlock>
+                <StackPanel Height="100">
+                    <Label FontWeight="Bold">Name</Label>
+                    <TextBox Text="{Binding Name}"></TextBox>
+                    <Label FontWeight="Bold">Language</Label>
+                    <TextBox Text="{Binding Language}"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="40">
+                    <Button Click="OnPreviousCountryClick" Width="100">Previous</Button>
+                    <Button Click="OnNextCountryClick" Width="100">Next</Button>
+                </StackPanel>
+            </StackPanel> 
+        </Border> 
+    </StackPanel>
+</Window>

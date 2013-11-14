@@ -1,0 +1,5 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\XMLBasics\Students\bin\Debug\Students.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\XMLBasics\Students\bin\Debug\Students.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\XMLBasics\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\XMLBasics\Students\obj\Debug\Students.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\DataBase\XMLBasics\Students\obj\Debug\Students.pdb

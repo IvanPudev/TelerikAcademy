@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Homework1\3.PrintingNumbers1_101_1001\bin\Debug\3.PrintingNumbers1_101_1001.exe.config
+F:\SourceCode\C#\Homework1\3.PrintingNumbers1_101_1001\bin\Debug\3.PrintingNumbers1_101_1001.exe
+F:\SourceCode\C#\Homework1\3.PrintingNumbers1_101_1001\bin\Debug\3.PrintingNumbers1_101_1001.pdb
+F:\SourceCode\C#\Homework1\3.PrintingNumbers1_101_1001\obj\Debug\3.PrintingNumbers1_101_1001.exe
+F:\SourceCode\C#\Homework1\3.PrintingNumbers1_101_1001\obj\Debug\3.PrintingNumbers1_101_1001.pdb
+F:\SourceCode\C#\Homework1\3.PrintingNumbers1_101_1001\obj\Debug\3.PrintingNumbers1_101_1001.csprojResolveAssemblyReference.cache

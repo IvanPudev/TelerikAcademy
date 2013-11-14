@@ -1,0 +1,6 @@
+F:\SourceCode\C#\OOP\CommonTypeSystem\Persons\bin\Debug\Persons.exe.config
+F:\SourceCode\C#\OOP\CommonTypeSystem\Persons\bin\Debug\Persons.exe
+F:\SourceCode\C#\OOP\CommonTypeSystem\Persons\bin\Debug\Persons.pdb
+F:\SourceCode\C#\OOP\CommonTypeSystem\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\OOP\CommonTypeSystem\Persons\obj\Debug\Persons.exe
+F:\SourceCode\C#\OOP\CommonTypeSystem\Persons\obj\Debug\Persons.pdb

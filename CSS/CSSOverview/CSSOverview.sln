@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7BA8BAFE-0F1A-4D8B-AB35-19E3411C2B20}"
+	ProjectSection(SolutionItems) = preProject
+		1.TicketID.html = 1.TicketID.html
+		2.TableOfPromotions.html = 2.TableOfPromotions.html
+		3.Homework-3.html = 3.Homework-3.html
+		StyleH3.css = StyleH3.css
+		StylePromotions.css = StylePromotions.css
+		StyleTicket.css = StyleTicket.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\JSApp\AdvancedOOP\TaskTwoSliderPics\bin\TaskTwoSliderPics.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\JSApp\AdvancedOOP\TaskTwoSliderPics\bin\TaskTwoSliderPics.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\JSApp\AdvancedOOP\TaskTwoSliderPics\obj\Debug\TaskTwoSliderPics.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\JSApp\AdvancedOOP\TaskTwoSliderPics\obj\Debug\TaskTwoSliderPics.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\JavaScript\JSApp\AdvancedOOP\TaskTwoSliderPics\obj\Debug\TaskTwoSliderPics.pdb

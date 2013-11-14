@@ -1,0 +1,5 @@
+F:\SourceCode\HTMLCode\Homework2\Homework2\bin\Homework2.dll
+F:\SourceCode\HTMLCode\Homework2\Homework2\bin\Homework2.pdb
+F:\SourceCode\HTMLCode\Homework2\Homework2\obj\Debug\Homework2.csprojResolveAssemblyReference.cache
+F:\SourceCode\HTMLCode\Homework2\Homework2\obj\Debug\Homework2.dll
+F:\SourceCode\HTMLCode\Homework2\Homework2\obj\Debug\Homework2.pdb

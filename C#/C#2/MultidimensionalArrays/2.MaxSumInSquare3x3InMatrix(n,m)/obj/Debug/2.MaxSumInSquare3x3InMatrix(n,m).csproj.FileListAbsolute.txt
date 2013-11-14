@@ -1,0 +1,6 @@
+F:\SourceCode\C#\MultidimensionalArrays\2.MaxSumInSquare3x3InMatrix(n,m)\bin\Debug\2.MaxSumInSquare3x3InMatrix(n,m).exe.config
+F:\SourceCode\C#\MultidimensionalArrays\2.MaxSumInSquare3x3InMatrix(n,m)\bin\Debug\2.MaxSumInSquare3x3InMatrix(n,m).exe
+F:\SourceCode\C#\MultidimensionalArrays\2.MaxSumInSquare3x3InMatrix(n,m)\bin\Debug\2.MaxSumInSquare3x3InMatrix(n,m).pdb
+F:\SourceCode\C#\MultidimensionalArrays\2.MaxSumInSquare3x3InMatrix(n,m)\obj\Debug\2.MaxSumInSquare3x3InMatrix(n,m).csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\MultidimensionalArrays\2.MaxSumInSquare3x3InMatrix(n,m)\obj\Debug\2.MaxSumInSquare3x3InMatrix(n,m).exe
+F:\SourceCode\C#\MultidimensionalArrays\2.MaxSumInSquare3x3InMatrix(n,m)\obj\Debug\2.MaxSumInSquare3x3InMatrix(n,m).pdb

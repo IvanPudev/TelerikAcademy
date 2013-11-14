@@ -1,0 +1,1 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\C#\OOP\Extension-MethodsLamdaAndLINQ\UsingDelegatesTimer\bin\Debug\UsingDelegatesTimer.exe.config

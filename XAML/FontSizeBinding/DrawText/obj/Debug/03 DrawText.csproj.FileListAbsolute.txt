@@ -1,0 +1,3 @@
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\bin\Debug\DrawText.exe.config
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\obj\Debug\DrawText.exe
+C:\Projects\TelerikAkademy\WebDevelopment\Asp.net\FontSizeBinding\DrawText\obj\Debug\DrawText.pdb

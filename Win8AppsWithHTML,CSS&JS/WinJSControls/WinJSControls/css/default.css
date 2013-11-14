@@ -1,0 +1,32 @@
+﻿#date-calculator-control {
+    border-style: solid;
+    border-color: white;
+    display: inline-block;
+    padding: 20px;
+}
+
+    #date-calculator-control .win-datepicker,  #date-calculator-control .win-timepicker {
+        display: block;
+        text-align: center;
+    }
+
+    #date-calculator-control .win-toggleswitch {
+        display: inline-block;
+       
+    }
+
+    #date-calculator-control #calculate-button {
+        margin-left: 55px;
+    }
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}

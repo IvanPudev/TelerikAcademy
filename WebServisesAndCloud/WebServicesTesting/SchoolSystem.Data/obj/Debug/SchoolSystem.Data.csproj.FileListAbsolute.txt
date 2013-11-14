@@ -1,0 +1,10 @@
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Data\bin\Debug\SchoolSystem.Data.dll.config
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Data\bin\Debug\SchoolSystem.Data.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Data\bin\Debug\SchoolSystem.Data.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Data\bin\Debug\SchoolSystem.Model.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Data\bin\Debug\SchoolSystem.Model.pdb
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Data\obj\Debug\SchoolSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Data\obj\Debug\SchoolSystem.Data.dll
+C:\Users\zloupotrebitel\SkyDrive\SourceCode\WebServisesAndCloud\WebServicesTesting\SchoolSystem.Data\obj\Debug\SchoolSystem.Data.pdb

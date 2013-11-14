@@ -1,0 +1,5 @@
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\UsingObjects\UsingObjects\bin\UsingObjects.dll
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\UsingObjects\UsingObjects\bin\UsingObjects.pdb
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\UsingObjects\UsingObjects\obj\Debug\UsingObjects.csprojResolveAssemblyReference.cache
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\UsingObjects\UsingObjects\obj\Debug\UsingObjects.dll
+C:\Users\zloupotrebitel\Documents\Visual Studio 2012\Projects\JavaScript\UsingObjects\UsingObjects\obj\Debug\UsingObjects.pdb

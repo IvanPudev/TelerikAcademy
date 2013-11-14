@@ -1,0 +1,6 @@
+F:\SourceCode\C#\Methods\3.LastDiggitReturnMethod\bin\Debug\3.LastDiggitReturnMethod.exe.config
+F:\SourceCode\C#\Methods\3.LastDiggitReturnMethod\bin\Debug\3.LastDiggitReturnMethod.exe
+F:\SourceCode\C#\Methods\3.LastDiggitReturnMethod\bin\Debug\3.LastDiggitReturnMethod.pdb
+F:\SourceCode\C#\Methods\3.LastDiggitReturnMethod\obj\Debug\3.LastDiggitReturnMethod.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\Methods\3.LastDiggitReturnMethod\obj\Debug\3.LastDiggitReturnMethod.exe
+F:\SourceCode\C#\Methods\3.LastDiggitReturnMethod\obj\Debug\3.LastDiggitReturnMethod.pdb

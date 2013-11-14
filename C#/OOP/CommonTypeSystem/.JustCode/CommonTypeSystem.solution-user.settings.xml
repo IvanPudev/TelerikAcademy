@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="93e8d8b0-a484-43a6-ad36-ab63f6b364c7">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>Students/Student.cs</FileRelativePath>
+        <ProjectRelativePath>Students/Students.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>3718737356579247808</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

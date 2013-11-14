@@ -1,0 +1,6 @@
+F:\SourceCode\C#\OperatorsAndExpressions\14.ExchangeBitsRandomPlace\bin\Debug\14.ExchangeBitsRandomPlace.exe.config
+F:\SourceCode\C#\OperatorsAndExpressions\14.ExchangeBitsRandomPlace\bin\Debug\14.ExchangeBitsRandomPlace.exe
+F:\SourceCode\C#\OperatorsAndExpressions\14.ExchangeBitsRandomPlace\bin\Debug\14.ExchangeBitsRandomPlace.pdb
+F:\SourceCode\C#\OperatorsAndExpressions\14.ExchangeBitsRandomPlace\obj\Debug\14.ExchangeBitsRandomPlace.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\OperatorsAndExpressions\14.ExchangeBitsRandomPlace\obj\Debug\14.ExchangeBitsRandomPlace.exe
+F:\SourceCode\C#\OperatorsAndExpressions\14.ExchangeBitsRandomPlace\obj\Debug\14.ExchangeBitsRandomPlace.pdb

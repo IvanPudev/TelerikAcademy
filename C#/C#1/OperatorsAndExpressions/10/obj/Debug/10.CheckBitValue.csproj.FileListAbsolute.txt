@@ -1,0 +1,6 @@
+F:\SourceCode\C#\OperatorsAndExpressions\10\bin\Debug\10.exe.config
+F:\SourceCode\C#\OperatorsAndExpressions\10\obj\Debug\10.exe
+F:\SourceCode\C#\OperatorsAndExpressions\10\obj\Debug\10.pdb
+F:\SourceCode\C#\OperatorsAndExpressions\10\obj\Debug\10.CheckBitValue.csprojResolveAssemblyReference.cache
+F:\SourceCode\C#\OperatorsAndExpressions\10\bin\Debug\10.exe
+F:\SourceCode\C#\OperatorsAndExpressions\10\bin\Debug\10.pdb

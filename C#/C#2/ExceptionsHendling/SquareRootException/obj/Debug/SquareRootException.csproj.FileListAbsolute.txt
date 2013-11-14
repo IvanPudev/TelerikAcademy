@@ -1,0 +1,1 @@
+F:\SourceCode\C#\ExceptionsHendling\SquareRootException\bin\Debug\SquareRootException.exe.config

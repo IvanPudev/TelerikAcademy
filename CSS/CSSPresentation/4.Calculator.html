@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" type="text/css" href="StyleCalculator.css" />
+    <title></title>
+</head>
+<body>
+    <section class="calc">
+        <div id="menu">
+            <ul id="navigation-menu">
+                <li class="menu-tags">View</li><li class="menu-tags">Edit</li><li class="menu-tags">Help</li>
+            </ul>
+        </div>
+            <div id="body">
+                <div id="screen"></div>
+                <div id="byte-screen">
+                <table class="byte-screen-table">
+                    <tbody >
+                        <tr>
+                            <td class="bytes">0000</td><td class="bytes">0000</td><td class="bytes">0000</td><td class="bytes">0000</td><td class="bytes">0000</td><td class="bytes">0000</td><td class="bytes">0000</td><td class="bytes">0000</td>
+                        </tr>
+                        <tr>
+                            <td>63</td><td></td><td></td><td></td><td>47</td><td></td><td></td><td>32</td>
+                        </tr>
+                        <tr>
+                            <td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td>
+                        </tr>
+                        <tr>
+                            <td>31</td><td></td><td></td><td></td><td>15</td><td></td><td></td><td>0</td>
+                        </tr>
+                    </tbody>
+                </table>
+                </div>
+                <table>
+                    <tbody>
+                        <tr>
+                             <td><button class="button-off"> </button></td>
+                             <td><button>Mod</button></td>
+                             <td><button class="button-off">A</button></td>
+                             <td><button class="button-off">MC</button></td>
+                             <td><button class="button-off">MR</button></td>
+                             <td><button class="button-off">MS</button></td>
+                             <td><button class="button-off">M-</button></td>
+                             <td><button class="button-off">M+</button></td>
+                        </tr>
+                        <tr>
+                             <td><button>(</button></td>
+                             <td><button>)</button></td>
+                             <td><button class="button-off">B</button></td>
+                             <td><button>←</button></td>
+                             <td><button>CE</button></td>
+                             <td><button>C</button></td>
+                             <td><button>±</button></td>
+                             <td><button class="button-off">√</button></td>
+                        </tr>
+                        <tr>
+                             <td><button>RoL</button></td>
+                             <td><button>RoR</button></td>
+                             <td><button class="button-off">C</button></td>
+                             <td><button>7</button></td>
+                             <td><button>8</button></td>
+                             <td><button>9</button></td>
+                             <td><button>/</button></td>
+                             <td><button class="button-off">%</button></td>
+                        </tr>
+                         <tr>
+                             <td><button>Or</button></td>
+                             <td><button>Xor</button></td>
+                             <td><button class="button-off">D</button></td>
+                             <td><button>4</button></td>
+                             <td><button>5</button></td>
+                             <td><button>6</button></td>
+                             <td><button>*</button></td>
+                             <td><button class="button-off">1/x</button></td>
+                        </tr>
+                         <tr>
+                             <td><button>Lsh</button></td>
+                             <td><button>Rsh</button></td>
+                             <td><button class="button-off">E</button></td>
+                             <td><button>1</button></td>
+                             <td><button>2</button></td>
+                             <td><button>3</button></td>
+                             <td><button>-</button></td>
+                             <td rowspan="2"><button id="equal-button">=</button></td>
+                        </tr>
+                         <tr>
+                             <td><button>Not</button></td>
+                             <td><button>And</button></td>
+                             <td><button class="button-off">F</button></td>
+                             <td colspan="2"><button id="zero-button">0</button></td>
+                             <td><button class="button-off">.</button></td>
+                             <td><button>+</button></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <ul>
+                    <li><input type="radio" value="Hex" name="NumSys"/>Hex</li>
+                    <li><input type="radio" value="Dec" name="NumSys"/>Dec</li>
+                    <li><input type="radio" value="Oct" name="NumSys"/>Oct</li>
+                    <li><input type="radio" value="Bin" name="NumSys"/>Bin</li>
+                </ul>
+                <ul>
+                    <li><input type="radio" value="Qword" name="Word"/>Qword</li>
+                    <li><input type="radio" value="Dword" name="Word"/>Dword</li>
+                    <li><input type="radio" value="Word" name="Word"/>Word</li>
+                    <li><input type="radio" value="Byte" name="Word"/>Byte</li>
+                </ul>
+        </div>    
+    </section>
+</body>
+</html>
